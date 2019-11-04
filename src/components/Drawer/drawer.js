@@ -27,15 +27,22 @@ class SideDrawer extends Component {
       <div  className='b2'>
           <Icon type="menu" onClick={this.showDrawer} className='b1'/>
         <Drawer
-          title="Basic Drawer"
+          title="SideDrawer"
           placement={this.state.placement}
           closable={false}
           onClose={this.onClose}
           visible={this.state.visible}
           >
-          <p>Some contents...</p>
-          <p>Some contents...</p>
-          <p>Some contents...</p>
+
+          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
         </Drawer>
       </div>
     );
