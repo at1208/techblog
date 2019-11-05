@@ -1,10 +1,12 @@
 import React from 'react';
 import './header.css'
-import Drawer from '../Drawer/drawer'
+import Drawer from '../Drawer/drawer';
+ 
 
 const Header = () => {
   return <div className='container-fluid a1'>
-              <Drawer/>
+
+               <Drawer/>
          </div>
 }
 export default Header;

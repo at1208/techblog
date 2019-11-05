@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from '../Header/header';
 import './home.css'
-import { Carousel } from 'antd';
+import { Carousel,Rate } from 'antd';
 
 
 
@@ -10,7 +10,7 @@ class Home extends Component{
      return <div>
            <Header />
 
-           <div className= 'c1 '>
+           <div className= 'c1'>
                   <Carousel autoplay className=''>
                   <div className='c3  shadow container'>
                   </div>
@@ -26,37 +26,46 @@ class Home extends Component{
                   </Carousel>
 
 
-        <div className='container c4'>
+        <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
-                      <div className='row justify-content-center col-lg-9'>
-                       <div className='col-lg-3 c2 shadow'>
+                      <div className='row justify-content-center col-md-9'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={2.5} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={3.5} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={3} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={4.5} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={4} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={2} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={1} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={2.5} />
                        </div>
 
-                       <div className='col-lg-3 c2 shadow'>
+                       <div className='col-md-3 c2 shadow'>
+                       <Rate allowHalf defaultValue={2.5} />
                        </div>
                </div>
-               <div className='col-lg-3 c5 shadow'>
+               <div className='col-md-2 c5 shadow'>
                </div>
            </div>
         </div>

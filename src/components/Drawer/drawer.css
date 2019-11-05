@@ -4,12 +4,16 @@
   font-size: 35px;
 }
 .b2{
- background-color: rgb(99, 62, 224);;
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
  width: 60px;
 
 }
 .b3{
   margin-top: 20px;
+  font-family: 'Cabin', sans-serif;
 }
 
 
@@ -138,6 +142,7 @@
   font-weight: 500;
   font-size: 30px;
   line-height: 22px;
+  font-family: 'Cabin', sans-serif;
 }
 .ant-drawer-content {
   position: relative;

@@ -27,22 +27,22 @@ class SideDrawer extends Component {
       <div  className='b2'>
           <Icon type="menu" onClick={this.showDrawer} className='b1'/>
         <Drawer
-          title="SideDrawer"
+          title="Here You Go"
           placement={this.state.placement}
           closable={false}
           onClose={this.onClose}
           visible={this.state.visible}
           >
 
-          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Phone News</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Officially launched</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Upcomming mobiles</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Phone Reviews</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>New Launches</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Upcoming Phones</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Gaming Section</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Headphones & Earphones</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Laptops</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Leaks & Rumors</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Facts & Figures</button>
+          <button className='text-center btn btn-block btn-primary shadow b3'>Best Buy Links</button>
         </Drawer>
       </div>
     );
