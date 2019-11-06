@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from '../Header/header';
 import './home.css'
-import { Carousel,Rate } from 'antd';
+import { Carousel,Rate, Icon } from 'antd';
 
 
 
@@ -80,7 +80,11 @@ class Home extends Component{
                </div>
            </div>
         </div>
-        <footer className='shadow c6'>
+        <footer className='shadow c6 text-center c10'>
+        <h1 className='c13'>Connect with us</h1>
+        <Icon type="instagram" className='c9' />
+        <Icon type="facebook" className='c11'/>
+        <Icon type="twitter" className='c12'/>
         </footer>
         </div>
 

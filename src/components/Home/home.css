@@ -29,7 +29,7 @@ height: 300px;
 
 .c4{
 
- 
+
 }
 .c5{
   background-color: white;
@@ -141,4 +141,37 @@ height: 300px;
   display: inline-block;
   margin-left: 8px;
   font-size: 14px;
+}
+.c9{
+
+  font-size: 40px;
+  margin: 10px;
+  color: #E1306C;
+
+
+
+}
+.c11{
+
+  font-size: 40px;
+  margin: 10px;
+  color: #4267B2;
+
+
+}
+.c12{
+  color: white;
+  font-size: 40px;
+  margin: 10px;
+  color: #1DA1F2;
+
+
+}
+.c10{
+  padding-top: 30px;
+}
+.c13{
+  font-weight: lighter;
+  color: white;
+  margin-bottom: 0em;
 }
