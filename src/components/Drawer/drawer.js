@@ -27,7 +27,7 @@ class SideDrawer extends Component {
       <div  className='b2'>
           <Icon type="menu" onClick={this.showDrawer} className='b1'/>
         <Drawer
-          title="Geek Content"
+          title="Geeks Content"
           placement={this.state.placement}
           closable={false}
           onClose={this.onClose}
