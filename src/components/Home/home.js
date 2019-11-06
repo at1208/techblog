@@ -12,7 +12,7 @@ class Home extends Component{
 
            <div className= 'c1'>
                   <Carousel autoplay className=''>
-                  <div className='c3  shadow container'>
+                  <div className='c3  shadow container '>
                   </div>
 
                   <div className='c3 shadow container'>

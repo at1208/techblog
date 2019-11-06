@@ -33,16 +33,17 @@ class SideDrawer extends Component {
           onClose={this.onClose}
           visible={this.state.visible}
           >
-
-          <button className='text-center btn btn-block btn-primary shadow b3'>Phone Reviews</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>New Launches</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Upcoming Phones</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Gaming Section</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Headphones & Earphones</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Laptops</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Leaks & Rumors</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Facts & Figures</button>
-          <button className='text-center btn btn-block btn-primary shadow b3'>Best Buy Links</button>
+          <div className='text-center'>
+          <button className='text-center btn btn-block   shadow b3'>Phone Reviews</button>
+          <button className='text-center btn btn-block   shadow b3'>New Launches</button>
+          <button className='text-center btn btn-block   shadow b3'>Upcoming Phones</button>
+          <button className='text-center btn btn-block   shadow b3'>Gaming Section</button>
+          <button className='text-center btn btn-block   shadow b3'>Headphones & Earphones</button>
+          <button className='text-center btn btn-block   shadow b3'>Laptops</button>
+          <button className='text-center btn btn-block   shadow b3'>Leaks & Rumors</button>
+          <button className='text-center btn btn-block   shadow b3'>Facts & Figures</button>
+          <button className='text-center btn btn-block   shadow b3'>Best Buy Links</button>
+          </div>
         </Drawer>
       </div>
     );
