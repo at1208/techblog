@@ -76,7 +76,9 @@ class Home extends Component{
                        <Rate allowHalf defaultValue={2.5} />
                        </div>
                </div>
-               <div className='col-md-2 c5 shadow'>
+               <div className='col-md-2 c5 shadow text-center'>
+               <h1 className='c14'>Popular Posts</h1>
+               <hr />
                </div>
            </div>
         </div>
