@@ -12,17 +12,28 @@ class Home extends Component{
 
            <div className= 'c1'>
                   <Carousel autoplay className=''>
-                  <div className='c3  shadow container '>
+
+                  <div className='c3   container-fluid'>
+                  <img src='https://static.emaxme.com/media/aw_rbslider/slides/Buy-Now_iPhone11_Pro_EMAX_MOB_APP-1920x850.jpg' className='card-img-top c8' alt='' />
                   </div>
 
-                  <div className='c3 shadow container'>
+                  <div className='c3  container-fluid '>
+                    <img src='https://i01.appmifile.com/webfile/globalimg/Mandy/g7-Global-pc.jpg' className='card-img-top c8' alt='' />
                   </div>
 
-                  <div className='c3 shadow container'>
+                  <div className='c3  container-fluid '>
+                    <img src='https://xiaomithanhhoa.vn/wp-content/uploads/2019/05/banner-web-04.png' className='card-img-top c8' alt='' />
                   </div>
 
-                  <div className='c3 shadow container'>
+
+                  <div className='c3  container-fluid '>
+                    <img src='https://boygeniusreport.files.wordpress.com/2019/11/bgr-iphone-11-pro-1.jpg?quality=98&strip=all' className='card-img-top c8' alt='' />
                   </div>
+
+
+
+
+
                   </Carousel>
 
 
