@@ -87,7 +87,7 @@ class Home extends Component{
       <a href='https://www.instagram.com/geekboy.tech/'>
         <Icon type="instagram" className='c9' />
       </a>
-      <a href=''>
+      <a href='https://www.facebook.com/GeekBoytech-102592467865382/?modal=admin_todo_tour'>
         <Icon type="facebook" className='c11'/>
       </a>
 
