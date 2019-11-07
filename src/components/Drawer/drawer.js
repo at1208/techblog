@@ -3,7 +3,7 @@ import 'antd/dist/antd.css';
 import { Drawer, Button, Radio } from 'antd';
 import './drawer.css'
 import { Icon } from 'antd';
-import Slide from 'react-reveal/Slide';
+import { Link } from 'react-router-dom'
 
 
 class SideDrawer extends Component {
@@ -34,19 +34,47 @@ class SideDrawer extends Component {
           onClose={this.onClose}
           visible={this.state.visible}
           >
-          <Slide left>
+
           <div className='text-center'>
+
+          <Link to='/phone-reviews'>
           <button className='  btn btn-block   shadow b3'><Icon type="mobile" className='float-left b4'/>Phone Reviews</button>
+          </Link>
+
+          <Link to='/new-launches'>
           <button className='  btn btn-block   shadow b3'><Icon type="thunderbolt" className='float-left b5'/>New Launches</button>
+          </Link>
+
+          <Link to='/upcoming-phones'>
           <button className='  btn btn-block   shadow b3'><Icon type="appstore" className='float-left b6'/>Upcoming Phones</button>
+          </Link>
+
+          <Link to='/gaming-section'>
           <button className='  btn btn-block   shadow b3'><Icon type="robot" className='float-left b7'/>Gaming Section</button>
+          </Link>
+
+          <Link to='/headphone-earphones'>
           <button className='  btn btn-block   shadow b3'><Icon type="customer-service" className='float-left b8'/>Headphones & Earphones</button>
+          </Link>
+
+          <Link to='/laptops'>
           <button className='  btn btn-block   shadow b3'><Icon type="laptop" className='float-left b9'/>Laptops</button>
+          </Link>
+
+          <Link to='/leaks-rumors'>
           <button className='  btn btn-block   shadow b3'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
+          </Link>
+
+          <Link to='/facts-figures'>
           <button className='  btn btn-block   shadow b3'><Icon type="read" className='float-left b11'/>Facts & Figures</button>
+          </Link>
+
+          <Link to='/best-buy-links'>
           <button className='  btn btn-block   shadow b3'><Icon type="global" className='float-left b12'/>Best Buy Links</button>
+          </Link>
+
           </div>
-             </Slide>
+
         </Drawer>
       </div>
     );

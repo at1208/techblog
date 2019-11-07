@@ -84,12 +84,18 @@ class Home extends Component{
         </div>
         <footer className='shadow c6 text-center c10'>
         <h1 className='c13'>Connect with us</h1>
-
+      <a href='https://www.instagram.com/geekboy.tech/'>
         <Icon type="instagram" className='c9' />
+      </a>
+      <a href=''>
         <Icon type="facebook" className='c11'/>
-        <Icon type="twitter" className='c12'/>
+      </a>
 
-   
+      <a href='https://twitter.com/GeekboyT'>
+        <Icon type="twitter" className='c12'/>
+      </a>
+
+
         </footer>
         </div>
 
