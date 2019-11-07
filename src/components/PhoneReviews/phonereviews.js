@@ -1,9 +1,12 @@
 import React from 'react';
-import Header from '../Header/header';
+import Header from '../Common/Header/header';
 
 const PhoneReviews = () => {
   return <div>
          <Header/>
+         <div className='container text-center'>
+         <h1>Phone Reviews</h1>
+         </div>
          </div>
 }
 

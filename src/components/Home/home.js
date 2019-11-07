@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from '../Header/header';
+import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 

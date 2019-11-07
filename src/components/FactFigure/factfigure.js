@@ -1,9 +1,12 @@
 import React from 'react';
-import Header from '../Header/header';
+import Header from '../Common/Header/header';
 
 const FactFigure = () => {
   return <div>
-  <Header/>
+       <Header/>
+       <div className='container text-center'>
+       <h1>Facts & Figures</h1>
+       </div>
          </div>
 }
 
