@@ -3,6 +3,7 @@ import 'antd/dist/antd.css';
 import { Drawer, Button, Radio } from 'antd';
 import './drawer.css'
 import { Icon } from 'antd';
+import Slide from 'react-reveal/Slide';
 
 
 class SideDrawer extends Component {
@@ -33,6 +34,7 @@ class SideDrawer extends Component {
           onClose={this.onClose}
           visible={this.state.visible}
           >
+          <Slide left>
           <div className='text-center'>
           <button className='  btn btn-block   shadow b3'><Icon type="mobile" className='float-left b4'/>Phone Reviews</button>
           <button className='  btn btn-block   shadow b3'><Icon type="thunderbolt" className='float-left b5'/>New Launches</button>
@@ -44,6 +46,7 @@ class SideDrawer extends Component {
           <button className='  btn btn-block   shadow b3'><Icon type="read" className='float-left b11'/>Facts & Figures</button>
           <button className='  btn btn-block   shadow b3'><Icon type="global" className='float-left b12'/>Best Buy Links</button>
           </div>
+             </Slide>
         </Drawer>
       </div>
     );
