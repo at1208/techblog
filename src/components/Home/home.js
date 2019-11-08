@@ -46,10 +46,10 @@ class Home extends Component{
                        <h6 className='c17'>Realme X2 Pro</h6>
                        <img src='blog1.png' className='card c16'/>
                        <span>
-               
+
                        </span>
                        <Link to='/upcoming-phones/realme-x2-pro/realme-x2-pro-details'>
-                       <b>Know More</b>
+                       <b className='c19'>Know More</b>
                        </Link>
                        </div>
 

@@ -197,8 +197,11 @@ h6{
   margin: 0px 0px 0px 0px;
 }
 .card{
- border-radius: 0px 0px 5px 5px;
+ border-radius: 0px 0px 0px 0px;
 }
 .c18{
   margin-left: 5px;
+}
+.c19{
+
 }
