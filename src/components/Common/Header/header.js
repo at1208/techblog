@@ -2,7 +2,7 @@ import React from 'react';
 import './header.css'
 import Drawer from '../Drawer/drawer';
 import { Link } from 'react-router-dom'
- 
+
 
 
 const Header = () => {
@@ -10,11 +10,13 @@ const Header = () => {
                      <div className='row'>
                       <Drawer/>
 
-                      <Link to='/'>
+
                        <div className='a2 '>
+                           <Link to='/'>
                       <h1 className='a3'>GeekBoy.<span className='a4'>tech</span></h1>
+                      </Link>
                        </div>
-                       </Link>
+
 
                </div>
 
