@@ -88,7 +88,7 @@ class Home extends Component{
                </div>
            </div>
         </div>
-        <footer className='shadow c6 text-center c10'>
+        <footer className='shadow c6 c10 text-center container-fluid'>
         <h1 className='c13'>Connect with us</h1>
       <a href='https://www.instagram.com/geekboy.tech/'>
         <Icon type="instagram" className='c9' />
