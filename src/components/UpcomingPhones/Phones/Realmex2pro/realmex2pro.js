@@ -6,7 +6,6 @@ import Phone from './phone'
 
 const Realmex2pro = () => {
   return <div>
- 
        <Phone />
        </div>
 }
