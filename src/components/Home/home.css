@@ -16,7 +16,7 @@ height: 300px;
 }
 .c2{
   background-color: white;
-  height: 150px;
+  height: 190px;
   margin: 10px;
 
 }
@@ -181,4 +181,24 @@ height: 300px;
 }
 .c15{
   height: 12px;
+}
+.c16{
+  height: 120px;
+
+}
+.c17{
+  background-color: #424242;
+  color: white;
+  font-weight: lighter;
+
+  padding: 2px;
+}
+h6{
+  margin: 0px 0px 0px 0px;
+}
+.card{
+ border-radius: 0px 0px 5px 5px;
+}
+.c18{
+  margin-left: 5px;
 }

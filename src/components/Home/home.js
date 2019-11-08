@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
+import { Link } from 'react-router-dom'
 
 
 
@@ -40,40 +41,49 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
                       <div className='row justify-content-center col-md-9'>
+
+                       <div className='col-md-3 c2 shadow card text-center'>
+                       <h6 className='c17'>Realme X2 Pro</h6>
+                       <img src='blog1.png' className='card c16'/>
+                       <span>
+               
+                       </span>
+                       <Link to='/upcoming-phones/realme-x2-pro/realme-x2-pro-details'>
+                       <b>Know More</b>
+                       </Link>
+                       </div>
+
+
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={2.5} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={3.5} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={3} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={4.5} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={4} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={2} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={1} />
+
                        </div>
 
                        <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={2.5} />
-                       </div>
 
-                       <div className='col-md-3 c2 shadow'>
-                       <Rate allowHalf defaultValue={2.5} />
                        </div>
                </div>
                <div className='col-md-2 c5 shadow text-center'>
