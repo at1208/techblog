@@ -6,8 +6,7 @@ import UpcomingPhones from './components/UpcomingPhones/upcomingphones'
 import NewLaunches from './components/NewLaunches/newlaunches'
 import HeadphoneEarphones from './components/HeadphoneEarphones/headphoneearphones'
 import LeakRumors from './components/LeaksRumors/leaksrumors'
-import Laptops from './components/Laptops/laptops'
-import FactFigure from './components/FactFigure/factfigure'
+import Laptops from './components/Laptops/laptops' 
 import GamesSection from './components/GamesSection/gamesection'
 import BestBuyLink from './components/BestBuyLink/bestbuylink'
 import Realmex2pro from './components/UpcomingPhones/Phones/Realmex2pro/realmex2pro'
@@ -24,7 +23,6 @@ ReactDOM.render(
    <Route path='/headphone-earphones' exact component={HeadphoneEarphones} />
    <Route path='/laptops' exact component={Laptops} />
    <Route path='/leaks-rumors' exact component={LeakRumors} />
-   <Route path='/facts-figures' exact component={FactFigure} />
    <Route path='/best-buy-links' exact component={BestBuyLink} />
    <Route path='/upcoming-phones/realme-x2-pro' exact component={Realmex2pro} />
    <Route path='/upcoming-phones/realme-x2-pro/realme-x2-pro-details' exact component={Realmex2proDetails} />

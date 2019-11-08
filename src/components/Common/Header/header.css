@@ -5,12 +5,14 @@
 
 }
 .a2{
-  margin-left: 50px;
+  margin-left: 30px;
   margin-top: 7px;
+  margin-bottom: 10px;
 
 }
 .a3{
-  font-size: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
     color: white;
     font-family: 'ZCOOL XiaoWei', serif;
 }
