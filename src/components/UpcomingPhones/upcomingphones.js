@@ -7,7 +7,7 @@ const UpcomingReviews = () => {
   return <div>
        <Header/>
        <div className='container text-center'>
-       <h1 className='d1'>Upcoming Phones</h1>
+       <h1 className='e4'>Upcoming Phones</h1>
        <Realmex2pro />
        </div>
          </div>

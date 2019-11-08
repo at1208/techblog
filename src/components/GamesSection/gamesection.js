@@ -5,7 +5,7 @@ const GamesSection = () => {
   return <div>
          <Header/>
   <div className='container text-center'>
-  <h1>Games Section</h1>
+  <h1 className='e4'>Games Section</h1>
   </div>
          </div>
 }

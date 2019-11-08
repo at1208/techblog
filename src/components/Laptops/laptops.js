@@ -5,7 +5,7 @@ const Laptops = () => {
   return <div>
   <Header/>
   <div className='container text-center'>
-  <h1>Laptops</h1>
+  <h1 className='e4'>Laptops</h1>
   </div>
          </div>
 }

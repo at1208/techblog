@@ -14,26 +14,9 @@ class Home extends Component{
            <div className= 'c1'>
                   <Carousel autoplay className=''>
 
-                  <div className='c3   container-fluid'>
-                  <img src='https://static.emaxme.com/media/aw_rbslider/slides/Buy-Now_iPhone11_Pro_EMAX_MOB_APP-1920x850.jpg' className='card-img-top c8' alt='' />
-                  </div>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://i01.appmifile.com/webfile/globalimg/Mandy/g7-Global-pc.jpg' className='card-img-top c8' alt='' />
-                  </div>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://xiaomithanhhoa.vn/wp-content/uploads/2019/05/banner-web-04.png' className='card-img-top c8' alt='' />
-                  </div>
-
-
                   <div className='c3  container-fluid '>
                     <img src='https://boygeniusreport.files.wordpress.com/2019/11/bgr-iphone-11-pro-1.jpg?quality=98&strip=all' className='card-img-top c8' alt='' />
                   </div>
-
-
-
-
 
                   </Carousel>
 
@@ -45,12 +28,13 @@ class Home extends Component{
                        <div className='col-md-3 c2 shadow card text-center'>
                        <h6 className='c17'>Realme X2 Pro</h6>
                        <img src='blog1.png' className='card c16'/>
-                       <span>
-
-                       </span>
+                       <span className='c20'>
+                      Upcoming Phone
+                      <br />
                        <Link to='/upcoming-phones/realme-x2-pro/realme-x2-pro-details'>
                        <b className='c19'>Know More</b>
                        </Link>
+                        </span >
                        </div>
 
 

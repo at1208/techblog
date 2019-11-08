@@ -5,7 +5,7 @@ const NewLaunches = () => {
   return <div>
   <Header/>
   <div className='container text-center'>
-  <h1>New Launches</h1>
+  <h1 className='e4'>New Launches</h1>
   </div>
          </div>
 }

@@ -5,7 +5,7 @@ const FactFigure = () => {
   return <div>
        <Header/>
        <div className='container text-center'>
-       <h1>Facts & Figures</h1>
+       <h1 className='e4'>Facts & Figures</h1>
        </div>
          </div>
 }

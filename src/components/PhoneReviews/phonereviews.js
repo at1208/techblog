@@ -7,7 +7,7 @@ const PhoneReviews = () => {
   return <div>
          <Header/>
          <div className='container text-center'>
-         <h1>Phone Reviews</h1>
+         <h1 className='e4'>Phone Reviews</h1>
 
 
          </div>

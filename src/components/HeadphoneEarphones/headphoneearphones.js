@@ -5,7 +5,7 @@ const HeadphoneEarphones = () => {
   return <div>
   <Header/>
   <div className='container text-center'>
-  <h1>Headphones & Earphones</h1>
+  <h1 className='e4'>Headphones & Earphones</h1>
   </div>
          </div>
 }
