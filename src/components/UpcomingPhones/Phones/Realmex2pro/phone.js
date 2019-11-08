@@ -6,8 +6,8 @@ import { Link } from 'react-router-dom'
 const Phone = () => {
   return <div>
 
-          <div className='row justify-content-center'>
-              <div className='  col-md-12'>
+          <div className=''>
+              <div className='col-md-12'>
 
            <div className='col-md-3 c2 shadow card text-center container-fluid'>
            <h6 className='c17'>Realme X2 Pro</h6>
