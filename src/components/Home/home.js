@@ -111,22 +111,7 @@ class Home extends Component{
                        </Link>
                         </span >
 
-                       </div>
-
-                       <div className='col-md-3 c2 shadow'>
-
-                       </div>
-
-                       <div className='col-md-3 c2 shadow'>
-
-                       </div>
-
-                       <div className='col-md-3 c2 shadow'>
-
-                       </div>
-
-                       <div className='col-md-3 c2 shadow'>
-
+                      
                        </div>
                </div>
                <div className='col-md-2 c5 shadow text-center'>
