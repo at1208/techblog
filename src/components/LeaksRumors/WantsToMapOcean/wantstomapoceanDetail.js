@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
+import { Carousel,Rate, Icon } from 'antd';
 
 const WantsToMapOceanDetail = () => {
   return <div>
@@ -25,7 +26,16 @@ const WantsToMapOceanDetail = () => {
 <p className='e3'>So, what are your thoughts on this “WaterView” technology? Feel free to tell us in the comment section or our social handles.
 
 </p>
+<a href='https://www.instagram.com/geekboy.tech/'>
+  <Icon type="instagram" className='c9' />
+</a>
+<a href='https://www.facebook.com/GeekBoytech-102592467865382/?modal=admin_todo_tour'>
+  <Icon type="facebook" className='c11'/>
+</a>
 
+<a href='https://twitter.com/GeekboyT'>
+  <Icon type="twitter" className='c12'/>
+</a>
   </div>
        </div>
 }

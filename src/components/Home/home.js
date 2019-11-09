@@ -39,7 +39,7 @@ class Home extends Component{
                       <div className='row justify-content-center col-md-10'>
 
                       <div className='col-md-3 c2 shadow card text-center'>
-                      <h6 className='c17'> Wants to map the Oceans</h6>
+                      <h6 className='c17'> WaterView</h6>
                       <img src='blog5.jpg' className='card c16'/>
                       <span className='c20'>
                      Leaks & Rumors

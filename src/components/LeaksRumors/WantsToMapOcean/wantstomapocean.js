@@ -7,7 +7,7 @@ const WantsToMapOcean = () => {
 
 
            <div className='shadow card text-center container-fluid f2'>
-           <h6 className='c17'>Wants to map the Oceans</h6>
+           <h6 className='c17'>WaterView</h6>
            <img src='../../blog5.jpg' className='card c16'/>
            <span className='c20'>
            Leaks & Rumors
