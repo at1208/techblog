@@ -35,7 +35,7 @@ class Home extends Component{
 
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
-                      <div className='row justify-content-center col-md-9'>
+                      <div className='row justify-content-center col-md-10'>
 
                        <div className='col-md-3 c2 shadow card text-center'>
                        <h6 className='c17'>Realme X2 Pro</h6>
@@ -52,7 +52,7 @@ class Home extends Component{
 
                        <div className='col-md-3 c2 shadow card text-center'>
                        <h6 className='c17'>Top 5 Gaming Laptops Under INR60000</h6>
-                       <img src='blog2.jpg' className='card c16'/>
+                       <img src='blog2six.jpg' className='card c16'/>
                        <span className='c20'>
 
                        <br />

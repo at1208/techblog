@@ -14,7 +14,7 @@ const Laptops = () => {
 
    <div className='col-md-3 c2 shadow card text-center container-fluid'>
    <h6 className='c17'>Top 5 Gaming Laptops under INR60000</h6>
-   <img src='../blog2.JPG' className='card c16'/>
+   <img src='../blog2six.JPG' className='card c16'/>
    <span className='c20'>
 
    <br />
