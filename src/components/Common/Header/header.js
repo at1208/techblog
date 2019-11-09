@@ -41,16 +41,8 @@ else if(isDesktopOrLaptop){
                       <div className='text-center container-fluid'>
                       <div className='row justify-content-center'>
 
-                              <Link to='/phone-reviews' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Phone Reviews</button>
-                              </Link>
-
-                              <Link to='/new-launches' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="thunderbolt" className='float-left b5'/>New Launches</button>
-                              </Link>
-
-                              <Link to='/upcoming-phones' className=''>
-                              <button className='  btn btn-block   shadow a5'><Icon type="appstore" className='float-left b6'/>Upcoming Phones</button>
+                              <Link to='/phones' className=''>
+                              <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Phones</button>
                               </Link>
 
                               <Link to='/gaming-section' className=''>

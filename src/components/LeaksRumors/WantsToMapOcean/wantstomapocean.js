@@ -6,7 +6,7 @@ const WantsToMapOcean = () => {
   return <div>
 
 
-           <div className='shadow card text-center container-fluid f2'>
+           <div className='c2 shadow card text-center'>
            <h6 className='c17'>WaterView</h6>
            <img src='../../blog5.jpg' className='card c16'/>
            <span className='c20'>

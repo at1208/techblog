@@ -4,6 +4,12 @@ import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom'
 
+import Realmex2pro from '../Phones/Realmex2pro/realmex2pro';
+import WaterView from '../LeaksRumors/WantsToMapOcean/wantstomapocean';
+import Top5GamingLapUnder60000 from '../Laptops/Laptop/top5under60000';
+import HarleyDavidsonBikes from '../LeaksRumors/HarleyDavidsonBikes/harleydavidsonbike';
+import Overwatch2 from '../GamesSection/Overwatch2/overwatch2';
+import Ayodhyaverdict from '../TrendingNews/Ayodhyaverdict/ayodhyaverdict'
 
 
 class Home extends Component{
@@ -38,81 +44,14 @@ class Home extends Component{
 
                       <div className='row justify-content-center col-md-10'>
 
-                      <div className='col-md-3 c2 shadow card text-center'>
-                      <h6 className='c17'> WaterView</h6>
-                      <img src='blog5.jpg' className='card c16'/>
-                      <span className='c20'>
-                     Leaks & Rumors
-                     <br />
-                      <Link to='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'>
-                      <b className='c19'>Know More</b>
-                      </Link>
-                       </span >
-                      </div>
+                       <WaterView />
+                       <Realmex2pro />
+                       <Top5GamingLapUnder60000 />
+                       <HarleyDavidsonBikes />
+                       <Overwatch2 />
+                       <Ayodhyaverdict />
 
 
-                       <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>Realme X2 Pro</h6>
-                       <img src='blog1.png' className='card c16'/>
-                       <span className='c20'>
-                      Upcoming Phone
-                      <br />
-                       <Link to='/upcoming-phones/realme-x2-pro/realme-x2-pro-details'>
-                       <b className='c19'>Know More</b>
-                       </Link>
-                        </span >
-                       </div>
-
-
-                       <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>Top 5 Gaming Laptop Under INR60000</h6>
-                       <img src='blog2six.jpg' className='card c16'/>
-                       <span className='c20'>
-                      Laptops
-                       <br />
-                       <Link to='/laptops/top-5-gaming-laptops-under-rs60000'>
-                       <b className='c19'>Know More</b>
-                       </Link>
-                        </span >
-                       </div>
-
-                       <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>OVERWATCH2</h6>
-                       <img src='blog3.png' className='card c16'/>
-                       <span className='c20'>
-                      <b>Gaming Section</b>
-                       <br />
-                       <Link to='/gaming-section/overwatch-2'>
-                       <b className='c19'>Know More</b>
-                       </Link>
-                        </span >
-                       </div>
-
-                       <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>Harley-Davidson’s Electric Pedal Bikes</h6>
-                       <img src='blog4.jpg' className='card c16'/>
-                       <span className='c20'>
-                      <b>Leaks & Rumors</b>
-                       <br />
-                       <Link to='/leaksrumors/harley-davidson-electric-pedal-bikes'>
-                       <b className='c19'>Know More</b>
-                       </Link>
-                        </span >
-                       </div>
-
-                       <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>Ayodhya verdict</h6>
-                       <img src='blog6.jpg' className='card c16'/>
-                       <span className='c20'>
-                      <b>TrendingNews</b>
-                       <br />
-                       <Link to='/trendingnews/ayodhya-verdict'>
-                       <b className='c19'>Know More</b>
-                       </Link>
-                        </span >
-
-                      
-                       </div>
                </div>
                <div className='col-md-2 c5 shadow text-center'>
                <h1 className='c14'>Popular Posts</h1>

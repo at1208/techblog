@@ -37,16 +37,8 @@ class SideDrawer extends Component {
 
           <div className='text-center'>
 
-          <Link to='/phone-reviews'>
-          <button className='  btn btn-block   shadow b3'><Icon type="mobile" className='float-left b4'/>Phone Reviews</button>
-          </Link>
-
-          <Link to='/new-launches'>
-          <button className='  btn btn-block   shadow b3'><Icon type="thunderbolt" className='float-left b5'/>New Launches</button>
-          </Link>
-
-          <Link to='/upcoming-phones'>
-          <button className='  btn btn-block   shadow b3'><Icon type="appstore" className='float-left b6'/>Upcoming Phones</button>
+          <Link to='/phones'>
+          <button className='  btn btn-block   shadow b3'><Icon type="mobile" className='float-left b4'/>Phones</button>
           </Link>
 
           <Link to='/gaming-section'>

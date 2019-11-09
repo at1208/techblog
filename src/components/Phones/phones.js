@@ -1,17 +1,16 @@
 import React from 'react';
 import Header from '../Common/Header/header';
-import { Rate } from 'antd';
 import { Link } from 'react-router-dom'
+import Realmex2pro from './Realmex2pro/realmex2pro'
 
-const PhoneReviews = () => {
+const Phones = () => {
   return <div>
          <Header/>
          <div className='container text-center'>
-         <h1 className='e4'>Phone Reviews</h1>
-
-
+         <h1 className='e4'>Phone</h1>
+         <Realmex2pro />
          </div>
          </div>
 }
 
-export default PhoneReviews;
+export default Phones;

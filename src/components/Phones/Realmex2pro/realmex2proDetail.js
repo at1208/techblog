@@ -1,6 +1,5 @@
 import React from 'react';
-import Header from '../../../Common/Header/header';
-import Realmex2pro from './realmex2pro'
+import Header from '../../Common/Header/header';
 import './realmex2proDetail.css'
 
 
