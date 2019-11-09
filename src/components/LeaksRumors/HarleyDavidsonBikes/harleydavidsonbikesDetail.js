@@ -36,7 +36,9 @@ const HarleyDavidsonBikesDetail = () => {
 <p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production.
 </p>
 <p className='e3'>So, what do you think about these electric bicycles by Harley-Davidson? Let us know on our social handles.</p>
+  <b>Auther - Anmol Raj Chauhan</b> 
   </div>
+
        </div>
 }
 export default HarleyDavidsonBikesDetail;

@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 
 const Top5Under60000  = () => {
-  return <>
+  return <div>
   <Header />
   <div className='container c21'>
   <h5 className='e5'>TOP 5 GAMING LAPTOPS IN INDIA UNDER 60000 INR(2019)</h5>
@@ -83,8 +83,9 @@ Good battery life.
 No SSD.
 Weaker GPU compared to others.
 </p>
+<b>Auther - Amit Rawat</b>
   </div>
-  </>
+  </div>
 }
 
 export default Top5Under60000;

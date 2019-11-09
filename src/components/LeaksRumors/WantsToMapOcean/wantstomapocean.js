@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const WantsToMapOcean = () => {
   return <div>
 
-
+<Link to='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'>
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>WaterView</h6>
            <img src='../../blog5.jpg' className='card c16'/>
@@ -17,6 +17,7 @@ const WantsToMapOcean = () => {
           </Link>
            </span>
            </div>
+  </Link>
 
        </div>
 }

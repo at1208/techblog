@@ -38,7 +38,9 @@ The Muslim side wants the masjid rebuilt at the same location. It also wants the
 
 Read more at:
 <a href='https://economictimes.indiatimes.com/articleshow/71952705.cms?from=mdr&utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst'>economictimes</a></p>
+<b>Auther - Aman Tiwari</b> 
   </div>
+
        </div>
 }
 export default AyodhyaverdictDetail;

@@ -36,6 +36,9 @@ const WantsToMapOceanDetail = () => {
 <a href='https://twitter.com/GeekboyT'>
   <Icon type="twitter" className='c12'/>
 </a>
+<br />
+<b>Auther - Anmol Raj Chauhan</b>
+
   </div>
        </div>
 }

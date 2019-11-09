@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 
 const HarleyDavidsonBikes = () => {
   return <div>
+  <Link to='/leaksrumors/harley-davidson-electric-pedal-bikes'>
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Harley-Davidson’s Electric Pedal Bikes</h6>
            <img src='../../blog4.jpg' className='card c16'/>
@@ -15,6 +16,8 @@ const HarleyDavidsonBikes = () => {
           </Link>
            </span>
            </div>
+    </Link>
+        
        </div>
 }
 export default HarleyDavidsonBikes;
