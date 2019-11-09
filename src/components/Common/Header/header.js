@@ -69,9 +69,7 @@ else if(isDesktopOrLaptop){
                               <button className=' btn btn-block   shadow a5'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
                               </Link>
 
-                              <Link to='/best-buy-links' className=' '>
-                              <button className=' btn btn-block   shadow a5'><Icon type="global" className='float-left b12'/>Best Buy Links</button>
-                              </Link>
+
                      </div>
                       </div>
 

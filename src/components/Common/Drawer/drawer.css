@@ -15,10 +15,10 @@ h1{
 .b3{
 
     background-color: white;
-  width: 220px;
-padding: 5px;
-margin-top: 16px;
-  font-family: 'Cabin', sans-serif;
+    width: 220px;
+    padding: 5px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -148,7 +148,7 @@ margin-top: 16px;
   font-weight: lighter;
   font-size: 30px;
   line-height: 22px;
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .ant-drawer-content {
   position: relative;

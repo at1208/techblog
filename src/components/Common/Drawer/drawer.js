@@ -68,11 +68,6 @@ class SideDrawer extends Component {
           <Link to='/facts-figures'>
           <button className='  btn btn-block   shadow b3'><Icon type="read" className='float-left b11'/>Facts & Figures</button>
           </Link>
-
-          <Link to='/best-buy-links'>
-          <button className='  btn btn-block   shadow b3'><Icon type="global" className='float-left b12'/>Best Buy Links</button>
-          </Link>
-
           </div>
 
         </Drawer>
