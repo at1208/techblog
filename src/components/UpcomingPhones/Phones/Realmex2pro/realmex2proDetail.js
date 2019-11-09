@@ -7,8 +7,8 @@ import './realmex2proDetail.css'
 const Realmex2proDetails = () => {
   return <div>
        <Header/>
-       <div className='container'>
-       <h5>Realme X2 Pro “Faster. Sharper. Bolder”</h5>
+       <div className='container c21'>
+       <h5 className='e5'>Realme X2 Pro “Faster. Sharper. Bolder”</h5>
        <img src='../../../blog1.png' className='e1'/>
        <p className='e3'>Realme X2 Pro is the new latest upcoming offering from Realme Brand. The Smartphone Launch has been teased by Flipkart. The smartphone competes with OnePlus 7T And Redmi K20 Pro. The smartphone Realme X2 Pro Comes With Qualcomm’s latest flagship processor Snapdragon 855+ SOC. It also has RAM upto 12GB And 256GB of onboard storage.
 </p>

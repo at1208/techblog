@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom'
 const Overwatch2Detail = () => {
    return <div>
          <Header/>
-         <div className='container'>
-         <h5>OVERWATCH2</h5>
+         <div className='container c21'>
+         <h5 className='e5'>OVERWATCH2</h5>
          <img src='../../../blog3.png' className='e1'/>
          <p className='e2'>ANNOUNCEMENT -</p>
   <p className='e3'>Overwatch game director Jeff Kaplan officially announced Overwatch 2 at BlizzCon today.

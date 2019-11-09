@@ -1,0 +1,38 @@
+import React from 'react';
+import Header from '../../Common/Header/header';
+import { Link } from 'react-router-dom'
+
+const HarleyDavidsonBikesDetail = () => {
+  return <div>
+  <Header />
+  <div className='container c21'>
+  <h5 className='e5'>Harley-Davidson’s Electric Pedal Bikes go on sale in 2020</h5>
+
+  <p>Things are about to change. When you first hear about pedal bikes, Harley-Davidson isn’t the name that pops up in your mind. But here we are.</p>
+
+  <p className='e3'>Three new adult-sized electric bicycles are slated to roll off the production lines in 2020, bringing one of the oldest motorcycle companies in the world firmly into the electric vehicle age.
+</p>
+<p className='e3'>Need some photos of these babies? We got you covered
+</p>
+  <img src='../../../blog4.jpg' className='e1'/>
+
+  <img src='../../../blog4one.jpg' className='e1'/>
+
+  <img src='../../../blog4two.jpg' className='e1'/>
+  <img src='../../../blog4three.jpg' className='e1'/>
+<p className='e3'>The pics are definitely are nice to look at, but riding them would be even sweeter. They haven’t been named yet. But a spokesperson for the company says it’s still “evaluating market opportunities and finalizing design details” before the go into production in 2020.
+</p>
+<p className='e3'>There are three styles of bike with varying degrees of accessibilities:
+</p>
+<p className='e3'>A high-step model
+A step-through model
+The one that’s in between
+</p>
+<p className='e3'>All these models have similar a similar core, with mid-drive motors, internal removable batteries that are flush to the frame, and that special Harley swagger. I mean it’s Harley, can’t be boring.
+</p>
+<p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production
+</p>
+  </div>
+       </div>
+}
+export default HarleyDavidsonBikesDetail;

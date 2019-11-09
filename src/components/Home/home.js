@@ -74,8 +74,16 @@ class Home extends Component{
                         </span >
                        </div>
 
-                       <div className='col-md-3 c2 shadow'>
-
+                       <div className='col-md-3 c2 shadow card text-center'>
+                       <h6 className='c17'>Harley-Davidson’s Electric Pedal Bikes</h6>
+                       <img src='blog4.jpg' className='card c16'/>
+                       <span className='c20'>
+                      <b>Leaks & Rumors</b>
+                       <br />
+                       <Link to='/leaksrumors/harley-davidson-electric-pedal-bikes'>
+                       <b className='c19'>Know More</b>
+                       </Link>
+                        </span >
                        </div>
 
                        <div className='col-md-3 c2 shadow'>

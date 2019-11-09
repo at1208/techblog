@@ -4,8 +4,8 @@ import Header from '../../Common/Header/header';
 const Top5Under60000  = () => {
   return <>
   <Header />
-  <div className='container'>
-  <h5>TOP 5 GAMING LAPTOPS IN INDIA UNDER 60000 INR(2019)</h5>
+  <div className='container c21'>
+  <h5 className='e5'>TOP 5 GAMING LAPTOPS IN INDIA UNDER 60000 INR(2019)</h5>
 <img src='../../blog2.jpg' className='e1'/>
   <p className='e3'>Here is the list of most top 5 amazing gaming laptops in India under 60000 INR .In the emerging phase of esports in India many game enthusiastic peoples are taking interest in gaming ,so here is the list of best 5 entry level gaming laptops available in india right now!! .
 All the below mentioned latops comes with 1 year warrenty out of the box and with future ready IO which include USB3.1 and type C port,all laptops have enough power to run almost all the AAA titles at mid-high settings at 60 fps and provide you a great gaming experience.
