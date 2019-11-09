@@ -8,7 +8,7 @@ const HarleyDavidsonBikesDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Harley-Davidson’s Electric Pedal Bikes go on sale in 2020</h5>
 
-  <p>Things are about to change. When you first hear about pedal bikes, Harley-Davidson isn’t the name that pops up in your mind. But here we are.</p>
+  <p className='e3'>Things are about to change. When you first hear about pedal bikes, Harley-Davidson isn’t the name that pops up in your mind. But here we are.</p>
 
   <p className='e3'>Three new adult-sized electric bicycles are slated to roll off the production lines in 2020, bringing one of the oldest motorcycle companies in the world firmly into the electric vehicle age.
 </p>
