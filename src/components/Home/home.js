@@ -51,10 +51,10 @@ class Home extends Component{
 
 
                        <div className='col-md-3 c2 shadow card text-center'>
-                       <h6 className='c17'>Top 5 Gaming Laptops Under INR60000</h6>
+                       <h6 className='c17'>Top 5 Gaming Laptop Under INR60000</h6>
                        <img src='blog2six.jpg' className='card c16'/>
                        <span className='c20'>
-
+                      Laptops
                        <br />
                        <Link to='/laptops/top-5-gaming-laptops-under-rs60000'>
                        <b className='c19'>Know More</b>
@@ -62,8 +62,16 @@ class Home extends Component{
                         </span >
                        </div>
 
-                       <div className='col-md-3 c2 shadow'>
-
+                       <div className='col-md-3 c2 shadow card text-center'>
+                       <h6 className='c17'>OVERWATCH2</h6>
+                       <img src='blog3.png' className='card c16'/>
+                       <span className='c20'>
+                      <b>Gaming Section</b>
+                       <br />
+                       <Link to='/laptops/top-5-gaming-laptops-under-rs60000'>
+                       <b className='c19'>Know More</b>
+                       </Link>
+                        </span >
                        </div>
 
                        <div className='col-md-3 c2 shadow'>

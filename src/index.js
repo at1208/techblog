@@ -13,6 +13,7 @@ import Realmex2pro from './components/UpcomingPhones/Phones/Realmex2pro/realmex2
 import Realmex2proDetails from './components/UpcomingPhones/Phones/Realmex2pro/realmex2proDetail'
 import { BrowserRouter, Route} from 'react-router-dom'
 import Top5Under60000 from './components/Laptops/Laptop/top5under60000';
+import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -28,6 +29,7 @@ ReactDOM.render(
    <Route path='/upcoming-phones/realme-x2-pro' exact component={Realmex2pro} />
    <Route path='/upcoming-phones/realme-x2-pro/realme-x2-pro-details' exact component={Realmex2proDetails} />
    <Route path='/laptops/top-5-gaming-laptops-under-rs60000' exact component={Top5Under60000} />
+   <Route path='/gaming-section/overwatch-2' exact component={Overwatch2} />
 
 
 
