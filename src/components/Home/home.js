@@ -68,7 +68,7 @@ class Home extends Component{
                        <span className='c20'>
                       <b>Gaming Section</b>
                        <br />
-                       <Link to='/laptops/top-5-gaming-laptops-under-rs60000'>
+                       <Link to='/gaming-section/overwatch-2'>
                        <b className='c19'>Know More</b>
                        </Link>
                         </span >
