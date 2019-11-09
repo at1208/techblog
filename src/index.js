@@ -9,6 +9,7 @@ import LeakRumors from './components/LeaksRumors/leaksrumors'
 import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
 import BestBuyLink from './components/BestBuyLink/bestbuylink'
+import TrendingNews from './components/TrendingNews/trendingnews'
 import Realmex2pro from './components/UpcomingPhones/Phones/Realmex2pro/realmex2pro'
 import Realmex2proDetails from './components/UpcomingPhones/Phones/Realmex2pro/realmex2proDetail'
 import { BrowserRouter, Route} from 'react-router-dom'
@@ -16,6 +17,7 @@ import Top5Under60000 from './components/Laptops/Laptop/top5under60000';
 import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
 import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
+import Ayodhyaverdict from './components/TrendingNews/Ayodhyaverdict/ayodhyaverdictDetail'
 
 ReactDOM.render(
   <BrowserRouter>
@@ -28,12 +30,15 @@ ReactDOM.render(
    <Route path='/laptops' exact component={Laptops} />
    <Route path='/leaks-rumors' exact component={LeakRumors} />
    <Route path='/best-buy-links' exact component={BestBuyLink} />
+   <Route path='/trendingnews' exact component={Laptops} />
    <Route path='/upcoming-phones/realme-x2-pro' exact component={Realmex2pro} />
    <Route path='/upcoming-phones/realme-x2-pro/realme-x2-pro-details' exact component={Realmex2proDetails} />
    <Route path='/laptops/top-5-gaming-laptops-under-rs60000' exact component={Top5Under60000} />
    <Route path='/gaming-section/overwatch-2' exact component={Overwatch2} />
    <Route path='/leaksrumors/harley-davidson-electric-pedal-bikes' exact component={HarleyDavidsonBikes} />
    <Route path='/leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans' exact component={WantsToMapOcean} />
+   <Route path='/trendingnews/ayodhya-verdict' exact component={Ayodhyaverdict} />
+
 
 
 
