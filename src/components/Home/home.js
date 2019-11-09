@@ -9,7 +9,7 @@ import WaterView from '../LeaksRumors/WantsToMapOcean/wantstomapocean';
 import Top5GamingLapUnder60000 from '../Laptops/Laptop/top5under60000';
 import HarleyDavidsonBikes from '../LeaksRumors/HarleyDavidsonBikes/harleydavidsonbike';
 import Overwatch2 from '../GamesSection/Overwatch2/overwatch2';
-import Ayodhyaverdict from '../TrendingNews/Ayodhyaverdict/ayodhyaverdict'
+ 
 
 
 class Home extends Component{
@@ -49,7 +49,7 @@ class Home extends Component{
                        <Top5GamingLapUnder60000 />
                        <HarleyDavidsonBikes />
                        <Overwatch2 />
-                       <Ayodhyaverdict />
+
 
 
                </div>
