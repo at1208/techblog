@@ -54,7 +54,7 @@ class SideDrawer extends Component {
           </Link>
 
           <Link to='/headphone-earphones'>
-          <button className='  btn btn-block   shadow b3'><Icon type="customer-service" className='float-left b8'/>Headphones & Earphones</button>
+          <button className='  btn btn-block   shadow b3'><Icon type="customer-service" className='float-left b8'/>Headphones</button>
           </Link>
 
           <Link to='/laptops'>
