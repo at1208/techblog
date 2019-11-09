@@ -24,14 +24,18 @@ const HarleyDavidsonBikesDetail = () => {
 </p>
 <p className='e3'>There are three styles of bike with varying degrees of accessibilities:
 </p>
-<p className='e3'>A high-step model
-A step-through model
-The one that’s in between
+<p className='e3'>
+<ul>
+<li>A high-step model</li>
+<li>A step-through model</li>
+<li>The one that’s in between</li>
+</ul>
 </p>
 <p className='e3'>All these models have similar a similar core, with mid-drive motors, internal removable batteries that are flush to the frame, and that special Harley swagger. I mean it’s Harley, can’t be boring.
 </p>
-<p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production
+<p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production.
 </p>
+<p className='e3'>So, what do you think about these electric bicycles by Harley-Davidson? Let us know on our social handles.</p>
   </div>
        </div>
 }

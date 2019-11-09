@@ -15,6 +15,7 @@ import { BrowserRouter, Route} from 'react-router-dom'
 import Top5Under60000 from './components/Laptops/Laptop/top5under60000';
 import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
+import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -32,6 +33,7 @@ ReactDOM.render(
    <Route path='/laptops/top-5-gaming-laptops-under-rs60000' exact component={Top5Under60000} />
    <Route path='/gaming-section/overwatch-2' exact component={Overwatch2} />
    <Route path='/leaksrumors/harley-davidson-electric-pedal-bikes' exact component={HarleyDavidsonBikes} />
+   <Route path='/leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans' exact component={WantsToMapOcean} />
 
 
 

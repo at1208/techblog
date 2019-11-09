@@ -35,7 +35,21 @@ class Home extends Component{
 
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
+
                       <div className='row justify-content-center col-md-10'>
+
+                      <div className='col-md-3 c2 shadow card text-center'>
+                      <h6 className='c17'> Wants to map the Oceans</h6>
+                      <img src='blog5.jpg' className='card c16'/>
+                      <span className='c20'>
+                     Leaks & Rumors
+                     <br />
+                      <Link to='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'>
+                      <b className='c19'>Know More</b>
+                      </Link>
+                       </span >
+                      </div>
+
 
                        <div className='col-md-3 c2 shadow card text-center'>
                        <h6 className='c17'>Realme X2 Pro</h6>
