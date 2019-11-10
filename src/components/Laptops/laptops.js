@@ -5,6 +5,7 @@ import Top5Under60000 from './Laptop/top5under60000'
 import SpeedLaptop from './SpeedLaptop/speedlaptop';
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
+import Slide from 'react-reveal/Slide';
 
 
 
@@ -15,13 +16,17 @@ const Laptops = () => {
             <h1 className='e4 text-center'><Texty>Laptops</Texty></h1>
                  <div className='container row justify-content-center'>
 
+<Slide bottom>
                  <div className='col-md-4'>
                   <SpeedLaptop />
                  </div>
+</Slide>
 
+<Slide bottom>
                  <div className='col-md-4'>
                   <Top5Under60000 />
                  </div>
+</Slide>
 
 
 

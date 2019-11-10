@@ -7,6 +7,7 @@ import Halo from './Halo/halo'
 import './leaksrumors.css'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
+import Slide from 'react-reveal/Slide';
 
 const LeakRumors = () => {
   return <div>
@@ -15,22 +16,30 @@ const LeakRumors = () => {
             <h1 className='e4 text-center'><Texty>Leaks & Rumors</Texty></h1>
                  <div className='container row justify-content-center'>
 
+<Slide bottom>
                  <div className='col-md-4'>
                   <Halo />
                  </div>
+</Slide>
 
+<Slide bottom>
                  <div className='col-md-4'>
                   <Deletingfb />
                  </div>
+</Slide>
 
+<Slide bottom>
                   <div className='col-md-4 ' >
                   <HarleyDavidsonBikes />
                  </div>
+</Slide>
 
+
+<Slide bottom>
                  <div className='col-md-4'>
                   <WantsToMapOcean />
                  </div>
-
+</Slide>
 
                  </div>
             </div>
