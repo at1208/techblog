@@ -9,7 +9,8 @@ import WaterView from '../LeaksRumors/WantsToMapOcean/wantstomapocean';
 import Top5GamingLapUnder60000 from '../Laptops/Laptop/top5under60000';
 import HarleyDavidsonBikes from '../LeaksRumors/HarleyDavidsonBikes/harleydavidsonbike';
 import Overwatch2 from '../GamesSection/Overwatch2/overwatch2';
- 
+import DeleteFacebook from '../LeaksRumors/Deletingfb/deletingfb'
+
 
 
 class Home extends Component{
@@ -43,7 +44,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-10'>
-
+                       <DeleteFacebook />
                        <WaterView />
                        <Realmex2pro />
                        <Top5GamingLapUnder60000 />

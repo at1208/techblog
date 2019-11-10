@@ -19,6 +19,8 @@ import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
 import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
 import Ayodhyaverdict from './components/TrendingNews/Ayodhyaverdict/ayodhyaverdictDetail'
+import DeleteFacebook from './components/LeaksRumors/Deletingfb/deletingfbDetail';
+
 
 ReactDOM.render(
   <BrowserRouter>
@@ -34,7 +36,7 @@ ReactDOM.render(
    <Route path='/gaming-section/overwatch-2' exact component={Overwatch2} />
    <Route path='/leaksrumors/harley-davidson-electric-pedal-bikes' exact component={HarleyDavidsonBikes} />
    <Route path='/leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans' exact component={WantsToMapOcean} />
-   <Route path='/trendingnews/ayodhya-verdict' exact component={Ayodhyaverdict} />
+   <Route path='/leaksrumors/Brian-Acton-still-behind-the-idea-of-deleting-Facebook' exact component={DeleteFacebook} />
 
 
 
