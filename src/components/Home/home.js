@@ -3,6 +3,8 @@ import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom'
+ 
+
 
 import Realmex2pro from '../Phones/Realmex2pro/realmex2pro';
 import WaterView from '../LeaksRumors/WantsToMapOcean/wantstomapocean';
@@ -21,6 +23,7 @@ import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
 class Home extends Component{
    render(){
      return <div>
+
            <Header />
 
            <div className= 'c1'>
@@ -49,6 +52,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-12'>
+
                        <SpeedLaptop />
                        <Halo />
                        <DeathStranding />

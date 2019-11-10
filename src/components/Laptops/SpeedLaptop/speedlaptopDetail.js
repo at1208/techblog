@@ -20,7 +20,7 @@ const SpeedLaptopDetail  = () => {
 <p className='e3'>with the passage of time we install many programs in our laptop and these program eat free RAM available in system and when we open another program it became unresponsive and slow in opening it, with the requirement of modern software an average user needs atleast 8GB of ram. It will cost some money but trust me it totally worth it.
 </p>
 <p className='e2'>3.By increasing virtual memory:-</p>
-  <img src='../../blog2four.jpg' className='e1'/>
+  <img src='../../blog11four.png' className='e1'/>
 
 <p className='e3'>Virtual memory is the paging file which use your hardisk as RAM and store currently processed data in it, it is not effective as real RAM but something is better than nothing. Just go to system properties /advance system setting/advance/performance/advance /virtual memory/change.
 Now you can set the size manually and done.
