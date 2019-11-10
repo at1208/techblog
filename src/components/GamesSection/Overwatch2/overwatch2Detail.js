@@ -34,7 +34,7 @@ We can only hope for the best.
 Overwatch recently came to Nintendo Switch.
 </p>
 
-<b>Auther - Abhishek Naagar</b>
+<b>Author - Abhishek Naagar</b>
          </div>
            </div>
 }
