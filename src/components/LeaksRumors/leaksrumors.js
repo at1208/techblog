@@ -5,12 +5,14 @@ import WantsToMapOcean from './WantsToMapOcean/wantstomapocean'
 import Deletingfb from './Deletingfb/deletingfb'
 import Halo from './Halo/halo'
 import './leaksrumors.css'
+import Texty from 'rc-texty';
+import 'rc-texty/assets/index.css';
 
 const LeakRumors = () => {
   return <div>
             <Header/>
             <div className=''>
-            <h1 className='e4 text-center'>Leaks & Rumors</h1>
+            <h1 className='e4 text-center'><Texty>Leaks & Rumors</Texty></h1>
                  <div className='container row justify-content-center'>
 
                  <div className='col-md-4'>

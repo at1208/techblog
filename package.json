@@ -5,6 +5,7 @@
   "dependencies": {
     "antd": "^3.25.0",
     "mo-js": "^0.288.2",
+    "rc-scroll-anim": "^2.6.2",
     "rc-texty": "^0.2.0",
     "rc-tween-one": "^2.6.5",
     "react": "^16.11.0",

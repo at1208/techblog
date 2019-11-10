@@ -3,7 +3,7 @@ import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom';
- 
+
 
 
 
@@ -18,6 +18,7 @@ import DeathStranding from '../GamesSection/DeathStranding/deathstranding';
 import Halo from '../LeaksRumors/Halo/halo';
 import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
 import MIUI11 from '../Phones/MIUI11/miui11';
+import { Parallax } from 'rc-scroll-anim';
 
 
 
