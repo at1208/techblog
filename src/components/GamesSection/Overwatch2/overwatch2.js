@@ -7,15 +7,15 @@ const Overwatch2 = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>OVERWATCH2</h6>
            <img src='../../blog3.png' className='card c16'/>
-           <span className='c20'>
+           <span className='c20 e3'>
           Games Section
            <br />
            <Link to='/gaming-section/overwatch-2'>
-          <b>Know More</b>
+          <b className='  e3'>Know More</b>
           </Link>
            </span>
           </div>
-</Link>          
+</Link>
          </div>
 }
 

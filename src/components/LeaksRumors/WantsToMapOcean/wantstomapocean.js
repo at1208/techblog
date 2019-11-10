@@ -9,11 +9,11 @@ const WantsToMapOcean = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>WaterView</h6>
            <img src='../../blog5.jpg' className='card c16'/>
-           <span className='c20'>
+           <span className='c20 e3'>
            Leaks & Rumors
            <br />
            <Link to='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'>
-          <b>Know More</b>
+          <b className='  e3'>Know More</b>
           </Link>
            </span>
            </div>

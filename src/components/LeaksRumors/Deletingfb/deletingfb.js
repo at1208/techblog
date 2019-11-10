@@ -10,11 +10,11 @@ const DeltingFb = () => {
 
            <img src='../../blog7.jpg' className='card c16'/>
 
-           <span className='c20'>
+           <span className='c20 e3'>
           Leaks & Rumors
            <br />
            <Link to='leaksrumors/Brian-Acton-still-behind-the-idea-of-deleting-Facebook'>
-          <b>Know More</b>
+          <b className='  e3'>Know More</b>
           </Link>
            </span>
            </div>

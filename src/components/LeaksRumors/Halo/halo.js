@@ -10,11 +10,11 @@ const Halo = () => {
 
            <img src='../../blog10.jpg' className='card c16'/>
 
-           <span className='c20'>
+           <span className='c20 e3'>
           Leaks & Rumors
            <br />
            <Link to='/leaks-rumors/halo-tv-series-goes-into-production'>
-          <b>Know More</b>
+          <b className='  e3'>Know More</b>
           </Link>
            </span>
            </div>

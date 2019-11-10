@@ -10,11 +10,11 @@ const DeathStranding = () => {
 
            <img src='../../blog9.png' className='card c16'/>
 
-           <span className='c20'>
+           <span className='c20 e3'>
           Gaming Section
            <br />
            <Link to='gaming-section/death-stranding'>
-          <b>Know More</b>
+          <b className='e3'>Know More</b>
           </Link>
            </span>
            </div>

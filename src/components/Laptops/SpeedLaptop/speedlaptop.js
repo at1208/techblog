@@ -10,11 +10,11 @@ const Halo = () => {
 
            <img src='../../blog11.jpeg' className='card c16'/>
 
-           <span className='c20'>
+           <span className='c20 e3'>
         Laptop
            <br />
            <Link to='/laptops/7-ways-to-speed-up-your-laptops'>
-          <b>Know More</b>
+          <b className='e3'>Know More</b>
           </Link>
            </span>
            </div>

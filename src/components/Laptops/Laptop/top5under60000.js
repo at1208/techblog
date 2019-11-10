@@ -10,11 +10,11 @@ const Top5Under60000 = () => {
 
            <img src='../../blog2six.jpg' className='card c16'/>
 
-           <span className='c20'>
+           <span className='c20 e3'>
           Laptops
            <br />
            <Link to='laptops/top-5-gaming-laptops-under-rs60000'>
-          <b>Know More</b>
+          <b className='e3'>Know More</b>
           </Link>
            </span>
            </div>
