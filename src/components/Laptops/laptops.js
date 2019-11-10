@@ -9,7 +9,7 @@ import SpeedLaptop from './SpeedLaptop/speedlaptop'
 const Laptops = () => {
   return <div>
             <Header/>
-            <div className='container'>
+            <div className=' '>
             <h1 className='e4 text-center'>Laptops</h1>
                  <div className='container row justify-content-center'>
 

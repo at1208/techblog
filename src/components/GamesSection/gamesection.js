@@ -6,7 +6,7 @@ import DeathStranding from './DeathStranding/deathstranding'
 const GamesSection = () => {
   return <div>
          <Header/>
-  <div className='container text-center'>
+  <div className='text-center'>
   <h1 className='e4'>Games Section</h1>
   <div className='container row justify-content-center'>
 

@@ -3,6 +3,7 @@ import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom';
+ 
 
 
 
@@ -53,6 +54,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-12'>
+
                        <MIUI11 />
                        <SpeedLaptop />
                        <Halo />

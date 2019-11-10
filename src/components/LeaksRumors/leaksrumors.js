@@ -9,7 +9,7 @@ import './leaksrumors.css'
 const LeakRumors = () => {
   return <div>
             <Header/>
-            <div className='container'>
+            <div className=''>
             <h1 className='e4 text-center'>Leaks & Rumors</h1>
                  <div className='container row justify-content-center'>
 
