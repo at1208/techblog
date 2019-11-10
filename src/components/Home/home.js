@@ -48,7 +48,7 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                      <div className='row justify-content-center col-md-10'>
+                      <div className='row justify-content-center col-md-12'>
                        <SpeedLaptop />
                        <Halo />
                        <DeathStranding />
@@ -64,10 +64,7 @@ class Home extends Component{
 
 
                </div>
-               <div className='col-md-2 c5 shadow text-center'>
-               <h1 className='c14'>Popular Posts</h1>
-               <hr />
-               </div>
+
            </div>
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
