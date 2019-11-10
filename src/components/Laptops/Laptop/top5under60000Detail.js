@@ -83,7 +83,7 @@ Good battery life.
 No SSD.
 Weaker GPU compared to others.
 </p>
-<b>Auther - Amit Rawat</b>
+<b>Author - Amit Rawat</b>
   </div>
   </div>
 }

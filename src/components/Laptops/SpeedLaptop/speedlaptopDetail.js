@@ -52,7 +52,7 @@ Now you can set the size manually and done.
   During booting of windows many programs start on startup and utilize system resources and make increase boot time and make system very slow during startup. you can stop starting of these programs at startup by going to Task manager /startup /and select the program and click disable button.
 </p>
 
-<b>Auther - Amit Rawat</b>
+<b>Author - Amit Rawat</b>
   </div>
   </div>
 }
