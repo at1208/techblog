@@ -23,6 +23,8 @@ import DeleteFacebook from './components/LeaksRumors/Deletingfb/deletingfbDetail
 import MobileUnder5000 from './components/Phones/mobileunder5000/mobileunder5000Detail';
 import DeathStranding from './components/GamesSection/DeathStranding/deathstrandingDetail';
 import Halo from './components/LeaksRumors/Halo/haloDetail';
+import SpeedLaptopDetail from './components/Laptops/SpeedLaptop/speedlaptopDetail';
+
 
 
 
@@ -44,6 +46,7 @@ ReactDOM.render(
    <Route path='/phones/best-mobiles-under-5000' exact component={MobileUnder5000} />
    <Route path='/gaming-section/death-stranding' exact component={DeathStranding} />
    <Route path='/leaks-rumors/halo-tv-series-goes-into-production' exact component={Halo} />
+   <Route path='/laptops/7-ways-to-speed-up-your-laptops' exact component={SpeedLaptopDetail} />
 
 
 

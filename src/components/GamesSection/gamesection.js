@@ -11,12 +11,14 @@ const GamesSection = () => {
   <div className='container row justify-content-center'>
 
   <div className='col-md-4'>
+  <DeathStranding />
+      </div>
+
+
+  <div className='col-md-4'>
   <Overwatch2 />
     </div>
 
-  <div className='col-md-4'>
-  <DeathStranding />
-      </div>
 
   </div>
     </div>
