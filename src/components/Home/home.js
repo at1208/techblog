@@ -3,6 +3,8 @@ import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom';
+import { InfiniteScroll } from 'react-simple-infinite-scroll'
+import Slide from 'react-reveal/Slide';
 
 
 
@@ -55,18 +57,49 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-12'>
+                          <Slide bottom>
+                          <MIUI11 />
+                          </Slide>
 
-                       <MIUI11 />
-                       <SpeedLaptop />
-                       <Halo />
-                       <DeathStranding />
-                       <DeleteFacebook />
-                       <MobileUnder5000 />
-                       <WaterView />
-                       <Realmex2pro />
-                       <Top5GamingLapUnder60000 />
-                       <HarleyDavidsonBikes />
-                       <Overwatch2 />
+                          <Slide bottom>
+                          <SpeedLaptop />
+                          </Slide>
+
+                          <Slide bottom>
+                          <Halo />
+                          </Slide>
+
+                          <Slide bottom>
+                          <DeathStranding />
+                          </Slide>
+
+                          <Slide bottom>
+                          <DeleteFacebook />
+                          </Slide>
+
+                          <Slide bottom>
+                          <MobileUnder5000 />
+                          </Slide>
+
+                          <Slide bottom>
+                          <WaterView />
+                          </Slide>
+
+                          <Slide bottom>
+                          <Realmex2pro />
+                          </Slide>
+
+                          <Slide bottom>
+                          <Top5GamingLapUnder60000 />
+                          </Slide>
+
+                          <Slide bottom>
+                          <HarleyDavidsonBikes />
+                          </Slide>
+
+                          <Slide bottom>
+                          <Overwatch2 />
+                          </Slide>
 
 
 
