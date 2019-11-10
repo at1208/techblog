@@ -9,7 +9,7 @@ const DeathStrandingDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>‘Halo’ TV Series goes into production</h5>
     <img src='../../../blog10.jpg' className='e1'/>
-  <p className='e2'>The Halo TV series has been in works for quite some time now. It was first announced in 2013. Things started looking better for the series adaptation based on the blockbuster video game in 2018, when first of its cast was announced. Showtime has announced, with the picture of the whole cast, that production is “about to begin” on the game-based show and has unveiled in the process three new cast members, as reported by Variety; Charlie Murphy, Danny Sapani and Olive Gray.
+  <p className='e3'>The Halo TV series has been in works for quite some time now. It was first announced in 2013. Things started looking better for the series adaptation based on the blockbuster video game in 2018, when first of its cast was announced. Showtime has announced, with the picture of the whole cast, that production is “about to begin” on the game-based show and has unveiled in the process three new cast members, as reported by Variety; Charlie Murphy, Danny Sapani and Olive Gray.
 </p>
     <img src='../../../blog10one.jpg' className='e1'/>
 
