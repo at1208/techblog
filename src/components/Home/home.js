@@ -10,6 +10,7 @@ import Top5GamingLapUnder60000 from '../Laptops/Laptop/top5under60000';
 import HarleyDavidsonBikes from '../LeaksRumors/HarleyDavidsonBikes/harleydavidsonbike';
 import Overwatch2 from '../GamesSection/Overwatch2/overwatch2';
 import DeleteFacebook from '../LeaksRumors/Deletingfb/deletingfb'
+import MobileUnder5000 from '../Phones/mobileunder5000/mobileunder5000';
 
 
 
@@ -45,6 +46,7 @@ class Home extends Component{
 
                       <div className='row justify-content-center col-md-10'>
                        <DeleteFacebook />
+                       <MobileUnder5000 />
                        <WaterView />
                        <Realmex2pro />
                        <Top5GamingLapUnder60000 />

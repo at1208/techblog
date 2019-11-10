@@ -1,16 +1,29 @@
 import React from 'react';
 import Header from '../Common/Header/header';
 import { Link } from 'react-router-dom'
-import Realmex2pro from './Realmex2pro/realmex2pro'
+import Realmex2pro from './Realmex2pro/realmex2pro';
+import MobileUnder5000 from './mobileunder5000/mobileunder5000'
 
 const Phones = () => {
   return <div>
          <Header/>
-         <div className='container text-center'>
-         <h1 className='e4'>Phone</h1>
-         <Realmex2pro />
+         <div className='text-center container '>
+         <h1 className='e4'>Mobiles</h1>
+         <div className='row justify-content-center text-center'>
+
+               <div className='col-md-4'>
+               <MobileUnder5000 />
+               </div>
+
+              <div className='col-md-4'>
+              <Realmex2pro />
+              </div>
+
+
+           </div>
          </div>
          </div>
+
 }
 
 export default Phones;

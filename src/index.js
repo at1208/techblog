@@ -20,6 +20,8 @@ import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/ha
 import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
 import Ayodhyaverdict from './components/TrendingNews/Ayodhyaverdict/ayodhyaverdictDetail'
 import DeleteFacebook from './components/LeaksRumors/Deletingfb/deletingfbDetail';
+import MobileUnder5000 from './components/Phones/mobileunder5000/mobileunder5000Detail'
+
 
 
 ReactDOM.render(
@@ -37,7 +39,7 @@ ReactDOM.render(
    <Route path='/leaksrumors/harley-davidson-electric-pedal-bikes' exact component={HarleyDavidsonBikes} />
    <Route path='/leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans' exact component={WantsToMapOcean} />
    <Route path='/leaksrumors/Brian-Acton-still-behind-the-idea-of-deleting-Facebook' exact component={DeleteFacebook} />
-
+   <Route path='/phones/best-mobiles-under-5000' exact component={MobileUnder5000} />
 
 
 
