@@ -11,6 +11,9 @@ import HarleyDavidsonBikes from '../LeaksRumors/HarleyDavidsonBikes/harleydavids
 import Overwatch2 from '../GamesSection/Overwatch2/overwatch2';
 import DeleteFacebook from '../LeaksRumors/Deletingfb/deletingfb'
 import MobileUnder5000 from '../Phones/mobileunder5000/mobileunder5000';
+import DeathStranding from '../GamesSection/DeathStranding/deathstranding';
+import Halo from '../LeaksRumors/Halo/halo';
+
 
 
 
@@ -45,6 +48,8 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-10'>
+                       <Halo />
+                       <DeathStranding />
                        <DeleteFacebook />
                        <MobileUnder5000 />
                        <WaterView />
@@ -52,6 +57,7 @@ class Home extends Component{
                        <Top5GamingLapUnder60000 />
                        <HarleyDavidsonBikes />
                        <Overwatch2 />
+
 
 
 
