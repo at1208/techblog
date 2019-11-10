@@ -3,6 +3,7 @@ import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 import { Carousel,Rate, Icon } from 'antd';
 
+
 const DeathStrandingDetail = () => {
   return <div>
   <Header />
