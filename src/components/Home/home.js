@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Header from '../Common/Header/header';
 import './home.css'
 import { Carousel,Rate, Icon } from 'antd';
-import { Link } from 'react-router-dom'
- 
+import { Link } from 'react-router-dom';
+
 
 
 import Realmex2pro from '../Phones/Realmex2pro/realmex2pro';
@@ -16,6 +16,7 @@ import MobileUnder5000 from '../Phones/mobileunder5000/mobileunder5000';
 import DeathStranding from '../GamesSection/DeathStranding/deathstranding';
 import Halo from '../LeaksRumors/Halo/halo';
 import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
+import MIUI11 from '../Phones/MIUI11/miui11';
 
 
 
@@ -52,7 +53,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-12'>
-
+                       <MIUI11 />
                        <SpeedLaptop />
                        <Halo />
                        <DeathStranding />
