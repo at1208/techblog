@@ -7,6 +7,14 @@ const SpeedLaptopDetail  = () => {
   <Header />
   <div className='container c21'>
   <h5 className='e5'>7 WAYS TO SPEED UP YOUR LAPTOP</h5>
+
+  <div className=''>
+   <img src='../../../amit.jpg' alt=''  className='c22'/>
+   <span className='c23'>Amit Rawat</span>
+  </div>
+
+
+
 <img src='../../blog11one.jpg' className='e1'/>
   <p className='e3'>Do you feel annoying by opening a application and waiting for ages to open it? We have covered all your problems by  various applications ,system optimization and hardware problems .it is not uncommon and perfectly normal part of laptop’s lifecycle ,time is usually the biggest cause of hardware slowdown of laptops and installation of many programs also degrade it’s performance with time . it’s unlikely that your laptop will never perform as it when it was box fresh but following  these steps will probably keep you from smashing it in anger.
 </p>
