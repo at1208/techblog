@@ -2,10 +2,12 @@ import React from 'react';
 import Header from '../Common/Header/header';
 import Overwatch2 from './Overwatch2/overwatch2';
 import DeathStranding from './DeathStranding/deathstranding';
+import RedgearPro from './RedgearPro/redgearpro'
 import GTA6 from './GTA6/gta6'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
+
 
 
 const GamesSection = () => {
@@ -15,6 +17,14 @@ const GamesSection = () => {
   <div className='text-center container'>
   <h1 className='e4'><Texty>Games Section</Texty></h1>
   <div className='row justify-content-center text-center '>
+
+
+  <Slide bottom>
+    <div className='col-md-4'>
+    <RedgearPro />
+    </div>
+  </Slide>
+
 
 <Slide bottom>
   <div className='col-md-4'>
