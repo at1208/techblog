@@ -8,6 +8,13 @@ const WantsToMapOceanDetail = () => {
   <Header />
   <div className='container c21'>
   <h5 className='e5'>Australian-based start-up wants to map the Oceans</h5>
+
+  <div className='container-fluid row'>
+   <img src='' alt=''  className='c22'/>
+   <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
+   </span>
+  </div>
+
 <img src='../../../blog5.jpg' className='e1'/>
   <p className='e3'>A Melbourne start-up named UAM Tec wants to create a “Google Street View” for the entire ocean floor by using Autonomous Submarines equipped with advanced technologies including AI and an array of sensors and cameras. The company wants to create the underwater version of Google Maps Street View- which it calls “WaterView”.</p>
   <img src='../../../blog5one.jpg' className='e1'/>

@@ -8,6 +8,12 @@ const AppleCreditCardDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Apple’s credit card under investigation for discrimination</h5>
 
+  <div className='container-fluid row'>
+   <img src='' alt=''  className='c22'/>
+   <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Mon, 11 Nov 2019</span>
+   </span>
+  </div>
+
 <img src='../../../blog15.jpg' className='e1'/>
   <p className='e3'>An inquiry into Apple’s credit card allegations has been launched by a US Financial Regulator which gave different credit limits for men and women.
 </p>

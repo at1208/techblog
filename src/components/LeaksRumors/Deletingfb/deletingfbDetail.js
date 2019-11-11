@@ -8,6 +8,13 @@ const DeletingfbDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Brian Acton still behind the idea of deleting Facebook</h5>
 
+  <div className='container-fluid row'>
+   <img src='' alt=''  className='c22'/>
+   <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
+   </span>
+  </div>
+
+
 <img src='../../../blog7.jpg' className='e1'/>
   <p className='e3'>At Wired’s 25th anniversary summit, WhatsApp co-founder Brian Acton told the crowd that, while individuals need to settle on their own choices about the social network, he remains by his choice to leave. “If you want to be on Facebook and you want to have ads thrust in front of you, go to town”, he added.</p>
 

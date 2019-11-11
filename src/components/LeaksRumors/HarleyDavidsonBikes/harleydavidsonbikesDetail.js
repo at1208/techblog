@@ -8,6 +8,12 @@ const HarleyDavidsonBikesDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Harley-Davidson’s Electric Pedal Bikes go on sale in 2020</h5>
 
+  <div className='container-fluid row'>
+   <img src='' alt=''  className='c22'/>
+   <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
+   </span>
+  </div>
+
   <p className='e3'>Things are about to change. When you first hear about pedal bikes, Harley-Davidson isn’t the name that pops up in your mind. But here we are.</p>
 
   <p className='e3'>Three new adult-sized electric bicycles are slated to roll off the production lines in 2020, bringing one of the oldest motorcycle companies in the world firmly into the electric vehicle age.
@@ -36,7 +42,7 @@ const HarleyDavidsonBikesDetail = () => {
 <p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production.
 </p>
 <p className='e3'>So, what do you think about these electric bicycles by Harley-Davidson? Let us know on our social handles.</p>
-  <b>Author - Anmol Raj Chauhan</b> 
+  <b>Author - Anmol Raj Chauhan</b>
   </div>
 
        </div>
