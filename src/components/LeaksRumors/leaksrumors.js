@@ -13,41 +13,41 @@ import PUBGMobile from './PUBGMobile/pubgmobile'
 const LeakRumors = () => {
   return <div>
             <Header/>
-            <div className=''>
-            <h1 className='e4 text-center'><Texty>Leaks & Rumors</Texty></h1>
-                 <div className='container-fluid row justify-content-center'>
+            <div className='text-center container '>
+            <h1 className='e4'><Texty>Leaks & Rumors</Texty></h1>
+                 <div className='row justify-content-center text-center'>
 
 
- <Slide bottom>
-                  <div className='col-md-3'>
-                   <PUBGMobile />
+                  <Slide bottom>
+                  <div className='col-md-4'>
+                  <PUBGMobile />
                   </div>
- </Slide>
+                  </Slide>
 
-<Slide bottom>
-                 <div className='col-md-3'>
+                  <Slide bottom>
+                  <div className='col-md-4'>
                   <Halo />
-                 </div>
-</Slide>
+                  </div>
+                  </Slide>
 
-<Slide bottom>
-                 <div className='col-md-3'>
+                  <Slide bottom>
+                  <div className='col-md-4'>
                   <Deletingfb />
-                 </div>
-</Slide>
+                  </div>
+                  </Slide>
 
-<Slide bottom>
-                  <div className='col-md-3 ' >
+                  <Slide bottom>
+                  <div className='col-md-4 ' >
                   <HarleyDavidsonBikes />
-                 </div>
-</Slide>
+                  </div>
+                  </Slide>
 
 
-<Slide bottom>
-                 <div className='col-md-3'>
+                  <Slide bottom>
+                  <div className='col-md-4'>
                   <WantsToMapOcean />
-                 </div>
-</Slide>
+                  </div>
+                  </Slide>
 
                  </div>
             </div>

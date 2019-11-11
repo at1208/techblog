@@ -15,23 +15,23 @@ const Phones = () => {
          <h1 className='e4'><Texty>Mobiles</Texty></h1>
          <div className='row justify-content-center text-center'>
 
-<Slide bottom>
-               <div className='col-md-4'>
-               <MIUI11 />
-               </div>
-</Slide>
+          <Slide bottom>
+          <div className='col-md-4'>
+          <MIUI11 />
+          </div>
+          </Slide>
 
-<Slide bottom>
-               <div className='col-md-4'>
-               <MobileUnder5000 />
-               </div>
-</Slide>
+          <Slide bottom>
+          <div className='col-md-4'>
+          <MobileUnder5000 />
+          </div>
+          </Slide>
 
-<Slide bottom>
-              <div className='col-md-4'>
-              <Realmex2pro />
-              </div>
-</Slide>
+          <Slide bottom>
+          <div className='col-md-4'>
+          <Realmex2pro />
+          </div>
+          </Slide>
 
 
            </div>
