@@ -20,7 +20,7 @@ import DeathStranding from '../GamesSection/DeathStranding/deathstranding';
 import Halo from '../LeaksRumors/Halo/halo';
 import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
 import MIUI11 from '../Phones/MIUI11/miui11';
- 
+
 
 
 
@@ -32,25 +32,7 @@ class Home extends Component{
            <Header />
 
            <div className= 'c1'>
-                  <Carousel autoplay className=''>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://boygeniusreport.files.wordpress.com/2019/11/bgr-iphone-11-pro-1.jpg?quality=98&strip=all' className='card-img-top c8' alt='' />
-                  </div>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://i.gadgets360cdn.com/large/redmi_k20_pro_1560603064778.jpg' className='card-img-top c8' alt='' />
-                  </div>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://cdn.wccftech.com/wp-content/uploads/2018/08/Nokia-9.jpg' className='card-img-top c8' alt='' />
-                  </div>
-
-                  <div className='c3  container-fluid '>
-                    <img src='https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/11/04/Pictures/_d5b22ac4-ff02-11e9-96b3-72dd611148b5.jpg' className='card-img-top c8' alt='' />
-                  </div>
-
-                  </Carousel>
+                 
 
 
         <div className='container-fluid c4'>

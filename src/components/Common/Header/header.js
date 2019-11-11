@@ -43,11 +43,11 @@ else if(isDesktopOrLaptop){
                       <div className='row justify-content-center container-fluid'>
 
                               <Link to='/phones' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Phones</button>
+                              <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Mobiles</button>
                               </Link>
 
                               <Link to='/gaming-section' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="robot" className='float-left b7'/>Gaming Section</button>
+                              <button className=' btn btn-block   shadow a5'><Icon type="robot" className='float-left b7'/>Games</button>
                               </Link>
 
                               <Link to='/headphone-earphones' className=''>
