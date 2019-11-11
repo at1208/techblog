@@ -56,15 +56,6 @@ class Home extends Component{
                           <GTA6 />
                           </Slide>
 
-                          <div id="667478026">
-                          <script type="text/javascript">
-                              try {
-                                  window._mNHandle.queue.push(function (){
-                                      window._mNDetails.loadTag("667478026", "300x50", "667478026");
-                                  });
-                              }
-                              catch (error) {}
-                          </script>
 
                           <Slide bottom>
                           <Pubgmobile />
