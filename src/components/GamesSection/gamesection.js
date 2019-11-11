@@ -11,9 +11,10 @@ import Slide from 'react-reveal/Slide';
 const GamesSection = () => {
   return <div>
          <Header/>
-  <div className='text-center'>
+
+  <div className='text-center container'>
   <h1 className='e4'><Texty>Games Section</Texty></h1>
-  <div className='container row justify-content-center'>
+  <div className='row justify-content-center text-center '>
 
 <Slide bottom>
   <div className='col-md-4'>
