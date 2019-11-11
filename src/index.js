@@ -25,7 +25,9 @@ import DeathStranding from './components/GamesSection/DeathStranding/deathstrand
 import Halo from './components/LeaksRumors/Halo/haloDetail';
 import SpeedLaptopDetail from './components/Laptops/SpeedLaptop/speedlaptopDetail';
 import MIUI11Detail from './components/Phones/MIUI11/miui11Detail';
-import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDetail'
+import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDetail';
+import GTA6 from './components/GamesSection/GTA6/gta6Detail';
+
 
 
 
@@ -51,6 +53,8 @@ ReactDOM.render(
    <Route path='/laptops/7-ways-to-speed-up-your-laptops' exact component={SpeedLaptopDetail} />
    <Route path='/phones/miui-11-life-gets-easier-Features-and-rollout-dates' exact component={MIUI11Detail} />
    <Route path='/leaks-rumors/PUBG-Mobile-0.16.0-Update-could-bring-Erangle-2.0' exact component={PubgmobileDetail} />
+   <Route path='/gaming-section/GTA-6-LAUNCH-DATE' exact component={GTA6} />
+
 
 
 

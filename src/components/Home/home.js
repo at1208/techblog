@@ -21,6 +21,7 @@ import Halo from '../LeaksRumors/Halo/halo';
 import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
 import MIUI11 from '../Phones/MIUI11/miui11';
 import Pubgmobile from '../LeaksRumors/PUBGMobile/pubgmobile'
+import GTA6 from '../GamesSection/GTA6/gta6'
 
 
 
@@ -40,6 +41,11 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-10'>
+
+                          <Slide bottom>
+                          <GTA6 />
+                          </Slide>
+
 
                           <Slide bottom>
                           <Pubgmobile />

@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../Common/Header/header';
 import Overwatch2 from './Overwatch2/overwatch2';
 import DeathStranding from './DeathStranding/deathstranding';
+import GTA6 from './GTA6/gta6'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
@@ -16,15 +17,22 @@ const GamesSection = () => {
 
 <Slide bottom>
   <div className='col-md-4'>
+  <GTA6 />
+  </div>
+</Slide>
+
+
+<Slide bottom>
+  <div className='col-md-4'>
   <DeathStranding />
-      </div>
+  </div>
 </Slide>
 
 
 <Slide bottom>
   <div className='col-md-4'>
   <Overwatch2 />
-    </div>
+  </div>
 </Slide>
 
 
