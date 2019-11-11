@@ -38,7 +38,7 @@ const RedgearPro = () => {
               <li> X-Input and Direct Input </li>
               <p className='e3'>This gamepad offers a dedicated switch for shifting between X-input mode and direct-input. Check manual how to switch between x and the input mode.
 </p>
-           <img src='../../../blog16four.jpg' className='e1'/>
+           <img src='../../../blog16four.png' className='e1'/>
             <li> Realistic Vibration Motors </li>
             <p className='e3'>The gamepad has an integrated dual intensity motor which allows a realistic gaming experience. Now experience the crashes, bumps and shots with a realistic intense vibration!</p>
               <img src='../../../blog16five.jpg' className='e1'/>
