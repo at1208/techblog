@@ -27,6 +27,7 @@ import SpeedLaptopDetail from './components/Laptops/SpeedLaptop/speedlaptopDetai
 import MIUI11Detail from './components/Phones/MIUI11/miui11Detail';
 import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDetail';
 import GTA6 from './components/GamesSection/GTA6/gta6Detail';
+import AppleCard from './components/LeaksRumors/AppleCreditCard/applecreditcardDetail'
 
 
 
@@ -54,6 +55,7 @@ ReactDOM.render(
    <Route path='/phones/miui-11-life-gets-easier-Features-and-rollout-dates' exact component={MIUI11Detail} />
    <Route path='/leaks-rumors/PUBG-Mobile-0.16.0-Update-could-bring-Erangle-2.0' exact component={PubgmobileDetail} />
    <Route path='/gaming-section/GTA-6-LAUNCH-DATE' exact component={GTA6} />
+   <Route path='/leaksrumors/Apple-credit-card-under-investigation-for-discrimination' exact component={AppleCard} />
 
 
 

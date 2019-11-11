@@ -8,7 +8,8 @@ import './leaksrumors.css'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
-import PUBGMobile from './PUBGMobile/pubgmobile'
+import PUBGMobile from './PUBGMobile/pubgmobile';
+import AppleCard from './AppleCreditCard/applecreditcard'
 
 const LeakRumors = () => {
   return <div>
@@ -17,6 +18,12 @@ const LeakRumors = () => {
             <h1 className='e4'><Texty>Leaks & Rumors</Texty></h1>
                  <div className='row justify-content-center text-center'>
 
+
+                 <Slide bottom>
+                 <div className='col-md-4'>
+                 <AppleCard />
+                 </div>
+                 </Slide>
 
                   <Slide bottom>
                   <div className='col-md-4'>
