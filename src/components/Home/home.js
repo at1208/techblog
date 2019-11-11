@@ -39,7 +39,7 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                      <div className='row justify-content-center col-md-12'>
+                      <div className='row justify-content-center col-md-10'>
 
                           <Slide bottom>
                           <Pubgmobile />
