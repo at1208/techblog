@@ -78,7 +78,7 @@ Best buy Link -<a href='https://www.flipkart.com/infinix-smart-2-sandstone-black
 
 </p>
 
-   <b>Author - Dikshant Gautam</b>
+ 
        </div>
 
          </div>

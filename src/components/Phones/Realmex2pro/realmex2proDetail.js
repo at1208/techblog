@@ -33,7 +33,7 @@ const Realmex2proDetails = () => {
 
 <p className='e2'>Best Buy Links – </p>
 <p className='e3'>To Be Added Soon</p>
-   <b>Author - Dikshant Gautam</b>
+ 
        </div>
 
          </div>
