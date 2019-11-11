@@ -10,7 +10,7 @@ const Overwatch2Detail = () => {
 
          <div className=''>
           <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
-          <span className='c23'>Abhishek Nagar</span>
+          <span className='c23'>Abhishek Naagar</span>
          </div>
 
 
@@ -40,7 +40,7 @@ We can only hope for the best.
   <p className='e3'>A new cinematic introduced the sequel. Clearly the cinematic team does not believe in following the meta, as there were no Sigma or Orisa shields in sight. The cinematic also showed Echo. No official word yet on whether she will be playable in Overwatch and Overwatch
 Overwatch recently came to Nintendo Switch.
 </p>
- 
+
          </div>
            </div>
 }

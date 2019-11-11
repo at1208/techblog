@@ -12,7 +12,7 @@ const DeathStrandingDetail = () => {
 
   <div className=''>
    <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
-   <span className='c23'>Abhishek Nagar</span>
+   <span className='c23'>Abhishek Naagar</span>
   </div>
 
 

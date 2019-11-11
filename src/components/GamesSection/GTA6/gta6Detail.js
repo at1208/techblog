@@ -12,7 +12,7 @@ const DeathStrandingDetail = () => {
 
   <div className=''>
    <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
-   <span className='c23'>Abhishek Nagar</span>
+   <span className='c23'>Abhishek Naagar</span>
   </div>
 
 
@@ -47,7 +47,7 @@ Last of us 2 Uncharted
 </p>
 <p className='e3'>We will update when their will be official confirmation from rockstar games.
 </p>
-  
+
   </div>
        </div>
 }
