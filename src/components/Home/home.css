@@ -221,7 +221,7 @@ height: 100%;
 }
 .c17{
 
- 
+
     font-family: 'Raleway', sans-serif;
   font-weight: lighter;
   padding: 2px;
@@ -260,12 +260,20 @@ h6{
   width: 50px;
   margin-top: 30px;
   margin-right: 10px;
-
   margin-bottom: 20px;
   border: 2px solid #84ffff;
 }
 .c23{
-  font-style: normal;
- font-weight: 600;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 600;
   color: black
+}
+.c24{
+ margin-top: 30px;
+}
+.c25{
+font-family: 'Raleway', sans-serif;
+ font-weight: lighter;
+ font-size: 14px;
+  color: grey;
 }

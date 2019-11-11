@@ -9,9 +9,10 @@ const Realmex2proDetails = () => {
        <div className='container c21'>
        <h5 className='e5'>Realme X2 Pro “Faster. Sharper. Bolder”</h5>
 
-       <div className=''>
+       <div className='container-fluid row'>
         <img src='../../../dikshant.jpg' alt=''  className='c22'/>
-        <span className='c23'>Dikshant Gautam</span>
+        <span className='c24 c23'>Dikshant Gautam<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
+        </span>
        </div>
 
 
@@ -33,7 +34,7 @@ const Realmex2proDetails = () => {
 
 <p className='e2'>Best Buy Links – </p>
 <p className='e3'>To Be Added Soon</p>
- 
+
        </div>
 
          </div>

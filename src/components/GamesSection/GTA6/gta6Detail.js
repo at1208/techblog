@@ -10,9 +10,10 @@ const DeathStrandingDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>GTA 6 LAUNCH DATE</h5>
 
-  <div className=''>
+  <div className='container-fluid row'>
    <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
-   <span className='c23'>Abhishek Naagar</span>
+   <span className='c24  c23'>Abhishek Naagar <br /> <span  className='c25'>Mon, 11 Nov 2019</span>
+   </span>
   </div>
 
 

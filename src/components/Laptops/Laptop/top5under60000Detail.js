@@ -7,11 +7,11 @@ const Top5Under60000  = () => {
             <div className='container c21'>
             <h5 className='e5'>Top 5 Gaming Laptops Under 60000</h5>
 
-            <div className=''>
+            <div className='container-fluid row'>
              <img src='../../../amit.jpg' alt=''  className='c22'/>
-             <span className='c23'>Amit Rawat</span>
+             <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
+             </span>
             </div>
-
 
             <img src='../../blog2.jpg' className='e1'/>
             <p className='e3'>Here is the list of most top 5 amazing gaming laptops in India under 60000 INR .In the emerging phase of esports in India many game enthusiastic peoples are taking interest in gaming ,so here is the list of best 5 entry level gaming laptops available in india right now!! .
@@ -90,7 +90,7 @@ const Top5Under60000  = () => {
             No SSD.
             Weaker GPU compared to others.
             </p>
-         
+
             </div>
   </div>
 }

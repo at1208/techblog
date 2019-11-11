@@ -9,11 +9,11 @@ const MobileUnder5000Detail = () => {
        <div className='container c21'>
        <h5 className='e5'>Best Mobile Phones Under Rs.5000</h5>
 
-       <div className=''>
+       <div className='container-fluid row'>
         <img src='../../../dikshant.jpg' alt=''  className='c22'/>
-        <span className='c23'>Dikshant Gautam</span>
+        <span className='c24 c23'>Dikshant Gautam<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
+        </span>
        </div>
-
 
 
    <p className='e2'>1. Nokia 1</p>
@@ -78,7 +78,7 @@ Best buy Link -<a href='https://www.flipkart.com/infinix-smart-2-sandstone-black
 
 </p>
 
- 
+
        </div>
 
          </div>

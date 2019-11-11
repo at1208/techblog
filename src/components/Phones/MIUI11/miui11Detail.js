@@ -9,11 +9,11 @@ const MIUI11Detail = () => {
        <div className='container c21'>
               <h5 className='e5'>MIUI 11 “Life Gets Easier” Features And Rollout Dates </h5>
 
-              <div className=''>
+              <div className='container-fluid row'>
                <img src='../../../dikshant.jpg' alt=''  className='c22'/>
-               <span className='c23'>Dikshant Gautam</span>
+               <span className='c24 c23'>Dikshant Gautam<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
+               </span>
               </div>
-
 
               <img src='../../../blog12.png' className='e1'/>
               <p className='e3'>MIUI is custom skin by Xiaomi built on top of Android. MIUI 11 is Xiaomi’s successor to there MIUI 10. It started rolling out globally on 22nd October 2019 and is expected to roll out on eligible devices listed below. It is rolling out in phases. Check out below when your device would get it. MIUI 11 comes with many exciting and useful features which we have listed down below…so check them out.

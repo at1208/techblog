@@ -8,11 +8,11 @@ const Overwatch2Detail = () => {
          <div className='container c21'>
          <h5 className='e5'>OVERWATCH2</h5>
 
-         <div className=''>
+         <div className='container-fluid row'>
           <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
-          <span className='c23'>Abhishek Naagar</span>
+          <span className='c24 c23'>Abhishek Naagar <br /> <span  className='c25'>Sat, 9 Nov 2019</span>
+          </span>
          </div>
-
 
          <img src='../../../blog3.png' className='e1'/>
          <p className='e2'>ANNOUNCEMENT -</p>

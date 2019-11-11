@@ -8,9 +8,10 @@ const SpeedLaptopDetail  = () => {
   <div className='container c21'>
   <h5 className='e5'>7 WAYS TO SPEED UP YOUR LAPTOP</h5>
 
-  <div className=''>
+  <div className='container-fluid row'>
    <img src='../../../amit.jpg' alt=''  className='c22'/>
-   <span className='c23'>Amit Rawat</span>
+   <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
+   </span>
   </div>
 
 
@@ -60,7 +61,7 @@ Now you can set the size manually and done.
   During booting of windows many programs start on startup and utilize system resources and make increase boot time and make system very slow during startup. you can stop starting of these programs at startup by going to Task manager /startup /and select the program and click disable button.
 </p>
 
- 
+
   </div>
   </div>
 }
