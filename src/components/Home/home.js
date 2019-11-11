@@ -20,6 +20,7 @@ import DeathStranding from '../GamesSection/DeathStranding/deathstranding';
 import Halo from '../LeaksRumors/Halo/halo';
 import SpeedLaptop from '../Laptops/SpeedLaptop/speedlaptop';
 import MIUI11 from '../Phones/MIUI11/miui11';
+import Pubgmobile from '../LeaksRumors/PUBGMobile/pubgmobile'
 
 
 
@@ -32,13 +33,18 @@ class Home extends Component{
            <Header />
 
            <div className= 'c1'>
-                 
+
 
 
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
                       <div className='row justify-content-center col-md-12'>
+
+                          <Slide bottom>
+                          <Pubgmobile />
+                          </Slide>
+
                           <Slide bottom>
                           <MIUI11 />
                           </Slide>

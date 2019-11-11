@@ -245,6 +245,7 @@ h6{
 .c21{
   margin-top: 20px;
   width: 700px;
+ 
 }
 
 @media (max-width: 575.98px) {
@@ -264,5 +265,7 @@ h6{
   border: 2px solid #84ffff;
 }
 .c23{
-    font-weight:  700;
+  font-style: normal;
+ font-weight: 600;
+  color: black
 }
