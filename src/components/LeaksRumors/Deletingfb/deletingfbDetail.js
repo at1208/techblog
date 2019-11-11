@@ -38,7 +38,7 @@ Acton is not really the primary Facebook official to take a stand in opposition 
 <p className='e3'>Referring to these challenges, Acton said Zuckerberg is confronting a daunting struggle. “More power to Facebook if they accomplish it,” he added. “But it’ll be difficult for them to do.”
 
 </p>
-  <b>Author - Anmol Raj Chauhan</b>
+ 
   </div>
 
        </div>

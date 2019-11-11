@@ -38,7 +38,7 @@ const DeathStrandingDetail = () => {
 </ul>
 </p>
 
-<b>Author - Anmol Raj Chauhan</b>
+ 
 
   </div>
        </div>

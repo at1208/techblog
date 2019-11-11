@@ -44,7 +44,7 @@ const WantsToMapOceanDetail = () => {
   <Icon type="twitter" className='c12'/>
 </a>
 <br />
-<b>Author - Anmol Raj Chauhan</b>
+ 
 
   </div>
        </div>
