@@ -34,13 +34,13 @@ if(isTabletOrMobile){
 else if(isDesktopOrLaptop){
   return <div className='container-fluid a1 '>
                      <div className='row'>
-                       <div className='a2 '>
+                       <div className='a2 container-fluid'>
                            <Link to='/'>
-                      <h1 className='a3'>GeekBoy.<span className='a4'>tech</span></h1>
-                      </Link>
+                             <h1 className='a3'>GeekBoy.<span className='a4'>tech</span></h1>
+                           </Link>
 
-                      <div className='text-center container-fluid'>
-                      <div className='row justify-content-center'>
+
+                      <div className='row justify-content-center container-fluid'>
 
                               <Link to='/phones' className=''>
                               <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Phones</button>
@@ -64,7 +64,6 @@ else if(isDesktopOrLaptop){
 
 
                      </div>
-                      </div>
 
                        </div>
                </div>

@@ -11,21 +11,22 @@
 
 }
 .a3{
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     font-size: 40px;
     color: white;
     font-family: 'ZCOOL XiaoWei', serif;
 }
 .a4{
   color: red;
+  font-size: 25px;
 }
 .a5{
-  margin: 1.5px;
+  margin: 5px;
 background-color: white;
-width: 158px;
+width: 140px;
 padding: 2px;
 font-family: 'Cabin', sans-serif;
 }
 .btn{
-  border-radius: 0px 0px 0px 0px;
+
 }
