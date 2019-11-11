@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../../Common/Header/header';
- 
+
 
 
 const Realmex2proDetails = () => {
@@ -8,6 +8,14 @@ const Realmex2proDetails = () => {
        <Header/>
        <div className='container c21'>
        <h5 className='e5'>Realme X2 Pro “Faster. Sharper. Bolder”</h5>
+
+       <div className=''>
+        <img src='../../../dikshant.jpg' alt=''  className='c22'/>
+        <span className='c23'>Dikshant Gautam</span>
+       </div>
+
+
+
        <img src='../../../blog1.png' className='e1'/>
        <p className='e3'>Realme X2 Pro is the new latest upcoming offering from Realme Brand. The Smartphone Launch has been teased by Flipkart. The smartphone competes with OnePlus 7T And Redmi K20 Pro. The smartphone Realme X2 Pro Comes With Qualcomm’s latest flagship processor Snapdragon 855+ SOC. It also has RAM upto 12GB And 256GB of onboard storage.
 </p>

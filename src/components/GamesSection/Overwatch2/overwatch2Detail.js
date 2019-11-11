@@ -7,6 +7,13 @@ const Overwatch2Detail = () => {
          <Header/>
          <div className='container c21'>
          <h5 className='e5'>OVERWATCH2</h5>
+
+         <div className=''>
+          <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
+          <span className='c23'>Abhishek Nagar</span>
+         </div>
+
+
          <img src='../../../blog3.png' className='e1'/>
          <p className='e2'>ANNOUNCEMENT -</p>
   <p className='e3'>Overwatch game director Jeff Kaplan officially announced Overwatch 2 at BlizzCon today.

@@ -9,7 +9,16 @@ const DeathStrandingDetail = () => {
   <Header />
   <div className='container c21'>
   <h5 className='e5'>Death Stranding</h5>
+
+  <div className=''>
+   <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
+   <span className='c23'>Abhishek Nagar</span>
+  </div>
+
+
   <p className='e2'>WHAT IS THIS GAME ACTUALLY ?</p>
+
+
   <img src='../../../blog9.png' className='e1'/>
 
   <p className='e3'>As we start giving review about this game created by Hideo Kojima (who is also the creator of METAL GEAR SOLID best of all time) one thing should clear that the it took 3 years from teaser to final game.
@@ -40,8 +49,8 @@ And it's the only incident he was seen laugh.
   <a href='https://www.amazon.in/SIEE-PS4-Death-Stranding/dp/B07V7KV81S/ref=sr_1_1?crid=1TGAV7Q7LJLSZ&keywords=death+stranding&qid=1573366680&sprefix=death+%2Caps%2C298&sr=8-1'>Amazon</a>
    <br />
    <a href='https://www.flipkart.com/death-stranding-ps4/p/itmfb1da0684175d '>Flipkart</a>
-<br />
-<b>Author - Abhishek Nagar</b>
+
+
 
   </div>
        </div>

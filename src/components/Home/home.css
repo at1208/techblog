@@ -242,4 +242,25 @@ h6{
 }
 .c21{
   margin-top: 20px;
+  width: 700px;
+}
+
+@media (max-width: 575.98px) {
+  .c21{
+    margin-top: 20px;
+    width: 100%
+  }
+}
+.c22{
+  border-radius: 100px;
+  height: 50px;
+  width: 50px;
+  margin-top: 30px;
+  margin-right: 10px;
+
+  margin-bottom: 20px;
+  border: 2px solid #84ffff;
+}
+.c23{
+    font-weight:  700;
 }
