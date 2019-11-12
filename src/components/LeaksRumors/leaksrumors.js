@@ -11,6 +11,18 @@ import Slide from 'react-reveal/Slide';
 import PUBGMobile from './PUBGMobile/pubgmobile';
 import AppleCard from './AppleCreditCard/applecreditcard'
 
+
+import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
+import Billiboard from '../Ads/Billiboard'
+import HalfPageAd from '../Ads/HalfPageAd'
+import Smartphonebanner2 from '../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../Ads/SuperLeaderboard';
+import WideScraper from '../Ads/WideScraper'
+import MediumRectangle from '../Ads/MediumRectangle'
+
+
+
+
 const LeakRumors = () => {
   return <div>
             <Header/>
@@ -18,43 +30,50 @@ const LeakRumors = () => {
             <h1 className='e4'><Texty>Leaks & Rumors</Texty></h1>
                  <div className='row justify-content-center text-center'>
 
-
+  <div className='row justify-content-center col-md-9 c28'>
                  <Slide bottom>
-                 <div className='col-md-4'>
+                 <div className=''>
                  <AppleCard />
                  </div>
                  </Slide>
 
                   <Slide bottom>
-                  <div className='col-md-4'>
+                  <div className=''>
                   <PUBGMobile />
                   </div>
                   </Slide>
 
                   <Slide bottom>
-                  <div className='col-md-4'>
+                  <div className=''>
                   <Halo />
                   </div>
                   </Slide>
 
                   <Slide bottom>
-                  <div className='col-md-4'>
+                  <div className=''>
                   <Deletingfb />
                   </div>
                   </Slide>
 
                   <Slide bottom>
-                  <div className='col-md-4 ' >
+                  <div className=' ' >
                   <HarleyDavidsonBikes />
                   </div>
                   </Slide>
 
 
                   <Slide bottom>
-                  <div className='col-md-4'>
+                  <div className=''>
                   <WantsToMapOcean />
                   </div>
                   </Slide>
+
+                  </div>
+                  <div className='row justify-content-center col-md-3 c27 '>
+                  <WideScraper />
+                  <HalfPageAd />
+                    <Smartphonebanner2 />
+                  </div>
 
                  </div>
             </div>

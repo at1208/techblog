@@ -11,7 +11,7 @@ import { Icon } from 'antd';
 
 const Header = () => {
 
-  const isDesktopOrLaptop = useMediaQuery({ query: '(min-device-width: 1224px)' })
+   const isDesktopOrLaptop = useMediaQuery({ query: '(min-device-width: 1224px)' })
     const isBigScreen = useMediaQuery({ query: '(min-device-width: 1824px)' })
     const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
     const isTabletOrMobileDevice = useMediaQuery({ query: '(max-device-width: 1224px)' })
