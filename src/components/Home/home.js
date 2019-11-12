@@ -24,7 +24,8 @@ import MIUI11 from '../Phones/MIUI11/miui11';
 import Pubgmobile from '../LeaksRumors/PUBGMobile/pubgmobile'
 import GTA6 from '../GamesSection/GTA6/gta6'
 import AppleCard from '../LeaksRumors/AppleCreditCard/applecreditcard';
-import RedgearPro from '../GamesSection/RedgearPro/redgearpro'
+import RedgearPro from '../GamesSection/RedgearPro/redgearpro';
+import Nightangle from '../LeaksRumors/Nightangle/nightangle'
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -59,10 +60,14 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
-          
+
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
+
+                          <Slide bottom>
+                          <Nightangle />
+                          </Slide>
 
                           <Slide bottom>
                           <RedgearPro />

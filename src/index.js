@@ -29,6 +29,7 @@ import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDeta
 import GTA6 from './components/GamesSection/GTA6/gta6Detail';
 import AppleCard from './components/LeaksRumors/AppleCreditCard/applecreditcardDetail';
 import RedgearPro from './components/GamesSection/RedgearPro/redgearproDetail';
+import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail'
 
 
 
@@ -58,6 +59,7 @@ ReactDOM.render(
    <Route path='/gaming-section/GTA-6-LAUNCH-DATE' exact component={GTA6} />
    <Route path='/leaksrumors/Apple-credit-card-under-investigation-for-discrimination' exact component={AppleCard} />
    <Route path='/gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”' exact component={RedgearPro} />
+   <Route path='/leaks-rumors/Google-announces-Project-Nightingale' exact component={Nightangle} />
 
 
 
