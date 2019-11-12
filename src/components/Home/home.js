@@ -53,7 +53,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
-                  hnkk
+
 
                   </div>
 
@@ -125,8 +125,8 @@ class Home extends Component{
 
                </div>
                <div className='row justify-content-center col-md-3 c27 '>
-               <HalfPageAd />
                <WideScraper />
+               <HalfPageAd />         
                <Smartphonebanner2 />
                <Billiboard />
                </div>
