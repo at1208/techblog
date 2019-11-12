@@ -26,11 +26,11 @@ import AppleCard from '../LeaksRumors/AppleCreditCard/applecreditcard';
 import RedgearPro from '../GamesSection/RedgearPro/redgearpro'
 
 
-import SmartphoneBannerAd from '../Ads/SmartphoneBanner1'
+import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
 import HalfPageAd from '../Ads/HalfPageAd'
-import SmartphoneBanner2 from '../Ads/SmartphoneBanner2'
-import SuperLeaderBoard from '../Ads/SuperLeaderBoard'
+import Smartphonebanner2 from '../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../Ads/SuperLeaderboard'
 import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle'
 
@@ -57,11 +57,11 @@ class Home extends Component{
                           </Slide>
 
 
-                         <SmartphoneBannerAd />
+                         <SmartphoneBanner1 />
                          <Billiboard />
                          <HalfPageAd />
-                         <SmartphoneBanner2 />
-                         <SuperLeaderBoard />
+                         <Smartphonebanner2 />
+                         <SuperLeaderboard />
                          <WideScraper />
 
 
