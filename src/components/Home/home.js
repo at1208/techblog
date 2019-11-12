@@ -126,13 +126,12 @@ class Home extends Component{
                </div>
                <div className='row justify-content-center col-md-3 c27 '>
                <WideScraper />
-               <HalfPageAd />         
+               <HalfPageAd />
                <Smartphonebanner2 />
                <Billiboard />
                </div>
 
            </div>
-             <SuperLeaderboard />
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
         <h1 className='c13'>Connect with us</h1>
