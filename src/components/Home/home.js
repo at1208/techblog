@@ -27,6 +27,12 @@ import RedgearPro from '../GamesSection/RedgearPro/redgearpro'
 
 
 import SmartphoneBannerAd from '../Ads/SmartphoneBanner1'
+import Billiboard from '../Ads/Billiboard'
+import HalfPageAd from '../Ads/HalfPageAd'
+import SmartphoneBanner2 from '../Ads/SmartphoneBanner2'
+import SuperLeaderBoard from '../Ads/SuperLeaderBoard'
+import WideScraper from '../Ads/WideScraper'
+import MediumRectangle from '../Ads/MediumRectangle'
 
 
 
@@ -51,6 +57,12 @@ class Home extends Component{
                           </Slide>
 
                          <SmartphoneBannerAd />
+                         <Billiboard />
+                         <HalfPageAd />
+                         <SmartphoneBanner2 />
+                         <SuperLeaderBoard />
+                         <WideScraper />
+                       
 
                           <Slide bottom>
                           <AppleCard />
