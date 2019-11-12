@@ -30,7 +30,7 @@ import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
 import HalfPageAd from '../Ads/HalfPageAd'
 import Smartphonebanner2 from '../Ads/Smartphonebanner2'
-import SuperLeaderboard from '../Ads/SuperLeaderboard'
+import SuperLeaderboard from '../Ads/SuperLeaderboard';
 import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle'
 
@@ -57,11 +57,10 @@ class Home extends Component{
                           </Slide>
 
 
-                         <SmartphoneBanner1 />
-                         <Billiboard />
+
                          <HalfPageAd />
                          <Smartphonebanner2 />
-                         <SuperLeaderboard />
+
                          <WideScraper />
 
 
@@ -123,8 +122,11 @@ class Home extends Component{
                           </Slide>
 
 
-
-
+           <div className='row justify-content-center col-md-4'>
+           <SmartphoneBanner1 />
+           <Billiboard />
+           </div>
+   <SuperLeaderboard />
                </div>
 
            </div>
