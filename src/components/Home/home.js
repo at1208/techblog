@@ -49,7 +49,7 @@ class Home extends Component{
 
 
 
-        <div className='container-fluid c4'>
+        <div className='container-fluid c4 text-center'>
                   <div className='row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
@@ -128,7 +128,6 @@ class Home extends Component{
                <HalfPageAd />
                <Smartphonebanner2 />
                <WideScraper />
-               <SmartphoneBanner1 />
                <Billiboard />
                </div>
 
