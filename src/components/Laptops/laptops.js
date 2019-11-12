@@ -22,7 +22,7 @@ import MediumRectangle from '../Ads/MediumRectangle'
 const Laptops = () => {
   return <div>
             <Header/>
-            <div className=' '>
+            <div className='container'>
             <h1 className='e4 text-center'><Texty>Laptops</Texty></h1>
                  <div className='container row justify-content-center'>
 
