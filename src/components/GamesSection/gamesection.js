@@ -26,13 +26,10 @@ const GamesSection = () => {
   <h1 className='e4'><Texty>Games Section</Texty></h1>
   <div className='row justify-content-center text-center '>
 
-  <div className='row justify-content-center col-md-2 c27'>
 
-  </div>
-
-  <div className='row justify-content-center col-md-7 c28'>
+  <div className='row justify-content-center col-md-9 c28'>
           <Slide bottom>
-          <div className=' '>
+          <div className=''>
           <RedgearPro />
           </div>
           </Slide>
@@ -61,8 +58,8 @@ const GamesSection = () => {
   </div>
   <div className='row justify-content-center col-md-3 c27 '>
   <WideScraper />
-  <Smartphonebanner2 />
   <HalfPageAd />
+    <Smartphonebanner2 />
 
 
   </div>
