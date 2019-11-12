@@ -5,6 +5,7 @@ import { Carousel,Rate, Icon } from 'antd';
 import { Link } from 'react-router-dom';
 import { InfiniteScroll } from 'react-simple-infinite-scroll'
 import Slide from 'react-reveal/Slide';
+import { useMediaQuery } from 'react-responsive';
 
 
 
