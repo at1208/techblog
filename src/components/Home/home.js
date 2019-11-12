@@ -64,13 +64,6 @@ class Home extends Component{
                           </Slide>
 
 
-
-                         <HalfPageAd />
-                         <Smartphonebanner2 />
-
-                         <WideScraper />
-
-
                           <Slide bottom>
                           <AppleCard />
                           </Slide>
@@ -132,7 +125,9 @@ class Home extends Component{
 
                </div>
                <div className='row justify-content-center col-md-3 c27 shadow'>
-  
+               <HalfPageAd />
+               <Smartphonebanner2 />
+               <WideScraper />
                <SmartphoneBanner1 />
                <Billiboard />
                </div>
