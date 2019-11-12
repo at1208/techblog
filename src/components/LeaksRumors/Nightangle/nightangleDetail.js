@@ -14,13 +14,15 @@ const NightingaleDetail = () => {
    </span>
   </div>
 
+    <img src='../../../blog17.jpg' className='e1'/>
+
   <p className='e3'>The wellness goals of Google are multi-faceted and apply to hospital and health care facilities. Such an effort was presented today, called “Project Nightingale,” along with the end product, “Patient Search.” Even though Google was accused of gathering millions of records of patients in 21 countries on behalf of a health care provider, the company says it’s all above board.</p>
 
   <p className='e3'>Rob Copeland of the Wall Street Journal today reported on Project Nightingale, with Forbes providing more details, including screenshots. He wrote that the data collected in the system contains “lab results, doctor diagnoses and hospitalization records, among other categories, and amounts to a complete health history, complete with patient names and dates of birth.”
 </p>
 <p className='e3'>Google, in effect, analyses and compiles these information into a “Patient Search” tool that allows doctors to access all patient data easily on an “overview page.” The software is quite simple and not too different from hospitals that currently provide patients with results directly.
 </p>
-  <img src='../../../blog17.jpg' className='e1'/>
+
 
   <img src='../../../blog17one.png' className='e1'/>
   <img src='../../../blog17two.png' className='e1'/>
