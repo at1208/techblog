@@ -52,7 +52,7 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                  <div className='row justify-content-center col-md-2 c27 shadow'>
+                  <div className='row justify-content-center col-md-2 c27'>
                   hnkk
 
                   </div>
@@ -124,7 +124,7 @@ class Home extends Component{
 
 
                </div>
-               <div className='row justify-content-center col-md-3 c27 shadow'>
+               <div className='row justify-content-center col-md-3 c27 '>
                <HalfPageAd />
                <Smartphonebanner2 />
                <WideScraper />
