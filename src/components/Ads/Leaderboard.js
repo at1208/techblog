@@ -12,7 +12,7 @@ class Leaderboard extends Component {
   }
 
   render(){
-    return <div  id="925165617">
+    return <div  id="925165617" className='c26'>
     </div>
   }
 }

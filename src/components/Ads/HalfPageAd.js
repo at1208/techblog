@@ -12,7 +12,7 @@ class HalfPageAd extends Component {
   }
 
   render(){
-    return <div   id="234708012">
+    return <div   id="234708012" className='c26'>
     </div>
   }
 }

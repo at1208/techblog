@@ -12,7 +12,7 @@ class MediumRectangle extends Component {
   }
 
   render(){
-    return <div  id="257844712">
+    return <div  id="257844712" className='c26'>
     </div>
   }
 }

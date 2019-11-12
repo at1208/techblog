@@ -12,7 +12,7 @@ class SmartphoneBanner2 extends Component {
   }
 
   render(){
-    return <div  id="646605334">
+    return <div  id="646605334" className='c26'>
     </div>
   }
 }

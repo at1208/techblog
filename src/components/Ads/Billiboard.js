@@ -12,7 +12,7 @@ class Billiboard extends Component {
   }
 
   render(){
-    return <div  id="582323530">
+    return <div  id="582323530" className='c26'>
     </div>
   }
 }

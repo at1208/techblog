@@ -12,7 +12,7 @@ class SuperLeaderBoard extends Component {
   }
 
   render(){
-    return <div id="865157136">
+    return <div id="865157136" className='c26'>
     </div>
   }
 }

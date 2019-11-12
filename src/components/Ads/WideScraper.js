@@ -12,7 +12,7 @@ class WideScraper extends Component {
   }
 
   render(){
-    return <div id="712981767">
+    return <div id="712981767" className='c26'>
     </div>
   }
 }
