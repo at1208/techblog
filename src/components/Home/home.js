@@ -56,13 +56,14 @@ class Home extends Component{
                           <RedgearPro />
                           </Slide>
 
+
                          <SmartphoneBannerAd />
                          <Billiboard />
                          <HalfPageAd />
                          <SmartphoneBanner2 />
                          <SuperLeaderBoard />
                          <WideScraper />
-                       
+
 
                           <Slide bottom>
                           <AppleCard />
