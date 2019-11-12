@@ -54,8 +54,7 @@ class Home extends Component{
 
                   <div className='row justify-content-center col-md-2 c27 shadow'>
                   hnkk
-                  <SmartphoneBanner1 />
-                  <Billiboard />
+
                   </div>
 
                       <div className='row justify-content-center col-md-7'>
@@ -133,12 +132,13 @@ class Home extends Component{
 
                </div>
                <div className='row justify-content-center col-md-3 c27 shadow'>
-               hnkk
+  
                <SmartphoneBanner1 />
                <Billiboard />
                </div>
-            <SuperLeaderboard />
+
            </div>
+             <SuperLeaderboard />
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
         <h1 className='c13'>Connect with us</h1>
