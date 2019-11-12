@@ -60,8 +60,6 @@ const GamesSection = () => {
   <WideScraper />
   <HalfPageAd />
     <Smartphonebanner2 />
-
-
   </div>
 
 

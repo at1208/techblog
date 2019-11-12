@@ -9,6 +9,16 @@ import Slide from 'react-reveal/Slide';
 
 
 
+import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
+import Billiboard from '../Ads/Billiboard'
+import HalfPageAd from '../Ads/HalfPageAd'
+import Smartphonebanner2 from '../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../Ads/SuperLeaderboard';
+import WideScraper from '../Ads/WideScraper'
+import MediumRectangle from '../Ads/MediumRectangle'
+
+
+
 const Laptops = () => {
   return <div>
             <Header/>
@@ -16,18 +26,26 @@ const Laptops = () => {
             <h1 className='e4 text-center'><Texty>Laptops</Texty></h1>
                  <div className='container row justify-content-center'>
 
-<Slide bottom>
-                 <div className='col-md-4'>
-                  <SpeedLaptop />
-                 </div>
-</Slide>
+                   <div className='row justify-content-center col-md-9 c28'>
 
-<Slide bottom>
-                 <div className='col-md-4'>
-                  <Top5Under60000 />
-                 </div>
-</Slide>
+                  <Slide bottom>
+                    <div className=''>
+                    <SpeedLaptop />
+                    </div>
+                  </Slide>
 
+                  <Slide bottom>
+                    <div className=''>
+                    <Top5Under60000 />
+                    </div>
+                  </Slide>
+
+                  </div>
+                  <div className='row justify-content-center col-md-3 c27 '>
+                  <WideScraper />
+                  <HalfPageAd />
+                    <Smartphonebanner2 />
+                  </div>
 
 
 
