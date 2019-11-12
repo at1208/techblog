@@ -4,6 +4,7 @@ import './home.css'
 import { Icon } from 'antd';
 import { Link } from 'react-router-dom';
 import Slide from 'react-reveal/Slide';
+import { useMediaQuery } from 'react-responsive';
 
 
 
@@ -40,7 +41,12 @@ import MediumRectangle from '../Ads/MediumRectangle'
 
 
 class Home extends Component{
+
+
+
    render(){
+
+
      return <div>
 
            <Header />
@@ -53,8 +59,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
-           <HalfPageAd />
-
+          
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
