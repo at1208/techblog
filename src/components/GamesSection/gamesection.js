@@ -8,6 +8,14 @@ import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
 
+import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
+import Billiboard from '../Ads/Billiboard'
+import HalfPageAd from '../Ads/HalfPageAd'
+import Smartphonebanner2 from '../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../Ads/SuperLeaderboard';
+import WideScraper from '../Ads/WideScraper'
+import MediumRectangle from '../Ads/MediumRectangle'
+
 
 
 const GamesSection = () => {
@@ -18,33 +26,46 @@ const GamesSection = () => {
   <h1 className='e4'><Texty>Games Section</Texty></h1>
   <div className='row justify-content-center text-center '>
 
+  <div className='row justify-content-center col-md-2 c27'>
 
-  <Slide bottom>
-    <div className='col-md-4'>
-    <RedgearPro />
-    </div>
-  </Slide>
-
-
-<Slide bottom>
-  <div className='col-md-4'>
-  <GTA6 />
   </div>
-</Slide>
+
+  <div className='row justify-content-center col-md-7 c28'>
+          <Slide bottom>
+          <div className=' '>
+          <RedgearPro />
+          </div>
+          </Slide>
 
 
-<Slide bottom>
-  <div className='col-md-4'>
-  <DeathStranding />
+          <Slide bottom>
+          <div className=' '>
+          <GTA6 />
+          </div>
+          </Slide>
+
+
+          <Slide bottom>
+          <div className=' '>
+          <DeathStranding />
+          </div>
+          </Slide>
+
+
+          <Slide bottom>
+          <div className=' '>
+          <Overwatch2 />
+          </div>
+          </Slide>
+
   </div>
-</Slide>
+  <div className='row justify-content-center col-md-3 c27 '>
+  <WideScraper />
+  <Smartphonebanner2 />
+  <HalfPageAd />
 
 
-<Slide bottom>
-  <div className='col-md-4'>
-  <Overwatch2 />
   </div>
-</Slide>
 
 
   </div>
