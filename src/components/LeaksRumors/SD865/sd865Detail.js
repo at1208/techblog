@@ -7,7 +7,7 @@ const SD865Detail = () => {
   return <div>
   <Header />
   <div className='container c21'>
-  <h5 className='e5'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h5>
+  <h5 className='e5'>Qualcomm Snapdragon 865 specs leaked!!!</h5>
 
 
   <div className='container-fluid row'>
