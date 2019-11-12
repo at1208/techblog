@@ -36,6 +36,13 @@ import MediumRectangle from '../Ads/MediumRectangle'
 
 
 
+const isDesktopOrLaptop = useMediaQuery({ query: '(min-device-width: 1224px)' })
+const isBigScreen = useMediaQuery({ query: '(min-device-width: 1824px)' })
+const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
+const isTabletOrMobileDevice = useMediaQuery({ query: '(max-device-width: 1224px)' })
+const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
+const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
+
 
 class Home extends Component{
    render(){
@@ -50,7 +57,7 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                      <div className='row justify-content-center col-md-6'>
+                      <div className='row justify-content-center col-md-10'>
 
                           <Slide bottom>
                           <RedgearPro />
@@ -122,7 +129,7 @@ class Home extends Component{
                           </Slide>
 
 
-           <div className='row justify-content-center col-md-4'>
+           <div className='row justify-content-center col-md-2'>
            <SmartphoneBanner1 />
            <Billiboard />
            </div>
