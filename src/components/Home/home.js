@@ -26,6 +26,8 @@ import AppleCard from '../LeaksRumors/AppleCreditCard/applecreditcard';
 import RedgearPro from '../GamesSection/RedgearPro/redgearpro'
 
 
+import SmartphoneBannerAd from '../Ads/SmartphoneBanner1'
+
 
 
 
@@ -47,6 +49,8 @@ class Home extends Component{
                           <Slide bottom>
                           <RedgearPro />
                           </Slide>
+
+                         <SmartphoneBannerAd />
 
                           <Slide bottom>
                           <AppleCard />
