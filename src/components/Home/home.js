@@ -52,7 +52,13 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                      <div className='row justify-content-center col-md-10'>
+                  <div className='row justify-content-center col-md-2 c27 shadow'>
+                  hnkk
+                  <SmartphoneBanner1 />
+                  <Billiboard />
+                  </div>
+
+                      <div className='row justify-content-center col-md-7'>
 
                           <Slide bottom>
                           <RedgearPro />
@@ -124,13 +130,14 @@ class Home extends Component{
                           </Slide>
 
 
-           <div className='row justify-content-center col-md-2'>
-           <SmartphoneBanner1 />
-           <Billiboard />
-           </div>
-   <SuperLeaderboard />
-               </div>
 
+               </div>
+               <div className='row justify-content-center col-md-3 c27 shadow'>
+               hnkk
+               <SmartphoneBanner1 />
+               <Billiboard />
+               </div>
+            <SuperLeaderboard />
            </div>
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
