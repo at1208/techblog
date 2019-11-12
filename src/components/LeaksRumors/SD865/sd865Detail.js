@@ -24,7 +24,7 @@ const SD865Detail = () => {
 
   <p className='e3'>Details specs of the chipset are rumored to have four Kryo ( cortex –A55) cores at 1.8 Ghz ,three kryo(cortex-A77) cores at 2.42 Ghz and a single high performance 2.84 Ghz core.it will have Adreno 650 at 587 Mhz for the graphical computational power and we can also expect a overclocked version of this processor may be called as SD865+ , on comparing it with SD 855 it will have a CPU performance increase of 20% and 17-20% increase in GPU power ,which is quite significant. Here is the leaked specs over Geekbench.
 </p>
-  <img src='../../../blog18one.jpg' alt=''  className='c22'/>
+  <img src='../../../blog18one.png' alt=''  className='e1'/>
 
 <p className='e3'>It is also rumored that it will be released in two versions ,one with integrated 5G modem and another one without for the countries which are outside the reach of 5G network, additionally the chip is said to be mass produced in early 2020 and will be coming soon in flagship phones of 2020. This chip is fabricated on 7nm architecture along with the support of LPDDR5X RAM and UFS 3.0 storage.
 
