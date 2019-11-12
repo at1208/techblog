@@ -50,7 +50,7 @@ class Home extends Component{
         <div className='container-fluid c4'>
                   <div className='row justify-content-center'>
 
-                      <div className='row justify-content-center col-md-8'>
+                      <div className='row justify-content-center col-md-6'>
 
                           <Slide bottom>
                           <RedgearPro />
