@@ -57,7 +57,7 @@ class Home extends Component{
 
                   </div>
 
-                      <div className='row justify-content-center col-md-7'>
+                      <div className='row justify-content-center col-md-7 c28'>
 
                           <Slide bottom>
                           <RedgearPro />
