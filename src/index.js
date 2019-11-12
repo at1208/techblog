@@ -29,7 +29,8 @@ import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDeta
 import GTA6 from './components/GamesSection/GTA6/gta6Detail';
 import AppleCard from './components/LeaksRumors/AppleCreditCard/applecreditcardDetail';
 import RedgearPro from './components/GamesSection/RedgearPro/redgearproDetail';
-import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail'
+import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail';
+import SD865 from './components/LeaksRumors/SD865/sd865Detail'
 
 
 
@@ -60,6 +61,7 @@ ReactDOM.render(
    <Route path='/leaksrumors/Apple-credit-card-under-investigation-for-discrimination' exact component={AppleCard} />
    <Route path='/gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”' exact component={RedgearPro} />
    <Route path='/leaks-rumors/Google-announces-Project-Nightingale' exact component={Nightangle} />
+   <Route path='/Qualcomm-Snapdragon-865-specs-leaked' exact component={SD865} />
 
 
 

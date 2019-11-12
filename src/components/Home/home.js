@@ -25,7 +25,8 @@ import Pubgmobile from '../LeaksRumors/PUBGMobile/pubgmobile'
 import GTA6 from '../GamesSection/GTA6/gta6'
 import AppleCard from '../LeaksRumors/AppleCreditCard/applecreditcard';
 import RedgearPro from '../GamesSection/RedgearPro/redgearpro';
-import Nightangle from '../LeaksRumors/Nightangle/nightangle'
+import Nightangle from '../LeaksRumors/Nightangle/nightangle';
+import SD865 from '../LeaksRumors/SD865/sd865'
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -64,6 +65,11 @@ class Home extends Component{
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
+
+                          <Slide bottom>
+                          <SD865 />
+                          </Slide>
+                          
 
                           <Slide bottom>
                           <Nightangle />

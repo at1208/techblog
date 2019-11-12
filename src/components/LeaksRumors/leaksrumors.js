@@ -8,9 +8,7 @@ import './leaksrumors.css'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
-import PUBGMobile from './PUBGMobile/pubgmobile';
-import AppleCard from './AppleCreditCard/applecreditcard'
-import Nightangle from './Nightangle/nightangle'
+
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -22,7 +20,10 @@ import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle';
 
 
-
+import PUBGMobile from './PUBGMobile/pubgmobile';
+import AppleCard from './AppleCreditCard/applecreditcard'
+import Nightangle from './Nightangle/nightangle';
+import SD865 from './SD865/sd865'
 
 
 const LeakRumors = () => {
@@ -33,6 +34,13 @@ const LeakRumors = () => {
                  <div className='row justify-content-center text-center'>
 
   <div className='row justify-content-center col-md-9 c28'>
+
+                <Slide bottom>
+                <div className=''>
+                <SD865 />
+                </div>
+                </Slide>
+
 
                 <Slide bottom>
                 <div className=''>
