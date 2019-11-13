@@ -8,7 +8,7 @@ const Halo = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>‘Halo’ TV Series goes into production</h6>
 
-           <img src='../../blog10.jpg' className='card c16'/>
+           <img src='../../img/blog10.jpg' className='card c16'/>
 
            <span className='c20 e3'>
           Leaks & Rumors

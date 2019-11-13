@@ -8,7 +8,7 @@ const MINOTE10 = () => {
      <Link to='/Phones/MI-Note-10-Dream-Big'>
            <div className='c2 shadow card text-center container-fluid '>
                <h6 className='c17'>MI Note 10 “ Dream Big “</h6>
-               <img src='../../blog19.png' className='card c16'/>
+               <img src='../../img/blog19.png' className='card c16'/>
                    <span className='c20 e3'>
                    Mobiles
                    <br />

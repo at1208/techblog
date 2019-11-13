@@ -8,7 +8,7 @@ const Realmex2pro = () => {
      <Link to='/phones/realme-x2-pro'>
            <div className='c2 shadow card text-center container-fluid '>
                <h6 className='c17'>Realme X2 Pro</h6>
-               <img src='../../blog1.png' className='card c16'/>
+               <img src='../../img/blog1.png' className='card c16'/>
                    <span className='c20 e3'>
                    Upcoming Phone
                    <br />

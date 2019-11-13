@@ -10,14 +10,14 @@ const MobileUnder5000Detail = () => {
        <h5 className='e5'>Best Mobile Phones Under Rs.5000</h5>
 
        <div className='container-fluid row'>
-        <img src='../../../dikshant.jpg' alt=''  className='c22'/>
+        <img src='../../../img/dikshant.jpg' alt=''  className='c22'/>
         <span className='c24 c23'>Dikshant Gautam<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
         </span>
        </div>
 
 
    <p className='e2'>1. Nokia 1</p>
-    <img src='../../../blog8.png' className='e1'/>
+    <img src='../../../img/blog8.png' className='e1'/>
 <p className='e3'>Nokia 1 is a budget offering from Nokia. It runs Android Oreo (Go Edition). Nokia 1 comes with 4.5” FWVGA IPS display. It has 1GB RAM & 8GB onboard storage. Nokia 6 is powered with Quad Core 1.1 GHz MediaTek MT6737M Processor. Nokia 1 comes with Android 9 Pie (Go edition), with pre-loaded apps designed to use less storage space and data.
 
 </p>
@@ -28,7 +28,7 @@ Best buy Link -<a href='https://www.flipkart.com/nokia-1-dark-blue-8-gb/p/itmf44
 </p>
 
 <p className='e2'>2. Redmi Go</p>
- <img src='../../../blog8one.png' className='e1'/>
+ <img src='../../../img/blog8one.png' className='e1'/>
 <p className='e3'>Redmi Go is a budget offering from Xiaomi. It runs Android Oreo (Go Edition). Redmi Go comes with 12.7cm (5.0) HD display. It has 1GB RAM & 8GB onboard storage. Redmi Go is powered with Quad Core QUALCOMM’s Snapdragon 425 Processor. Redmi Go comes with Android 9 Pie (Go edition), with pre-loaded apps designed to use less storage space and data.
 
 
@@ -42,7 +42,7 @@ Best buy Link -<a href='https://www.flipkart.com/redmi-go-black-8-gb/p/itmfeauu7
 <p className='e2'>3. Asus ZenFone Lite L1
 
 </p>
- <img src='../../../blog8two.jpg' className='e1'/>
+ <img src='../../../img/blog8two.jpg' className='e1'/>
 <p className='e3'>Asus ZenFone Lite L1 is a budget offering from Asus. It runs Android Oreo on top of ZenUI 5. Asus ZenFone Lite L1 comes with 13.84 cm (5.45 inch) HD+ Display 18:9 ratio. It has 2GB RAM & 16GB onboard storage. Asus ZenFone Lite L1 is powered with Quad Core QUALCOMM’s Snapdragon 430 Processor.
 
 
@@ -59,7 +59,7 @@ Best buy Link -<a href='https://www.flipkart.com/asus-zenfone-lite-l1-black-16-g
 <p className='e2'>4. Infinix Smart 2
 
 </p>
-<img src='../../../blog8three.jpg' className='e1'/>
+<img src='../../../img/blog8three.jpg' className='e1'/>
 <p className='e3'>Infinix Smart 2 is a budget offering from Xiaomi. It runs Android Oreo on top of XOS 3.2 . Infinix Smart 2 comes with 13.84 cm (5.45 inch) HD+ Display with minimum bezels and an impressive 83.4% screen-to-body ratio. This helps in enhancing your viewing experience. It has 2GB RAM & 16GB onboard storage.
 
 

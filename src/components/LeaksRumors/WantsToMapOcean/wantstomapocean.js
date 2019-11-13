@@ -8,7 +8,7 @@ const WantsToMapOcean = () => {
 <Link to='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'>
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Australian-based start-up wants to map the Oceans</h6>
-           <img src='../../blog5.jpg' className='card c16'/>
+           <img src='../../img/blog5.jpg' className='card c16'/>
            <span className='c20 e3'>
            Leaks & Rumors
            <br />

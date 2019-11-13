@@ -11,14 +11,14 @@ const DeathStrandingDetail = () => {
   <h5 className='e5'>GTA 6 LAUNCH DATE</h5>
 
   <div className='container-fluid row'>
-   <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
+   <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
    <span className='c24  c23'>Abhishek Naagar <br /> <span  className='c25'>Mon, 11 Nov 2019</span>
    </span>
   </div>
 
 
 
-  <img src='../../../blog14.png' className='e1'/>
+  <img src='../../../img/blog14.png' className='e1'/>
 
   <p className='e3'>The most awaited game GTA6 have rumours to be launch in the year 2020.
 This news filled excitement among the GTA fans as it will  be exile of 7 years after GTA5 was
@@ -33,7 +33,7 @@ Launch in year 2013 on ps3.
 Diamonds and casino which have art figure giving a clue of story based on vice city.
 </p>
 
-  <img src='../../../blog14one.png' className='e1'/>
+  <img src='../../../img/blog14one.png' className='e1'/>
 
 
 <p className='e2'>NEW GEN CONSOLE -

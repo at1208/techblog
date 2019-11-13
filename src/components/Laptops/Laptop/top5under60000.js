@@ -8,7 +8,7 @@ const Top5Under60000 = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Top 5 Gaming Laptops Under 60000</h6>
 
-           <img src='../../blog2six.jpg' className='card c16'/>
+           <img src='../../img/blog2six.jpg' className='card c16'/>
 
            <span className='c20 e3'>
           Laptops

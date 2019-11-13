@@ -8,7 +8,7 @@ const Halo = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>7 Ways To speed up your laptop</h6>
 
-           <img src='../../blog11.jpeg' className='card c16'/>
+           <img src='../../img/blog11.jpeg' className='card c16'/>
 
            <span className='c20 e3'>
         Laptop

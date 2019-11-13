@@ -8,7 +8,7 @@ const Pubgmobile = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h6>
 
-           <img src='../../blog13.jpg' className='card c16'/>
+           <img src='../../img/blog13.jpg' className='card c16'/>
 
            <span className='c20 e3'>
           Leaks & Rumors

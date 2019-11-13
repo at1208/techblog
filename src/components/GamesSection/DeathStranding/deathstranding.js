@@ -8,7 +8,7 @@ const DeathStranding = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Death Stranding</h6>
 
-           <img src='../../blog9.png' className='card c16'/>
+           <img src='../../img/blog9.png' className='card c16'/>
 
            <span className='c20 e3'>
           Gaming Section

@@ -9,12 +9,12 @@ const Overwatch2Detail = () => {
          <h5 className='e5'>OVERWATCH2</h5>
 
          <div className='container-fluid row'>
-          <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
+          <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
           <span className='c24 c23'>Abhishek Naagar <br /> <span  className='c25'>Sat, 9 Nov 2019</span>
           </span>
          </div>
 
-         <img src='../../../blog3.png' className='e1'/>
+         <img src='../../../img/blog3.png' className='e1'/>
          <p className='e2'>ANNOUNCEMENT -</p>
   <p className='e3'>Overwatch game director Jeff Kaplan officially announced Overwatch 2 at BlizzCon today.
   </p>

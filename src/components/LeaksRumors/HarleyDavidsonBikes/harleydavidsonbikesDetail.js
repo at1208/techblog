@@ -20,12 +20,12 @@ const HarleyDavidsonBikesDetail = () => {
 </p>
 <p className='e3'>Need some photos of these babies? We got you covered
 </p>
-  <img src='../../../blog4.jpg' className='e1'/>
+  <img src='../../../img/blog4.jpg' className='e1'/>
 
-  <img src='../../../blog4one.jpg' className='e1'/>
+  <img src='../../../img/blog4one.jpg' className='e1'/>
 
-  <img src='../../../blog4two.jpg' className='e1'/>
-  <img src='../../../blog4three.jpg' className='e1'/>
+  <img src='../../../img/blog4two.jpg' className='e1'/>
+  <img src='../../../img/blog4three.jpg' className='e1'/>
 <p className='e3'>The pics are definitely are nice to look at, but riding them would be even sweeter. They haven’t been named yet. But a spokesperson for the company says it’s still “evaluating market opportunities and finalizing design details” before the go into production in 2020.
 </p>
 <p className='e3'>There are three styles of bike with varying degrees of accessibilities:
@@ -42,7 +42,7 @@ const HarleyDavidsonBikesDetail = () => {
 <p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production.
 </p>
 <p className='e3'>So, what do you think about these electric bicycles by Harley-Davidson? Let us know on our social handles.</p>
- 
+
   </div>
 
        </div>

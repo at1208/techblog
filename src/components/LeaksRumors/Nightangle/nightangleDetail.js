@@ -14,7 +14,7 @@ const NightingaleDetail = () => {
    </span>
   </div>
 
-    <img src='../../../blog17.jpg' className='e1'/>
+    <img src='../../../img/blog17.jpg' className='e1'/>
 
   <p className='e3'>The wellness goals of Google are multi-faceted and apply to hospital and health care facilities. Such an effort was presented today, called “Project Nightingale,” along with the end product, “Patient Search.” Even though Google was accused of gathering millions of records of patients in 21 countries on behalf of a health care provider, the company says it’s all above board.</p>
 
@@ -24,8 +24,8 @@ const NightingaleDetail = () => {
 </p>
 
 
-  <img src='../../../blog17one.png' className='e1'/>
-  <img src='../../../blog17two.png' className='e1'/>
+  <img src='../../../img/blog17one.png' className='e1'/>
+  <img src='../../../img/blog17two.png' className='e1'/>
 
 <p className='e3'>The project is being developed internally within Google Cloud and it is reported that 150 Google employees have access to the data. This includes Google Brain, the internal research division of the company’s AI. Google said when asked for comment, Project Nightingale abides by all federal laws and privacy protection is in effect. Experts who spoke to the WSJ say the Health Insurance Portability and Accountability Act (HIPAA) permits this program.
 </p>

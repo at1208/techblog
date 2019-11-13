@@ -15,7 +15,7 @@ const DeletingfbDetail = () => {
   </div>
 
 
-<img src='../../../blog7.jpg' className='e1'/>
+<img src='../../../img/blog7.jpg' className='e1'/>
   <p className='e3'>At Wired’s 25th anniversary summit, WhatsApp co-founder Brian Acton told the crowd that, while individuals need to settle on their own choices about the social network, he remains by his choice to leave. “If you want to be on Facebook and you want to have ads thrust in front of you, go to town”, he added.</p>
 
 <p className='e3'>Acton’s original tweet came at the stature of the Cambridge Analytica embarrassment, as the #DeleteFacebook movement swept the state. The organisation was reeling from disclosures in regards to the political counselling firm’s mishandling of user’s information with the particular aim of affecting the 2016 political election, when Acton bounced into the conflict.
@@ -38,7 +38,7 @@ Acton is not really the primary Facebook official to take a stand in opposition 
 <p className='e3'>Referring to these challenges, Acton said Zuckerberg is confronting a daunting struggle. “More power to Facebook if they accomplish it,” he added. “But it’ll be difficult for them to do.”
 
 </p>
- 
+
   </div>
 
        </div>

@@ -11,7 +11,7 @@ const DeathStrandingDetail = () => {
   <h5 className='e5'>Death Stranding</h5>
 
   <div className='container-fluid row'>
-   <img src='../../../Abhishek.jpg' alt=''  className='c22'/>
+   <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Abhishek Naagar <br /> <span  className='c25'>Sun, 10 Nov 2019</span>
    </span>
   </div>
@@ -20,7 +20,7 @@ const DeathStrandingDetail = () => {
   <p className='e2'>WHAT IS THIS GAME ACTUALLY ?</p>
 
 
-  <img src='../../../blog9.png' className='e1'/>
+  <img src='../../../img/blog9.png' className='e1'/>
 
   <p className='e3'>As we start giving review about this game created by Hideo Kojima (who is also the creator of METAL GEAR SOLID best of all time) one thing should clear that the it took 3 years from teaser to final game.
 </p>
@@ -28,7 +28,7 @@ const DeathStrandingDetail = () => {
 </p>
 <p className='e3'>One thing is clear that the fan base for this game would a specific section of people just like INTERSTELLAR</p>
 <p className='e2'>SPECIAL CAMEO</p>
-  <img src='../../../blog9one.png' className='e1'/>
+  <img src='../../../img/blog9one.png' className='e1'/>
 
 
 <p className='e3'>As the game is now launched there is a cameo of american late night show host Conan O’Brien

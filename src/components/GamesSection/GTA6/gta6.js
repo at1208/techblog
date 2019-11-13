@@ -8,7 +8,7 @@ const DeathStranding = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>GTA 6 LAUNCH DATE</h6>
 
-           <img src='../../blog14.png' className='card c16'/>
+           <img src='../../img/blog14.png' className='card c16'/>
 
            <span className='c20 e3'>
           Gaming Section

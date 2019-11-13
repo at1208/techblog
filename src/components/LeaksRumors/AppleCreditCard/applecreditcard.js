@@ -8,7 +8,7 @@ const AppleCard = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Apple’s credit card under investigation for discrimination</h6>
 
-           <img src='../../blog15.jpg' className='card c16'/>
+           <img src='../../img/blog15.jpg' className='card c16'/>
 
            <span className='c20 e3'>
         Leaks & Rumors

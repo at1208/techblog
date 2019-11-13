@@ -8,7 +8,7 @@ const MobileUnder5000 = () => {
      <Link to='/phones/best-mobiles-under-5000'>
            <div className='c2 shadow card text-center container-fluid '>
                <h6 className='c17'>Best Mobile Phones Under Rs.5000</h6>
-               <img src='../../blog8.png' className='card c16'/>
+               <img src='../../img/blog8.png' className='card c16'/>
                    <span className='c20 e3'>
                   Mobiles
                    <br />

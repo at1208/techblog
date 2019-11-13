@@ -11,13 +11,13 @@ const PubgmobileDetail = () => {
 
 
   <div className='container-fluid row'>
-   <img src='../../../amit.jpg' alt=''  className='c22'/>
+   <img src='../../../img/amit.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Mon, 11 Nov 2019</span>
    </span>
   </div>
 
 
-    <img src='../../../blog13.jpg' className='e1'/>
+    <img src='../../../img/blog13.jpg' className='e1'/>
   <p className='e3'>PUBG mobile may release 0.16.0 on 16 dec with much awaited Erangle 2.0 according to the leaks of Ghost Gaming.Erangle 2.0 already hit PC and mobile players are eagerly waiting for this this update will completely revoke most popular erangle map with new grass texture,Trees ,new building texture and many more optimizations .
 </p>
 

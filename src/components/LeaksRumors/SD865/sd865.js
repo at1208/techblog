@@ -8,7 +8,7 @@ const SD865 = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Qualcomm Snapdragon 865 specs leaked!!!</h6>
 
-           <img src='../../blog18.jpg' className='card c16'/>
+           <img src='../../img/blog18.jpg' className='card c16'/>
 
            <span className='c20 e3'>
           Leaks & Rumors

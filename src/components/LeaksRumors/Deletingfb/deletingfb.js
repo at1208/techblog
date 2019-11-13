@@ -8,7 +8,7 @@ const DeltingFb = () => {
            <div className='c2 shadow card text-center'>
            <h6 className='c17'>Brian Acton still behind the idea of deleting Facebook</h6>
 
-           <img src='../../blog7.jpg' className='card c16'/>
+           <img src='../../img/blog7.jpg' className='card c16'/>
 
            <span className='c20 e3'>
           Leaks & Rumors

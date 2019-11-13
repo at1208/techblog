@@ -8,7 +8,7 @@ const RedgearPro = () => {
      <Link to='gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”'>
            <div className='c2 shadow card text-center container-fluid '>
                <h6 className='c17'>Redgear Pro Wireless Gaming Gamepad “Best Gaming Controller For PC”</h6>
-               <img src='../../blog16.jpg' className='card c16'/>
+               <img src='../../img/blog16.jpg' className='card c16'/>
                    <span className='c20 e3'>
                   Games Section
                    <br />
