@@ -7,6 +7,13 @@ import Slide from 'react-reveal/Slide';
 import { useMediaQuery } from 'react-responsive';
 
 
+import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
+import Billiboard from '../Ads/Billiboard'
+import HalfPageAd from '../Ads/HalfPageAd'
+import Smartphonebanner2 from '../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../Ads/SuperLeaderboard';
+import WideScraper from '../Ads/WideScraper'
+import MediumRectangle from '../Ads/MediumRectangle'
 
 
 
@@ -28,15 +35,9 @@ import RedgearPro from '../GamesSection/RedgearPro/redgearpro';
 import Nightangle from '../LeaksRumors/Nightangle/nightangle';
 import SD865 from '../LeaksRumors/SD865/sd865';
 import MINOTE10 from '../Phones/MINote10/minote10';
+import Top5GamingHeadphone from '../HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphone';
 
 
-import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
-import Billiboard from '../Ads/Billiboard'
-import HalfPageAd from '../Ads/HalfPageAd'
-import Smartphonebanner2 from '../Ads/Smartphonebanner2'
-import SuperLeaderboard from '../Ads/SuperLeaderboard';
-import WideScraper from '../Ads/WideScraper'
-import MediumRectangle from '../Ads/MediumRectangle'
 
 
 
@@ -66,6 +67,11 @@ class Home extends Component{
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
+
+
+                          <Slide bottom>
+                          <Top5GamingHeadphone />
+                          </Slide>
 
 
                           <Slide bottom>

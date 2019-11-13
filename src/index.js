@@ -32,6 +32,7 @@ import RedgearPro from './components/GamesSection/RedgearPro/redgearproDetail';
 import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail';
 import SD865 from './components/LeaksRumors/SD865/sd865Detail';
 import MINOTE10 from './components/Phones/MINote10/minote10Detail'
+import Top5GamingHeadphone from './components/HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphoneDetail'
 
 
 
@@ -64,6 +65,7 @@ ReactDOM.render(
    <Route path='/leaks-rumors/Google-announces-Project-Nightingale' exact component={Nightangle} />
    <Route path='/Qualcomm-Snapdragon-865-specs-leaked' exact component={SD865} />
    <Route path='/Phones/MI-Note-10-Dream-Big' exact component={MINOTE10} />
+   <Route path='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES' exact component={Top5GamingHeadphone} />   
 
 
 
