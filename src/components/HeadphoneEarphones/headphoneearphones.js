@@ -24,7 +24,7 @@ const HeadphoneEarphones = () => {
   <h1 className='e4'><Texty>Headphones & Earphones</Texty></h1>
 
 
-  <div className='row justify-content-center col-md-9 c28'>
+  <div className='row justify-content-center col-md-8 c28'>
 
           <Slide bottom>
           <div className=''>
@@ -33,7 +33,7 @@ const HeadphoneEarphones = () => {
           </Slide>
 
   </div>
-  <div className='row justify-content-center col-md-3 c27 '>
+  <div className='row justify-content-center col-md-4 c27 '>
   <WideScraper />
   <HalfPageAd />
     <Smartphonebanner2 />
