@@ -19,7 +19,7 @@ const Top5GamingHeadphone = () => {
 
 
 <p className='e2'>1.KOTION EACH GS410 price INR 660</p>
-<img src='../../../img/blog20.png' alt=''  className='e1'/>
+<img src='../../../img/blog20.png' alt=''  className='e1 c29'/>
 <p className='e3'>
 <ul>
 <li>Nice padding from the ear side.</li>
@@ -32,7 +32,7 @@ const Top5GamingHeadphone = () => {
 </p>
 
 <p className='e2'>2. COSMIC BYTE OVER THE EAR HEADPHONES G4000  PRICE INR 899</p>
-<img src='../../../img/blog20one.png' alt=''  className='e1'/>
+<img src='../../../img/blog20one.png' alt=''  className='e1 c29'/>
 <p className='e3'>
 <ul>
 <li>Goood looking LED light around the ear section.
@@ -48,7 +48,7 @@ const Top5GamingHeadphone = () => {
 </p>
 
 <p className='e2'>3. REDGEAR DAGGER PROFESSIONAL RBG HEADSETS  PRICE INR 899</p>
-<img src='../../../img/blog20two.png' alt=''  className='e1'/>
+<img src='../../../img/blog20two.png' alt=''  className='e1 c29'/>
 <p className='e3'>
 <ul>
 <li>Redgear is always famous for their quality marked headset in gaming world.</li>
@@ -64,7 +64,7 @@ const Top5GamingHeadphone = () => {
 
 <p className='e2'>4. ZEBRONICS STINGRAY  PRICE INR I799
 </p>
-<img src='../../../img/blog20three.png' alt=''  className='e1'/>
+<img src='../../../img/blog20three.png' alt=''  className='e1 c29'/>
 <p className='e3'>
 <ul>
 <li>Zebronics is not a name that people these days are unaware of.
@@ -84,7 +84,7 @@ const Top5GamingHeadphone = () => {
 <p className='e2'>5. DRAGONWAR GHS003 PRICE 999RS
 
 </p>
-<img src='../../../img/blog20three.png' alt=''  className='e1'/>
+<img src='../../../img/blog20four.png' alt=''  className='e1 c29'/>
 <p className='e3'>
 <ul>
 <li>Last but not the least, is another beast! This headset is the last born of the brand Dragon War, only working on PC and powered by a simple USB connector.
