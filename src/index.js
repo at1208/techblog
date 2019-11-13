@@ -8,7 +8,7 @@ import HeadphoneEarphones from './components/HeadphoneEarphones/headphoneearphon
 import LeakRumors from './components/LeaksRumors/leaksrumors'
 import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
-import TrendingNews from './components/TrendingNews/trendingnews'
+
 
 
 //Blogs
@@ -18,7 +18,6 @@ import Top5Under60000 from './components/Laptops/Laptop/top5under60000Detail';
 import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
 import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
-import Ayodhyaverdict from './components/TrendingNews/Ayodhyaverdict/ayodhyaverdictDetail'
 import DeleteFacebook from './components/LeaksRumors/Deletingfb/deletingfbDetail';
 import MobileUnder5000 from './components/Phones/mobileunder5000/mobileunder5000Detail';
 import DeathStranding from './components/GamesSection/DeathStranding/deathstrandingDetail';
@@ -65,7 +64,7 @@ ReactDOM.render(
    <Route path='/leaks-rumors/Google-announces-Project-Nightingale' exact component={Nightangle} />
    <Route path='/Qualcomm-Snapdragon-865-specs-leaked' exact component={SD865} />
    <Route path='/Phones/MI-Note-10-Dream-Big' exact component={MINOTE10} />
-   <Route path='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES' exact component={Top5GamingHeadphone} />   
+   <Route path='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES' exact component={Top5GamingHeadphone} />
 
 
 
