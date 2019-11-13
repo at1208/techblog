@@ -57,7 +57,7 @@ class SideDrawer extends Component {
           <button className='  btn btn-block   shadow b3'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
           </Link>
 
- 
+
           </div>
 
         </Drawer>

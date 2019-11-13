@@ -26,7 +26,8 @@ import GTA6 from '../GamesSection/GTA6/gta6'
 import AppleCard from '../LeaksRumors/AppleCreditCard/applecreditcard';
 import RedgearPro from '../GamesSection/RedgearPro/redgearpro';
 import Nightangle from '../LeaksRumors/Nightangle/nightangle';
-import SD865 from '../LeaksRumors/SD865/sd865'
+import SD865 from '../LeaksRumors/SD865/sd865';
+import MINOTE10 from '../Phones/MINote10/minote10';
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -66,10 +67,16 @@ class Home extends Component{
 
                       <div className='row justify-content-center col-md-7 c28'>
 
+
+                          <Slide bottom>
+                          <MINOTE10 />
+                          </Slide>
+
+
                           <Slide bottom>
                           <SD865 />
                           </Slide>
-                          
+
 
                           <Slide bottom>
                           <Nightangle />
