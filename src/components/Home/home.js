@@ -36,7 +36,7 @@ import Nightangle from '../LeaksRumors/Nightangle/nightangle';
 import SD865 from '../LeaksRumors/SD865/sd865';
 import MINOTE10 from '../Phones/MINote10/minote10';
 import Top5GamingHeadphone from '../HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphone';
-
+import Realme5 from '../Phones/Realme5/realme5'
 
 
 
@@ -67,6 +67,11 @@ class Home extends Component{
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
+
+
+                          <Slide bottom>
+                          <Realme5 />
+                          </Slide>
 
 
                           <Slide bottom>

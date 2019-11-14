@@ -31,7 +31,8 @@ import RedgearPro from './components/GamesSection/RedgearPro/redgearproDetail';
 import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail';
 import SD865 from './components/LeaksRumors/SD865/sd865Detail';
 import MINOTE10 from './components/Phones/MINote10/minote10Detail'
-import Top5GamingHeadphone from './components/HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphoneDetail'
+import Top5GamingHeadphone from './components/HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphoneDetail';
+import Realme5Detail from './components/Phones/Realme5/realme5Detail';
 
 
 
@@ -70,6 +71,7 @@ ReactDOM.render(
    <Route path='/Qualcomm-Snapdragon-865-specs-leaked' exact component={SD865} />
    <Route path='/Phones/MI-Note-10-Dream-Big' exact component={MINOTE10} />
    <Route path='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES' exact component={Top5GamingHeadphone} />
+   <Route path='/Phones/REALME-5S-is-launching-on-November-20-2019-along-with-X2-pro' exact component={Realme5Detail} />
 
 
 

@@ -9,7 +9,8 @@ import Slide from 'react-reveal/Slide';
 import Realmex2pro from './Realmex2pro/realmex2pro';
 import MobileUnder5000 from './mobileunder5000/mobileunder5000'
 import MIUI11 from './MIUI11/miui11';
-import MINOTE10 from './MINote10/minote10'
+import MINOTE10 from './MINote10/minote10';
+import Realme5 from './Realme5/realme5'
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -30,6 +31,12 @@ const Phones = () => {
          <div className='row justify-content-center text-center'>
 
   <div className='row justify-content-center col-md-9 c28'>
+
+          <Slide bottom>
+          <div className=''>
+          <Realme5 />
+          </div>
+          </Slide>
 
           <Slide bottom>
           <div className=''>
