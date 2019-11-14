@@ -26,8 +26,8 @@ class SideDrawer extends Component {
 
   render() {
     return (
-      <div  className='b2'>
- <AtomSpinner color="red" onClick={this.showDrawer} className='b1' /> 
+      <div  className='b2 text-center'>
+ <AtomSpinner color="red" onClick={this.showDrawer} className='b1 float-left' />
         <Drawer
           title="Geeks Content"
           placement={this.state.placement}
