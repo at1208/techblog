@@ -3,10 +3,24 @@ import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 import { Carousel,Rate, Icon } from 'antd';
 
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 
 const DeathStrandingDetail = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
   <div className='container c21'>
   <h5 className='e5'>Death Stranding</h5>
 
@@ -50,6 +64,20 @@ And it's the only incident he was seen laugh.
   <a href='https://www.amazon.in/SIEE-PS4-Death-Stranding/dp/B07V7KV81S/ref=sr_1_1?crid=1TGAV7Q7LJLSZ&keywords=death+stranding&qid=1573366680&sprefix=death+%2Caps%2C298&sr=8-1'>Amazon</a>
    <br />
    <a href='https://www.flipkart.com/death-stranding-ps4/p/itmfb1da0684175d '>Flipkart</a>
+
+   </div>
+        </div>
+
+
+        <div className='col-md-3'>
+        <div className='c30'>
+           <MediumRectangle />
+           <Billiboard />
+           <SuperLeaderboard/>
+           <Smartphonebanner2 />
+           <HalfPageAd />
+        </div>
+        </div>
 
 
 
