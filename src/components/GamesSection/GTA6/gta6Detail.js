@@ -73,9 +73,11 @@ Last of us 2 Uncharted
 </div>
   </div>
 
-  <div className='col-md-3 shadow'>
+  <div className='col-md-3'>
      <SmartphoneBanner1 />
      <WideScraper />
+     <MediumRectangle />
+     <Billiboard />
   </div>
 
 
