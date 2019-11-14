@@ -4,9 +4,26 @@ import { Link } from 'react-router-dom'
 import { Carousel,Rate, Icon } from 'antd';
 
 
+
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 const Top5GamingHeadphone = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
+
   <div className='container c21'>
   <h5 className='e5'>TOP 5 GAMING HEADPHONES</h5>
 
@@ -104,7 +121,20 @@ const Top5GamingHeadphone = () => {
 </li>
 </ul>
 </p>
+</div>
+     </div>
 
+     <div className='col-md-3'>
+     <div className='c30'>
+        <MediumRectangle />
+        <Billiboard />
+        <SuperLeaderboard/>
+        <Smartphonebanner2 />
+        <HalfPageAd />
+     </div>
+     </div>
+
+     
   </div>
        </div>
 }
