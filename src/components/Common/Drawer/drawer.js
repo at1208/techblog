@@ -4,7 +4,7 @@ import { Drawer, Button, Radio } from 'antd';
 import './drawer.css'
 import { Icon } from 'antd';
 import { Link } from 'react-router-dom'
-import { AtomSpinner } from 'react-epic-spinners'
+import { SelfBuildingSquareSpinner } from 'react-epic-spinners'
 
 
 class SideDrawer extends Component {
@@ -27,7 +27,7 @@ class SideDrawer extends Component {
   render() {
     return (
       <div  className='b2 text-center'>
- <AtomSpinner color="red" onClick={this.showDrawer} className='b1 float-left' />
+ <SelfBuildingSquareSpinner color="red" onClick={this.showDrawer} className='b1 float-left' />
         <Drawer
           title="Geeks Content"
           placement={this.state.placement}
