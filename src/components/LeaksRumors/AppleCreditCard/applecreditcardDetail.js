@@ -2,9 +2,27 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 const AppleCreditCardDetail = () => {
   return <div>
   <Header />
+
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
+
+
   <div className='container c21'>
   <h5 className='e5'>Apple’s credit card under investigation for discrimination</h5>
 
@@ -38,6 +56,24 @@ The New York State Department of Financial Services (DFS) responded in response 
 
 <p className='e3'>As Apple launched its credit card earlier this year, it boasted that it would introduce Apple’s elegance and clarity to the confounding financial world. It would be easy and straight forward to use the Apple Card, Apple said, resulting in “a healthier financial life.”
 </p>
+
+</div>
+
+
+
+  <div className='col-md-3'>
+  <div className='c30'>
+     <MediumRectangle />
+     <Billiboard />
+     <SuperLeaderboard/>
+     <Smartphonebanner2 />
+     <HalfPageAd />
+  </div>
+  </div>
+
+  
+     </div>
+
   </div>
 
        </div>

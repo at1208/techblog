@@ -3,9 +3,26 @@ import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 import { Carousel,Rate, Icon } from 'antd';
 
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 const PubgmobileDetail = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
+
+
   <div className='container c21'>
   <h5 className='e5'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h5>
 
@@ -26,6 +43,22 @@ const PubgmobileDetail = () => {
 </p>
 <p className='e3'>0.16.0 update will soon be available for china version in beta for testing purpose and will give us an idea about the new erangle 2.0 .
 </p>
+
+
+</div>
+     </div>
+
+
+     <div className='col-md-3'>
+     <div className='c30'>
+        <MediumRectangle />
+        <Billiboard />
+        <SuperLeaderboard/>
+        <Smartphonebanner2 />
+        <HalfPageAd />
+     </div>
+     </div>
+     
 
   </div>
        </div>

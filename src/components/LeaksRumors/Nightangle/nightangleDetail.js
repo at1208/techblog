@@ -2,11 +2,29 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 const NightingaleDetail = () => {
   return <div>
   <Header />
+
+
+    <div className='row justify-content-center'>
+    <div className='row justify-content-center col-md-9'>
+
+
   <div className='container c21'>
   <h5 className='e5'>Google announces ‘Project Nightingale’</h5>
+
 
   <div className='container-fluid row'>
    <img src='' alt=''  className='c22'/>
@@ -29,6 +47,21 @@ const NightingaleDetail = () => {
 
 <p className='e3'>The project is being developed internally within Google Cloud and it is reported that 150 Google employees have access to the data. This includes Google Brain, the internal research division of the company’s AI. Google said when asked for comment, Project Nightingale abides by all federal laws and privacy protection is in effect. Experts who spoke to the WSJ say the Health Insurance Portability and Accountability Act (HIPAA) permits this program.
 </p>
+
+
+</div>
+
+     </div>
+     <div className='col-md-3'>
+     <div className='c30'>
+        <MediumRectangle />
+        <Billiboard />
+        <SuperLeaderboard/>
+        <Smartphonebanner2 />
+        <HalfPageAd />
+     </div>
+     </div>
+     
 
   </div>
 

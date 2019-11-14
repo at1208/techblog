@@ -2,9 +2,27 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 import { Link } from 'react-router-dom'
 
+
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
 const HarleyDavidsonBikesDetail = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
+
+
   <div className='container c21'>
   <h5 className='e5'>Harley-Davidson’s Electric Pedal Bikes go on sale in 2020</h5>
 
@@ -42,6 +60,22 @@ const HarleyDavidsonBikesDetail = () => {
 <p className='e3'>The company wouldn’t offer up any specs, so we can only speculate on battery size, range and each model’s potential e-bike class. And still no word from the company as to whether it plans to put it’s fun-looking electric moped into production.
 </p>
 <p className='e3'>So, what do you think about these electric bicycles by Harley-Davidson? Let us know on our social handles.</p>
+
+
+</div>
+
+     </div>
+
+     <div className='col-md-3'>
+     <div className='c30'>
+        <MediumRectangle />
+        <Billiboard />
+        <SuperLeaderboard/>
+        <Smartphonebanner2 />
+        <HalfPageAd />
+     </div>
+     </div>
+     
 
   </div>
 

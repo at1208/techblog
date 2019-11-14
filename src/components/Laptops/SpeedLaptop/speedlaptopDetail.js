@@ -2,9 +2,27 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 
 
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
+
 const SpeedLaptopDetail  = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+  <div className='row justify-content-center col-md-9'>
+
+
+
   <div className='container c21'>
   <h5 className='e5'>7 WAYS TO SPEED UP YOUR LAPTOP</h5>
 
@@ -61,7 +79,22 @@ Now you can set the size manually and done.
   During booting of windows many programs start on startup and utilize system resources and make increase boot time and make system very slow during startup. you can stop starting of these programs at startup by going to Task manager /startup /and select the program and click disable button.
 </p>
 
+</div>
+</div>
 
+
+
+  <div className='col-md-3'>
+  <div className='c30'>
+     <MediumRectangle />
+     <Billiboard />
+     <SuperLeaderboard/>
+     <Smartphonebanner2 />
+     <HalfPageAd />
+  </div>
+  </div>
+
+  
   </div>
   </div>
 }
