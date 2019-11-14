@@ -74,10 +74,10 @@ Last of us 2 Uncharted
   </div>
 
   <div className='col-md-3'>
-
-
+  <div className='c30'>
      <MediumRectangle />
      <Billiboard />
+  </div>
   </div>
 
 
