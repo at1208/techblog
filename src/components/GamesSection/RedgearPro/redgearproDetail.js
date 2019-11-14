@@ -34,7 +34,7 @@ const RedgearPro = () => {
                </span>
               </div>
 
-              <img src='../../../img/blog16.jpg' className='e1  '/>
+              <img src='../../../img/blog16.jpg' className='e1 c31'/>
               <p className='e3'>Redgear wireless gamepad features 2.4GHz wireless technology and supporting up to 10 meters range, the Redgear Pro Series wireless gamepad is the ideal choice for those looking to enjoy your favorite games without the hassle of cables and wires. The gamepad comes with a plug and play feature which does not require any driver to be installed before gaming. The latest games can run with this feature. With older games, simply install the included driver in the pack. This is the best wireless gaming controller or gamepad currently available in the market. The controller supports all the games like GTA 5, WWE 2k20, Cricket 19 or any other game available in the market.
 
               </p>
@@ -92,7 +92,7 @@ const RedgearPro = () => {
          </div>
          </div>
 
-         
+
        </div>
          </div>
 }
