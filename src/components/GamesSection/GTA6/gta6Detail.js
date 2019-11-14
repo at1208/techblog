@@ -74,6 +74,7 @@ Last of us 2 Uncharted
      <MediumRectangle />
      <Billiboard />
      <SuperLeaderboard/>
+     <Smartphonebanner2 />
      <HalfPageAd />
   </div>
   </div>
