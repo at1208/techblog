@@ -14,6 +14,7 @@ import MediumRectangle from '../../Ads/MediumRectangle'
 
 
 const WantsToMapOceanDetail = () => {
+  window.scrollTo(0, 0)
   return <div>
   <Header />
 

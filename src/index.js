@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Route } from 'react-router-dom'
 
 //Genre Section
 import Home from './components/Home/home'
@@ -13,7 +14,6 @@ import GamesSection from './components/GamesSection/gamesection'
 
 //Blogs
 import Realmex2pro from './components/Phones/Realmex2pro/realmex2proDetail'
-import { BrowserRouter, Route} from 'react-router-dom'
 import Top5Under60000 from './components/Laptops/Laptop/top5under60000Detail';
 import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
 import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
@@ -35,10 +35,15 @@ import Top5GamingHeadphone from './components/HeadphoneEarphones/Top5GamingHeadp
 
 
 
+const ScrollToTop = () => {
+  window.scrollTo(0, 0);
+  return null;
+};
 
 
 ReactDOM.render(
   <BrowserRouter>
+   <Route component={ScrollToTop} />
    <Route path='/' exact component={Home} />
    <Route path='/phones' exact component={Phones} />
    <Route path='/gaming-section' exact component={GamesSection} />
