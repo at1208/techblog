@@ -21,7 +21,7 @@ const Overwatch2Detail = () => {
          <Header/>
 
          <div className='row justify-content-center'>
-         <div className='row justify-content-center col-md-9'>
+         <div className='row justify-content-center col-md-6'>
 
 
          <div className='container c21'>
@@ -64,7 +64,7 @@ Overwatch recently came to Nintendo Switch.
 </div>
   </div>
 
-  <div className='col-md-3'>
+  <div className='col-md-2'>
   <div className='c30'>
      <MediumRectangle />
      <Billiboard />
