@@ -4,9 +4,31 @@ import { Link } from 'react-router-dom'
 import { Carousel,Rate, Icon } from 'antd';
 
 
+
+
+
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
+
 const DeathStrandingDetail = () => {
   return <div>
   <Header />
+
+  <div className='row justify-content-center'>
+
+
+
+
+  <div className='row justify-content-center col-md-8 c28'>
+
   <div className='container c21'>
   <h5 className='e5'>GTA 6 LAUNCH DATE</h5>
 
@@ -48,8 +70,17 @@ Last of us 2 Uncharted
 </p>
 <p className='e3'>We will update when their will be official confirmation from rockstar games.
 </p>
-
+</div>
   </div>
-       </div>
+
+  <div className='col-md-3 shadow'>
+     <SmartphoneBanner1 />
+     <WideScraper />
+  </div>
+
+
+    </div>
+      </div>
+
 }
 export default DeathStrandingDetail;
