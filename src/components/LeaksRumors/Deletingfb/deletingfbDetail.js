@@ -26,7 +26,7 @@ const DeletingfbDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Brian Acton still behind the idea of deleting Facebook</h5>
 
-  <div className='container-fluid row'>
+  <div className='container-fluid row d1'>
    <img src='' alt=''  className='c22'/>
    <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Sun, 10 Nov 2019</span>
    </span>

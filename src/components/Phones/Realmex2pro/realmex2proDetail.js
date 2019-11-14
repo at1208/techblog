@@ -21,7 +21,7 @@ const Realmex2proDetails = () => {
        <div className='container c21'>
        <h5 className='e5'>Realme X2 Pro “Faster. Sharper. Bolder”</h5>
 
-       <div className='container-fluid row'>
+       <div className='container-fluid row d1'>
         <img src='../../../img/dikshant.jpg' alt=''  className='c22'/>
         <span className='c24 c23'>Dikshant Gautam<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
         </span>

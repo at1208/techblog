@@ -27,7 +27,7 @@ const Top5GamingHeadphone = () => {
   <div className='container c21'>
   <h5 className='e5'>TOP 5 GAMING HEADPHONES</h5>
 
-  <div className='container-fluid row'>
+  <div className='container-fluid row d1'>
    <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Abhishek Naagar <br /> <span  className='c25'>Wed, 13 Nov 2019</span>
    </span>

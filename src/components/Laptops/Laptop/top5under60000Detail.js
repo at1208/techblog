@@ -25,7 +25,7 @@ const Top5Under60000  = () => {
             <div className='container c21'>
             <h5 className='e5'>Top 5 Gaming Laptops Under 60000</h5>
 
-            <div className='container-fluid row'>
+            <div className='container-fluid row d1'>
              <img src='../../../img/amit.jpg' alt=''  className='c22'/>
              <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Sat, 9 Nov 2019</span>
              </span>

@@ -26,7 +26,7 @@ const SD865Detail = () => {
   <h5 className='e5'>Qualcomm Snapdragon 865 specs leaked!!!</h5>
 
 
-  <div className='container-fluid row'>
+  <div className='container-fluid row d1'>
    <img src='../../../img/amit.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Tue, 12 Nov 2019</span>
    </span>

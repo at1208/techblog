@@ -26,7 +26,7 @@ const AppleCreditCardDetail = () => {
   <div className='container c21'>
   <h5 className='e5'>Apple’s credit card under investigation for discrimination</h5>
 
-  <div className='container-fluid row'>
+  <div className='container-fluid row d1'>
    <img src='' alt=''  className='c22'/>
    <span className='c24 c23'>Anmol Raj Chauhan<br /> <span  className='c25'>Mon, 11 Nov 2019</span>
    </span>

@@ -27,7 +27,7 @@ const PubgmobileDetail = () => {
   <h5 className='e5'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h5>
 
 
-  <div className='container-fluid row'>
+  <div className='container-fluid row d1'>
    <img src='../../../img/amit.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Amit Rawat<br /> <span  className='c25'>Mon, 11 Nov 2019</span>
    </span>
