@@ -62,7 +62,7 @@ const Top5GamingHeadphone = () => {
 </ul>
 </p>
 
-<p className='e2'>4. ZEBRONICS STINGRAY  PRICE INR I799
+<p className='e2'>4. ZEBRONICS STINGRAY  PRICE INR 1799
 </p>
 <img src='../../../img/blog20three.png' alt=''  className='e1 c29'/>
 <p className='e3'>

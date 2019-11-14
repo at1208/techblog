@@ -30,7 +30,7 @@ const WantsToMapOceanDetail = () => {
 <p className='e3'>With this ambitious project, the company offers people an opportunity to discover new marine organisms and also aims to help improve search and rescue operations in the sea. “Not only will we able to discover new species of marine life and track climate change, but in time we will also be able to optimise search and rescue operations, locate wreckages and black boxes, and much more”.
 
 </p>
-<p className='e3'>So, what are your thoughts on this “WaterView” technology? Feel free to tell us in the comment section or our social handles.
+<p className='e3'>So, what are your thoughts on this “WaterView” technology? Feel free to tell us in the comment section or on our social handles.
 
 </p>
 <a href='https://www.instagram.com/geekboy.tech/'>
