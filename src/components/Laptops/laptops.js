@@ -44,7 +44,7 @@ const Laptops = () => {
                   <div className='row justify-content-center col-md-3 c27 '>
                   <WideScraper />
                   <HalfPageAd />
-                    <Smartphonebanner2 />
+                  <Smartphonebanner2 />
                   </div>
 
 
