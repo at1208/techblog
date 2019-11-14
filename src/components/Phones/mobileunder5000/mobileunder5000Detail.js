@@ -34,7 +34,7 @@ Best buy Link -<a href='https://www.flipkart.com/nokia-1-dark-blue-8-gb/p/itmf44
 
 </p>
 <p className='e3'> It is dual sim with 4G LTE support. It also has a MicroSD storage card slot which can be expanded upto 128GB. Redmi Go has 8MP rear camera with HDR and 5MP selfie camera with AI Beautify. Onboard Sensors include Proximity sensor, Ambient light sensor, Accelerometer. It has a removable 3000 mAh battery.
-<p className='e2'>My Rating – 8.5/10
+<p className='e2'>My Rating – 8/10
 </p>
 Best buy Link -<a href='https://www.flipkart.com/redmi-go-black-8-gb/p/itmfeauu7ys4tkhb'>https://www.flipkart.com/redmi-go-black-8-gb</a>
 </p>
@@ -49,7 +49,7 @@ Best buy Link -<a href='https://www.flipkart.com/redmi-go-black-8-gb/p/itmfeauu7
 </p>
 <p className='e3'>  It is dual sim with 4G LTE support. It also has a dedicated MicroSD storage card slot which can be expanded upto 256GB. Asus ZenFone Lite L1 has 13MP rear camera with PDAF (Phase Detection Auto Focus) and 5MP selfie camera. On board sensors include Accelerometer, E-compass, Proximity Sensor, Ambient Light Sensor. It has a removable 3000 mAh battery.
 
-<p className='e2'>My Rating 8/10
+<p className='e2'>My Rating 9/10
 
 </p>
 Best buy Link -<a href='https://www.flipkart.com/asus-zenfone-lite-l1-black-16-gb/p/itmf9fgsmsht5qhs'>https://www.flipkart.com/asus-zenfone-lite-l1-black-16-gb</a>
@@ -60,7 +60,7 @@ Best buy Link -<a href='https://www.flipkart.com/asus-zenfone-lite-l1-black-16-g
 
 </p>
 <img src='../../../img/blog8three.jpg' className='e1'/>
-<p className='e3'>Infinix Smart 2 is a budget offering from Xiaomi. It runs Android Oreo on top of XOS 3.2 . Infinix Smart 2 comes with 13.84 cm (5.45 inch) HD+ Display with minimum bezels and an impressive 83.4% screen-to-body ratio. This helps in enhancing your viewing experience. It has 2GB RAM & 16GB onboard storage.
+<p className='e3'>Infinix Smart 2 is a budget offering from Infinix. It runs Android Oreo on top of XOS 3.2 . Infinix Smart 2 comes with 13.84 cm (5.45 inch) HD+ Display with minimum bezels and an impressive 83.4% screen-to-body ratio. This helps in enhancing your viewing experience. It has 2GB RAM & 16GB onboard storage.
 
 
 
