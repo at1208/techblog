@@ -3,9 +3,28 @@ import Header from '../../Common/Header/header';
 
 
 
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
+
+
+
+
 const RedgearPro = () => {
   return <div>
        <Header/>
+
+       <div className='row justify-content-center'>
+       <div className='row justify-content-center col-md-9'>
+
+
+
        <div className='container c21'>
               <h5 className='e5'>Redgear Pro Wireless Gaming Gamepad “Best Gaming Controller For PC”</h5>
 
@@ -59,8 +78,22 @@ const RedgearPro = () => {
                <a href=' https://www.flipkart.com/redgear-pro-series-wireless-gamepad/p/itmehwaacnryp3je'>Flipkart</a>
                <br />
                 <a href='https://www.amazon.in/Redgear-Pro-Wireless-Gamepad-Black/dp/B0756CLQWL'>Amazon</a>
-       </div>
 
+        </div>
+         </div>
+
+         <div className='col-md-3'>
+         <div className='c30'>
+            <MediumRectangle />
+            <Billiboard />
+            <SuperLeaderboard/>
+            <Smartphonebanner2 />
+            <HalfPageAd />
+         </div>
+         </div>
+
+         
+       </div>
          </div>
 }
 
