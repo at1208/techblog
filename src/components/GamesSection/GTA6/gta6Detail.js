@@ -27,7 +27,7 @@ const DeathStrandingDetail = () => {
 
 
 
-  <div className='row justify-content-center col-md-8 c28'>
+  <div className='row justify-content-center col-md-8 c28 container '>
 
   <div className='container c21'>
   <h5 className='e5'>GTA 6 LAUNCH DATE</h5>
@@ -74,7 +74,7 @@ Last of us 2 Uncharted
   </div>
 
   <div className='col-md-3'>
- 
+
 
      <MediumRectangle />
      <Billiboard />
