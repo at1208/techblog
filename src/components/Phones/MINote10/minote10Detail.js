@@ -2,10 +2,26 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 
 
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
+
 
 const MINOTE10Detail = () => {
   return <div>
        <Header/>
+
+
+         <div className='row justify-content-center'>
+         <div className='row justify-content-center col-md-9'>
+
+
+
        <div className='container c21'>
               <h5 className='e5'>MI Note 10 “ Dream Big “</h5>
 
@@ -23,8 +39,20 @@ const MINOTE10Detail = () => {
               <p className='e2'>Best Buy Links – To Be Added Soon -
               </p>
 
-       </div>
+              </div>
+                </div>
 
+                <div className='col-md-3'>
+                <div className='c30'>
+                   <MediumRectangle />
+                   <Billiboard />
+                   <SuperLeaderboard/>
+                   <Smartphonebanner2 />
+                   <HalfPageAd />
+                </div>
+                </div>
+
+       </div>
          </div>
 }
 

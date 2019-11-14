@@ -37,7 +37,7 @@ const Top5Under60000  = () => {
             </p>
 
             <p className='e2'>1.MSI GF63 THIN 9RCX – </p>
-            <img src='../../img/blog2one.jpg' className='e1'/>
+            <img src='../../img/blog2one.jpg' className='e1 '/>
 
             <p className='e3'>This is the laptop from top of the line gaming company with
             unbelievable specs at outstanding price.

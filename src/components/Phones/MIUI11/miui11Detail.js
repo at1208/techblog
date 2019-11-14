@@ -2,10 +2,24 @@ import React from 'react';
 import Header from '../../Common/Header/header';
 
 
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
 
 const MIUI11Detail = () => {
   return <div>
        <Header/>
+
+
+                <div className='row justify-content-center'>
+                <div className='row justify-content-center col-md-9'>
+
+
        <div className='container c21'>
               <h5 className='e5'>MIUI 11 “Life Gets Easier” Features And Rollout Dates </h5>
 
@@ -40,6 +54,21 @@ const MIUI11Detail = () => {
               <img src='../../../img/blog12nine.jpg' className='e1'/>
               </ol>
               </p>
+
+
+              </div>
+                </div>
+
+                <div className='col-md-3'>
+                <div className='c30'>
+                   <MediumRectangle />
+                   <Billiboard />
+                   <SuperLeaderboard/>
+                   <Smartphonebanner2 />
+                   <HalfPageAd />
+                </div>
+                </div>
+
 
        </div>
 

@@ -1,11 +1,25 @@
 import React from 'react';
 import Header from '../../Common/Header/header';
 
+import SmartphoneBanner1 from '../../Ads/SmartphoneBanner1'
+import Billiboard from '../../Ads/Billiboard'
+import HalfPageAd from '../../Ads/HalfPageAd'
+import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
+import SuperLeaderboard from '../../Ads/SuperLeaderboard';
+import WideScraper from '../../Ads/WideScraper'
+import MediumRectangle from '../../Ads/MediumRectangle'
+
 
 
 const MobileUnder5000Detail = () => {
   return <div>
        <Header/>
+
+       <div className='row justify-content-center'>
+       <div className='row justify-content-center col-md-9'>
+
+
+
        <div className='container c21'>
        <h5 className='e5'>Best Mobile Phones Under Rs.5000</h5>
 
@@ -78,6 +92,20 @@ Best buy Link -<a href='https://www.flipkart.com/infinix-smart-2-sandstone-black
 
 </p>
 
+</div>
+
+  </div>
+
+  <div className='col-md-3'>
+  <div className='c30'>
+     <MediumRectangle />
+     <Billiboard />
+     <SuperLeaderboard/>
+     <Smartphonebanner2 />
+     <HalfPageAd />
+  </div>
+  </div>
+  
 
        </div>
 
