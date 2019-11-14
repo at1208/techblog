@@ -100,12 +100,10 @@ Best buy Link -<a href='https://www.flipkart.com/infinix-smart-2-sandstone-black
   <div className='c30'>
      <MediumRectangle />
      <Billiboard />
-     <SuperLeaderboard/>
-     <Smartphonebanner2 />
      <HalfPageAd />
   </div>
   </div>
-  
+
 
        </div>
 

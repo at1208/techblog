@@ -88,13 +88,11 @@ Now you can set the size manually and done.
   <div className='c30'>
      <MediumRectangle />
      <Billiboard />
-     <SuperLeaderboard/>
-     <Smartphonebanner2 />
      <HalfPageAd />
   </div>
   </div>
 
-  
+
   </div>
   </div>
 }

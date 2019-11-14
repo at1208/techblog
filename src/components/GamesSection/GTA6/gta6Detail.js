@@ -73,8 +73,6 @@ Last of us 2 Uncharted
   <div className='c30'>
      <MediumRectangle />
      <Billiboard />
-     <SuperLeaderboard/>
-     <Smartphonebanner2 />
      <HalfPageAd />
   </div>
   </div>

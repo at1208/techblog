@@ -66,13 +66,11 @@ Acton is not really the primary Facebook official to take a stand in opposition 
      <div className='c30'>
         <MediumRectangle />
         <Billiboard />
-        <SuperLeaderboard/>
-        <Smartphonebanner2 />
         <HalfPageAd />
      </div>
      </div>
 
-     
+
   </div>
 
        </div>

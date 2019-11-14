@@ -68,8 +68,6 @@ Overwatch recently came to Nintendo Switch.
   <div className='c30'>
      <MediumRectangle />
      <Billiboard />
-     <SuperLeaderboard/>
-     <Smartphonebanner2 />
      <HalfPageAd />
   </div>
   </div>

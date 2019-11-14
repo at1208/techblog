@@ -64,13 +64,11 @@ const WantsToMapOceanDetail = () => {
 
 </div>
      </div>
-     
+
      <div className='col-md-3'>
      <div className='c30'>
         <MediumRectangle />
         <Billiboard />
-        <SuperLeaderboard/>
-        <Smartphonebanner2 />
         <HalfPageAd />
      </div>
      </div>

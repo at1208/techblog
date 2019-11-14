@@ -73,8 +73,6 @@ And it's the only incident he was seen laugh.
         <div className='c30'>
            <MediumRectangle />
            <Billiboard />
-           <SuperLeaderboard/>
-           <Smartphonebanner2 />
            <HalfPageAd />
         </div>
         </div>
