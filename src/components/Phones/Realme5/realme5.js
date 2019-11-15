@@ -11,7 +11,7 @@ const Pubgmobile = () => {
            <img src='../../img/blog21.jpg' className='card c16'/>
 
            <span className='c20 e3'>
-          Leaks & Rumors
+          Mobiles
            <br />
            <Link to='/Phones/REALME-5S-is-launching-on-November-20-2019-along-with-X2-pro'>
           <b className='  e3'>Know More</b>
