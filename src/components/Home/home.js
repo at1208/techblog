@@ -69,6 +69,7 @@ class Home extends Component{
                       <div className='row justify-content-center col-md-7 c28'>
 
 
+                      <script data-cfasync='false' type='text/javascript' src='//p374242.clksite.com/adServe/banners?tid=374242_734140_0'></script>
                           <Slide bottom>
                           <Realme5 />
                           </Slide>
