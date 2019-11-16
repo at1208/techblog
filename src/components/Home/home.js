@@ -63,13 +63,14 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
-
+                <MediumRectangle />
                   </div>
 
                       <div className='row justify-content-center col-md-7 c28'>
 
 
-                           <Slide bottom>
+                      <script data-cfasync='false' type='text/javascript' src='//p374242.clksite.com/adServe/banners?tid=374242_734140_0'></script>
+                          <Slide bottom>
                           <Realme5 />
                           </Slide>
 
