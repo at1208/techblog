@@ -63,7 +63,7 @@ class Home extends Component{
         <div className='container-fluid c4 text-center'>
                   <div className='row justify-content-center'>
 
-         <div className='col-md-12 row justify-content-center'>
+         <div className='col-md-12 row justify-content-center container-fluid'>
       <LeaderBoard />
         </div>
 
