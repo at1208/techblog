@@ -25,8 +25,6 @@ const AppleCreditCardDetail = () => {
 
 
 <div className='col-md-12 row justify-content-center'>
-
-
 <div className='row justify-content-center col-md-2 c27'>
 <MediumRectangle />
 </div>
