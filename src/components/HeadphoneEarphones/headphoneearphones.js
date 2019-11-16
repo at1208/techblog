@@ -20,11 +20,15 @@ import Top5GamingHeadphone from './Top5GamingHeadphones/top5gamingheadphone'
 const HeadphoneEarphones = () => {
   return <div>
   <Header/>
-  <div className='container text-center'>
+  <div className='container-fluid text-center'>
   <h1 className='e4'><Texty>Headphones & Earphones</Texty></h1>
+  <div className='row justify-content-center text-center '>
 
+  <div className=' col-md-2'>
+   <MediumRectangle />
+  </div>
 
-  <div className='row justify-content-center col-md-8 c28'>
+  <div className='row justify-content-center col-md-7 c28'>
 
           <Slide bottom>
           <div className=''>
@@ -33,14 +37,12 @@ const HeadphoneEarphones = () => {
           </Slide>
 
   </div>
-  <div className='row justify-content-center col-md-4 c27 '>
+  <div className='row justify-content-center col-md-3 c27 '>
   <WideScraper />
-  <HalfPageAd />
-  <Smartphonebanner2 />
   </div>
 
-
   </div>
+    </div>
          </div>
 }
 
