@@ -63,12 +63,12 @@ class Home extends Component{
         <div className='container-fluid c4 text-center'>
                   <div className='row justify-content-center'>
 
-         <div className='col'>
-      <LeaderBoard />
+         <div className='col-md-12 shadow'>
+      <LeaderBoard /> 
         </div>
 
 
-<div className='col'>
+<div className='col-md-12'>
                   <div className='row justify-content-center col-md-2 c27'>
                 <MediumRectangle />
                   </div>
@@ -76,7 +76,7 @@ class Home extends Component{
                       <div className='row justify-content-center col-md-7 c28'>
 
 
-                      <script data-cfasync='false' type='text/javascript' src='//p374242.clksite.com/adServe/banners?tid=374242_734140_0'></script>
+
                           <Slide bottom>
                           <Realme5 />
                           </Slide>
