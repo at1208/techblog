@@ -22,11 +22,16 @@ import LeaderBoard from '../Ads/Leaderboard'
 const Laptops = () => {
   return <div>
             <Header/>
-            <div className='container'>
+            <div className='container-fluid'>
             <h1 className='e4 text-center'><Texty>Laptops</Texty></h1>
-                 <div className='container row justify-content-center'>
+                 <div className='container-fluid row justify-content-center'>
 
-                   <div className='row justify-content-center col-md-9 c28'>
+                 <div className=' col-md-2 '>
+                  <MediumRectangle />
+                 </div>
+
+
+                   <div className='row justify-content-center col-md-7 c28 '>
 
                   <Slide bottom>
                     <div className=''>
@@ -41,10 +46,8 @@ const Laptops = () => {
                   </Slide>
 
                   </div>
-                  <div className='row justify-content-center col-md-3 c27 '>
+                  <div className='row justify-content-center col-md-3 c27  '>
                   <WideScraper />
-                  <HalfPageAd />
-                  <Smartphonebanner2 />
                   </div>
 
 
