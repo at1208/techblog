@@ -28,7 +28,7 @@ const AppleCreditCardDetail = () => {
 
 
 
-  <div className='row justify-content-center col-md-7'>
+  <div className='row justify-content-center col-md-6'>
 
 
 
@@ -70,7 +70,7 @@ The New York State Department of Financial Services (DFS) responded in response 
 
 
 
-  <div className='col-md-3'>
+  <div className='col-md-2'>
   <div className='c30'>
              <WideScraper />
   </div>
