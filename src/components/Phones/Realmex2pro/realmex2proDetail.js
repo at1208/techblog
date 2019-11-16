@@ -68,9 +68,7 @@ const Realmex2proDetails = () => {
 
          <div className='col-md-3'>
          <div className='c30'>
-            <MediumRectangle />
-            <Billiboard />
-            <HalfPageAd />
+                    <WideScraper />
          </div>
          </div>
 
