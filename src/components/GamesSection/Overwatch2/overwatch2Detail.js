@@ -76,9 +76,7 @@ Overwatch recently came to Nintendo Switch.
 
   <div className='col-md-2'>
   <div className='c30'>
-     <MediumRectangle />
-     <Billiboard />
-     <HalfPageAd />
+     <WideScraper />
   </div>
   </div>
  </div>
