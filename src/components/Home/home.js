@@ -14,6 +14,7 @@ import Smartphonebanner2 from '../Ads/Smartphonebanner2'
 import SuperLeaderboard from '../Ads/SuperLeaderboard';
 import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle'
+import LeaderBoard from '../Ads/LeaderBoard'
 
 
 
@@ -62,6 +63,12 @@ class Home extends Component{
         <div className='container-fluid c4 text-center'>
                   <div className='row justify-content-center'>
 
+         <div className='col'>
+      <LeaderBoard />
+        </div>
+
+
+<div className='col'>
                   <div className='row justify-content-center col-md-2 c27'>
                 <MediumRectangle />
                   </div>
@@ -162,6 +169,7 @@ class Home extends Component{
                <div className='row justify-content-center col-md-3 c27 '>
                <WideScraper />
                </div>
+  </div>
 
            </div>
         </div>
