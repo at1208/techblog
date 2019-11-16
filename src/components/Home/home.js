@@ -64,16 +64,16 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
          <div className='col-md-12 shadow'>
-      <LeaderBoard /> 
+      <LeaderBoard />
         </div>
 
 
 <div className='col-md-12'>
-                  <div className='row justify-content-center col-md-2 c27'>
+                  <div className='row justify-content-center col-md-2 c27 shadow'>
                 <MediumRectangle />
                   </div>
 
-                      <div className='row justify-content-center col-md-7 c28'>
+                      <div className='row justify-content-center col-md-6 c28'>
 
 
 
@@ -166,7 +166,7 @@ class Home extends Component{
 
 
                </div>
-               <div className='row justify-content-center col-md-3 c27 '>
+               <div className='row justify-content-center col-md-3 c27 shadow'>
                <WideScraper />
                </div>
   </div>
