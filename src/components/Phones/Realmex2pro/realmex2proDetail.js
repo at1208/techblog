@@ -8,6 +8,8 @@ import Smartphonebanner2 from '../../Ads/Smartphonebanner2'
 import SuperLeaderboard from '../../Ads/SuperLeaderboard';
 import WideScraper from '../../Ads/WideScraper'
 import MediumRectangle from '../../Ads/MediumRectangle'
+import LeaderBoard from '../../Ads/Leaderboard'
+
 
 const Realmex2proDetails = () => {
   return <div>
