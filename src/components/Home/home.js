@@ -73,7 +73,7 @@ class Home extends Component{
                 <MediumRectangle />
                   </div>
 
-                      <div className='row justify-content-center col-md-6 c28'>
+                      <div className='row justify-content-center col-md-7 c28'>
 
 
 
