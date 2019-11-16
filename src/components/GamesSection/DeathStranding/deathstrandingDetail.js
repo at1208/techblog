@@ -32,7 +32,7 @@ const DeathStrandingDetail = () => {
 </div>
 
 
-  <div className='row justify-content-center col-md-9'>
+  <div className='row justify-content-center col-md-7'>
 
   <div className='container c21'>
   <h5 className='e5'>Death Stranding</h5>
