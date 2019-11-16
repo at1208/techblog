@@ -15,19 +15,22 @@ import Smartphonebanner2 from '../Ads/Smartphonebanner2'
 import SuperLeaderboard from '../Ads/SuperLeaderboard';
 import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle'
-
+import LeaderBoard from '../Ads/Leaderboard'
 
 
 const GamesSection = () => {
   return <div>
          <Header/>
 
-  <div className='text-center container'>
+  <div className='text-center container-fluid'>
   <h1 className='e4'><Texty>Games Section</Texty></h1>
   <div className='row justify-content-center text-center '>
 
+  <div className=' col-md-2'>
+   <MediumRectangle />
+  </div>
 
-  <div className='row justify-content-center col-md-9 c28'>
+  <div className='row justify-content-center col-md-7 c28'>
           <Slide bottom>
           <div className=''>
           <RedgearPro />
@@ -58,8 +61,6 @@ const GamesSection = () => {
   </div>
   <div className='row justify-content-center col-md-3 c27 '>
   <WideScraper />
-  <HalfPageAd />
-  <Smartphonebanner2 />
   </div>
 
 
