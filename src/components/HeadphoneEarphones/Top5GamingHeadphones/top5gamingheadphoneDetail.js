@@ -21,7 +21,19 @@ const Top5GamingHeadphone = () => {
   <Header />
 
   <div className='row justify-content-center'>
-  <div className='row justify-content-center col-md-9'>
+
+  <div className='col-md-12 row justify-content-center container-fluid'>
+<LeaderBoard />
+ </div>
+
+
+<div className='col-md-12 row justify-content-center'>
+<div className='row justify-content-center col-md-2 c27'>
+<MediumRectangle />
+</div>
+
+
+  <div className='row justify-content-center col-md-7'>
 
 
   <div className='container c21'>
@@ -126,13 +138,11 @@ const Top5GamingHeadphone = () => {
 
      <div className='col-md-3'>
      <div className='c30'>
-        <MediumRectangle />
-        <Billiboard />
-        <HalfPageAd />
+                <WideScraper />
      </div>
      </div>
 
-
+       </div>
   </div>
        </div>
 }
