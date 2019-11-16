@@ -35,12 +35,12 @@ const LeakRumors = () => {
             <h1 className='e4'><Texty>Leaks & Rumors</Texty></h1>
                  <div className='row justify-content-center text-center'>
 
-                 <div className=' col-md-2 '>
+                 <div className=' col-md-2'>
                   <MediumRectangle />
                  </div>
 
 
-  <div className='row justify-content-center col-md-7 c28'>
+  <div className='row justify-content-center col-md-7 c28 '>
 
                 <Slide bottom>
                 <div className=''>
@@ -93,7 +93,7 @@ const LeakRumors = () => {
                   </Slide>
 
                   </div>
-                  <div className='row justify-content-center col-md-3 c27 '>
+                  <div className='row justify-content-center col-md-3 c27'>
                   <WideScraper />
                   </div>
 
