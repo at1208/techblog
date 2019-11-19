@@ -9,7 +9,7 @@ import HeadphoneEarphones from './components/HeadphoneEarphones/headphoneearphon
 import LeakRumors from './components/LeaksRumors/leaksrumors'
 import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
-import './ads.txt'
+
 
 
 
