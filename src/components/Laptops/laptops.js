@@ -1,13 +1,12 @@
 import React from 'react';
 import Header from '../Common/Header/header';
 import { Link } from 'react-router-dom';
-import Top5Under60000 from './Laptop/top5under60000'
-import SpeedLaptop from './SpeedLaptop/speedlaptop';
+ 
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
 
-
+import NewPost from '../Common/Post/post';
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
@@ -34,15 +33,19 @@ const Laptops = () => {
                    <div className='row justify-content-center col-md-7 c28 '>
 
                   <Slide bottom>
-                    <div className=''>
-                    <SpeedLaptop />
-                    </div>
+                    <NewPost
+                    link='/laptops/7-ways-to-speed-up-your-laptops'
+                    title='7 Ways To speed up your laptop'
+                    imgsrc='../../img/blog11.jpeg'
+                    section='Laptop' />
                   </Slide>
 
                   <Slide bottom>
-                    <div className=''>
-                    <Top5Under60000 />
-                    </div>
+                    <NewPost
+                    link='laptops/top-5-gaming-laptops-under-rs60000'
+                    title='Top 5 Gaming Laptops Under 60000'
+                    imgsrc='../../img/blog2six.jpg'
+                    section='Laptops' />
                   </Slide>
 
                   </div>

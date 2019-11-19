@@ -1,12 +1,12 @@
 import React from 'react';
 import Header from '../Common/Header/header';
-import Overwatch2 from './Overwatch2/overwatch2';
-import DeathStranding from './DeathStranding/deathstranding';
-import RedgearPro from './RedgearPro/redgearpro'
-import GTA6 from './GTA6/gta6'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
+
+
+import NewPost from '../Common/Post/post';
+
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
@@ -32,30 +32,38 @@ const GamesSection = () => {
 
   <div className='row justify-content-center col-md-7 c28'>
           <Slide bottom>
-          <div className=''>
-          <RedgearPro />
-          </div>
+            <NewPost
+            link='gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”'
+            title='Redgear Pro Wireless Gaming Gamepad “Best Gaming Controller For PC”'
+            imgsrc='../../img/blog16.jpg'
+            section='Games Section' />
           </Slide>
 
 
           <Slide bottom>
-          <div className=' '>
-          <GTA6 />
-          </div>
+          <NewPost
+          link='/gaming-section/GTA-6-LAUNCH-DATE'
+          title='GTA 6 LAUNCH DATE'
+          imgsrc='../../img/blog14.png'
+          section='Gaming Section' />
           </Slide>
 
 
           <Slide bottom>
-          <div className=' '>
-          <DeathStranding />
-          </div>
+          <NewPost
+          link='gaming-section/death-stranding'
+          title='Death Stranding'
+          imgsrc='../../img/blog9.png'
+          section='Gaming Section' />
           </Slide>
 
 
           <Slide bottom>
-          <div className=' '>
-          <Overwatch2 />
-          </div>
+          <NewPost
+          link='/gaming-section/overwatch-2'
+          title='OVERWATCH2'
+          imgsrc='../../img/blog3.png'
+          section='Games Section' />
           </Slide>
 
   </div>

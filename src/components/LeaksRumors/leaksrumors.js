@@ -1,13 +1,12 @@
 import React from 'react';
 import Header from '../Common/Header/header';
-import HarleyDavidsonBikes from './HarleyDavidsonBikes/harleydavidsonbike'
-import WantsToMapOcean from './WantsToMapOcean/wantstomapocean'
-import Deletingfb from './Deletingfb/deletingfb'
-import Halo from './Halo/halo'
 import './leaksrumors.css'
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
+
+
+import NewPost from '../Common/Post/post';
 
 
 
@@ -20,12 +19,6 @@ import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle';
 
 
-
-
-import PUBGMobile from './PUBGMobile/pubgmobile';
-import AppleCard from './AppleCreditCard/applecreditcard'
-import Nightangle from './Nightangle/nightangle';
-import SD865 from './SD865/sd865'
 
 
 const LeakRumors = () => {
@@ -43,53 +36,77 @@ const LeakRumors = () => {
   <div className='row justify-content-center col-md-7 c28 '>
 
                 <Slide bottom>
-                <div className=''>
-                <SD865 />
-                </div>
+                  <NewPost
+                  link='/Google-abandons-100000-chest-X-rays-release'
+                  title='Google abandons 100,000 chest X-rays’ release'
+                  imgsrc='../../img/blog23.jpg'
+                  section='Leaks & Rumors' />
+                </Slide>
+
+                <Slide bottom>
+                    <NewPost
+                    link='/Qualcomm-Snapdragon-865-specs-leaked'
+                    title='Qualcomm Snapdragon 865 specs leaked!!!'
+                    imgsrc='../../img/blog18.jpg'
+                    section='Leaks & Rumors' />
                 </Slide>
 
 
                 <Slide bottom>
-                <div className=''>
-                <Nightangle />
-                </div>
+                    <NewPost
+                    link='/leaks-rumors/Google-announces-Project-Nightingale'
+                    title='Google announces ‘Project Nightingale’'
+                    imgsrc='../../img/blog17.jpg'
+                    section='Leaks & Rumors' />
                 </Slide>
 
                  <Slide bottom>
-                 <div className=''>
-                 <AppleCard />
-                 </div>
+                     <NewPost
+                     link='/leaksrumors/Apple-credit-card-under-investigation-for-discrimination'
+                     title='Apple’s credit card under investigation for discrimination'
+                     imgsrc='../../img/blog15.jpg'
+                     section='Leaks & Rumors' />
                  </Slide>
 
                   <Slide bottom>
-                  <div className=''>
-                  <PUBGMobile />
-                  </div>
+                    <NewPost
+                    link='/leaks-rumors/PUBG-Mobile-0.16.0-Update-could-bring-Erangle-2.0'
+                    title='PUBG Mobile 0.16.0 Update could bring Erangle 2.0'
+                    imgsrc='../../img/blog13.jpg'
+                    section='Leaks & Rumors' />
                   </Slide>
 
                   <Slide bottom>
-                  <div className=''>
-                  <Halo />
-                  </div>
+                    <NewPost
+                    link='/leaks-rumors/halo-tv-series-goes-into-production'
+                    title="‘Halo’ TV Series goes into production"
+                    imgsrc='../../img/blog10.jpg'
+                    section='Leaks & Rumors' />
                   </Slide>
 
                   <Slide bottom>
-                  <div className=''>
-                  <Deletingfb />
-                  </div>
+                    <NewPost
+                    link='leaksrumors/Brian-Acton-still-behind-the-idea-of-deleting-Facebook'
+                    title='Brian Acton still behind the idea of deleting Facebook'
+                    imgsrc='../../img/blog7.jpg'
+                    section='Leaks & Rumors' />
                   </Slide>
 
                   <Slide bottom>
-                  <div className=' ' >
-                  <HarleyDavidsonBikes />
-                  </div>
+                    <NewPost
+                    link='/leaksrumors/harley-davidson-electric-pedal-bikes'
+                    title='Harley-Davidson’s Electric Pedal Bikes'
+                    imgsrc='../../img/blog4.jpg'
+                    section='Leaks & Rumors' />
                   </Slide>
 
 
                   <Slide bottom>
-                  <div className=''>
-                  <WantsToMapOcean />
-                  </div>
+                  <NewPost
+                    link='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'
+                    title='Australian-based start-up wants to map the Oceans'
+                    imgsrc='../../img/blog5.jpg'
+                    section='Leaks & Rumors' />
                   </Slide>
 
                   </div>

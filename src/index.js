@@ -9,30 +9,33 @@ import HeadphoneEarphones from './components/HeadphoneEarphones/headphoneearphon
 import LeakRumors from './components/LeaksRumors/leaksrumors'
 import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
+import './ads.txt'
 
 
 
 //Blogs
-import Realmex2pro from './components/Phones/Realmex2pro/realmex2proDetail'
-import Top5Under60000 from './components/Laptops/Laptop/top5under60000Detail';
-import Overwatch2 from './components/GamesSection/Overwatch2/overwatch2Detail';
-import HarleyDavidsonBikes from './components/LeaksRumors/HarleyDavidsonBikes/harleydavidsonbikesDetail';
-import WantsToMapOcean from './components/LeaksRumors/WantsToMapOcean/wantstomapoceanDetail';
-import DeleteFacebook from './components/LeaksRumors/Deletingfb/deletingfbDetail';
-import MobileUnder5000 from './components/Phones/mobileunder5000/mobileunder5000Detail';
-import DeathStranding from './components/GamesSection/DeathStranding/deathstrandingDetail';
-import Halo from './components/LeaksRumors/Halo/haloDetail';
-import SpeedLaptopDetail from './components/Laptops/SpeedLaptop/speedlaptopDetail';
-import MIUI11Detail from './components/Phones/MIUI11/miui11Detail';
-import PubgmobileDetail from './components/LeaksRumors/PUBGMobile/pubgmobileDetail';
-import GTA6 from './components/GamesSection/GTA6/gta6Detail';
-import AppleCard from './components/LeaksRumors/AppleCreditCard/applecreditcardDetail';
-import RedgearPro from './components/GamesSection/RedgearPro/redgearproDetail';
-import Nightangle from './components/LeaksRumors/Nightangle/nightangleDetail';
-import SD865 from './components/LeaksRumors/SD865/sd865Detail';
-import MINOTE10 from './components/Phones/MINote10/minote10Detail'
-import Top5GamingHeadphone from './components/HeadphoneEarphones/Top5GamingHeadphones/top5gamingheadphoneDetail';
-import Realme5Detail from './components/Phones/Realme5/realme5Detail';
+import Realmex2pro from './components/Phones/realmex2proDetail'
+import Top5Under60000 from './components/Laptops/top5under60000Detail';
+import Overwatch2 from './components/GamesSection/overwatch2Detail';
+import HarleyDavidsonBikes from './components/LeaksRumors/harleydavidsonbikesDetail';
+import WantsToMapOcean from './components/LeaksRumors/wantstomapoceanDetail';
+import DeleteFacebook from './components/LeaksRumors/deletingfbDetail';
+import MobileUnder5000 from './components/Phones/mobileunder5000Detail';
+import DeathStranding from './components/GamesSection/deathstrandingDetail';
+import Halo from './components/LeaksRumors/haloDetail';
+import SpeedLaptopDetail from './components/Laptops/speedlaptopDetail';
+import MIUI11Detail from './components/Phones/miui11Detail';
+import PubgmobileDetail from './components/LeaksRumors/pubgmobileDetail';
+import GTA6 from './components/GamesSection/gta6Detail';
+import AppleCard from './components/LeaksRumors/applecreditcardDetail';
+import RedgearPro from './components/GamesSection/redgearproDetail';
+import Nightangle from './components/LeaksRumors/nightangleDetail';
+import SD865 from './components/LeaksRumors/sd865Detail';
+import MINOTE10 from './components/Phones/minote10Detail'
+import Top5GamingHeadphone from './components/HeadphoneEarphones/top5gamingheadphoneDetail';
+import Realme5Detail from './components/Phones/realme5Detail';
+import GoogleXray from './components/LeaksRumors/googlexrayDetail';
+import Jamaica from './components/HeadphoneEarphones/jamaicaDetail'
 
 
 
@@ -72,8 +75,8 @@ ReactDOM.render(
    <Route path='/Phones/MI-Note-10-Dream-Big' exact component={MINOTE10} />
    <Route path='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES' exact component={Top5GamingHeadphone} />
    <Route path='/Phones/REALME-5S-is-launching-on-November-20-2019-along-with-X2-pro' exact component={Realme5Detail} />
-
-
+   <Route path='/Google-abandons-100000-chest-X-rays-release' exact component={GoogleXray} />
+   <Route path='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear' exact component={Jamaica} />
 
 
 

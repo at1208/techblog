@@ -5,12 +5,7 @@ import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
 
-
-import Realmex2pro from './Realmex2pro/realmex2pro';
-import MobileUnder5000 from './mobileunder5000/mobileunder5000'
-import MIUI11 from './MIUI11/miui11';
-import MINOTE10 from './MINote10/minote10';
-import Realme5 from './Realme5/realme5'
+import NewPost from '../Common/Post/post';
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -40,34 +35,44 @@ const Phones = () => {
   <div className='row justify-content-center col-md-7 c28'>
 
           <Slide bottom>
-          <div className=''>
-          <Realme5 />
-          </div>
+          <NewPost
+          link='/Phones/REALME-5S-is-launching-on-November-20-2019-along-with-X2-pro'
+          title='REALME 5S is launching on November 20 2019 along with X2 pro!'
+          imgsrc='../../img/blog21.jpg'
+          section='Mobiles' />
           </Slide>
 
           <Slide bottom>
-          <div className=''>
-          <MINOTE10 />
-          </div>
+          <NewPost
+          link='/Phones/MI-Note-10-Dream-Big'
+          title='MI Note 10 “ Dream Big “'
+          imgsrc='../../img/blog19.png'
+          section='Mobiles' />
           </Slide>
 
 
           <Slide bottom>
-          <div className=''>
-          <MIUI11 />
-          </div>
+          <NewPost
+          link='/phones/miui-11-life-gets-easier-Features-and-rollout-dates'
+          title='MIUI 11 “Life Gets Easier” Features And Rollout Dates '
+          imgsrc='../../img/blog12.png'
+          section=' Mobiles' />
           </Slide>
 
           <Slide bottom>
-          <div className=' '>
-          <MobileUnder5000 />
-          </div>
+          <NewPost
+          link='/phones/best-mobiles-under-5000'
+          title='Best Mobile Phones Under Rs.5000'
+          imgsrc='../../img/blog8.png'
+          section='Mobiles' />
           </Slide>
 
           <Slide bottom>
-          <div className=' '>
-          <Realmex2pro />
-          </div>
+          <NewPost
+          link='/phones/realme-x2-pro'
+          title='Realme X2 Pro'
+          imgsrc='../../img/blog1.png'
+          section='Upcoming Phone' />
           </Slide>
 
           </div>

@@ -4,6 +4,7 @@ import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
 
+import NewPost from '../Common/Post/post';
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
@@ -14,8 +15,6 @@ import WideScraper from '../Ads/WideScraper'
 import MediumRectangle from '../Ads/MediumRectangle'
 import LeaderBoard from '../Ads/Leaderboard'
 
-
-import Top5GamingHeadphone from './Top5GamingHeadphones/top5gamingheadphone'
 
 const HeadphoneEarphones = () => {
   return <div>
@@ -29,11 +28,21 @@ const HeadphoneEarphones = () => {
   </div>
 
   <div className='row justify-content-center col-md-7 c28'>
+          <Slide bottom>
+            <NewPost
+            link='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear'
+            title='House Of Marley Smile Jamaica EM-JE041-SB in-ear'
+            imgsrc='../../img/blog22.jpg'
+            section='Headphones & Earphones' />
+          </Slide>
+
 
           <Slide bottom>
-          <div className=''>
-          <Top5GamingHeadphone />
-          </div>
+          <NewPost
+          link='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES'
+          title='TOP 5 GAMING HEADPHONES'
+          imgsrc='../../img/blog20two.png'
+          section='Headphones & Earphone' />
           </Slide>
 
   </div>

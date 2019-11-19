@@ -39,23 +39,23 @@ class SideDrawer extends Component {
           <div className='text-center'>
 
           <Link to='/phones'>
-          <button className='  btn btn-block   shadow b3'><Icon type="mobile" className='float-left b4'/>Mobile</button>
+          <button className='  btn btn-block b3'><Icon type="mobile" className='float-left b4'/>Mobile</button>
           </Link>
 
           <Link to='/gaming-section'>
-          <button className='  btn btn-block   shadow b3'><Icon type="robot" className='float-left b7'/>Gaming Section</button>
+          <button className='  btn btn-block b3'><Icon type="robot" className='float-left b7'/>Gaming Section</button>
           </Link>
 
           <Link to='/headphone-earphones'>
-          <button className='  btn btn-block   shadow b3'><Icon type="customer-service" className='float-left b8'/>Headphones</button>
+          <button className='  btn btn-block b3'><Icon type="customer-service" className='float-left b8'/>Headphones</button>
           </Link>
 
           <Link to='/laptops'>
-          <button className='  btn btn-block   shadow b3'><Icon type="laptop" className='float-left b9'/>Laptops</button>
+          <button className='  btn btn-block  b3'><Icon type="laptop" className='float-left b9'/>Laptops</button>
           </Link>
 
           <Link to='/leaks-rumors'>
-          <button className='  btn btn-block   shadow b3'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
+          <button className='  btn btn-block   b3'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
           </Link>
 
 
