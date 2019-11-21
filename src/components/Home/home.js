@@ -7,6 +7,7 @@ import Slide from 'react-reveal/Slide';
 
 import Header from '../Common/Header/header';
 import NewPost from '../Common/Post/post';
+import FAB from '../Common/FloatingButton/floatingButton'
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -44,11 +45,19 @@ class Home extends Component{
 
 
 <div className='col-md-12 row justify-content-center'>
+
                   <div className='row justify-content-center col-md-2 c27'>
                 <MediumRectangle />
                   </div>
 
+
+
                       <div className='row justify-content-center col-md-7 c28'>
+
+
+                      <div className='l1'>
+                            <FAB className='l1'/>
+                      </div>
 
                       <Slide bottom>
                         <NewPost
@@ -229,6 +238,7 @@ class Home extends Component{
                           imgsrc='../../img/blog3.png'
                           section='Games Section' />
                         </Slide>
+
 
 
                </div>

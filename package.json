@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.6.1",
+    "@material-ui/icons": "^4.5.1",
     "antd": "^3.25.0",
     "mo-js": "^0.288.2",
     "rc-scroll-anim": "^2.6.2",
@@ -11,6 +13,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-epic-spinners": "^0.4.1",
+    "react-floating-button-menu": "^2.0.6",
     "react-infinite-scroller": "^1.2.4",
     "react-responsive": "^8.0.1",
     "react-reveal": "^1.2.2",

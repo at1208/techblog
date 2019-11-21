@@ -305,3 +305,22 @@ font-family: 'Raleway', sans-serif;
   margin-top: 15px;
   margin-bottom: 30px;
 }
+.l1{
+
+  z-index: 2;
+  position: fixed;
+      bottom: 20px;
+      right: 20px;
+
+}
+.l2{
+  background-color: dodgerBlue;
+  color: white;
+}
+.l3{
+  color: white;
+}
+.l4{
+  background-color: #005cb2;
+  color: white;
+}
