@@ -7,7 +7,7 @@ import Slide from 'react-reveal/Slide';
 
 
 import NewPost from '../Common/Post/post';
-
+import FAB from '../Common/FloatingButton/floatingButton'
 
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
@@ -29,11 +29,17 @@ const LeakRumors = () => {
                  <div className='row justify-content-center text-center'>
 
                  <div className=' col-md-2'>
- 
+
                  </div>
 
 
   <div className='row justify-content-center col-md-7 c28 '>
+
+  <div className='l1'>
+        <FAB className='l1'/>
+  </div>
+
+  
 
                 <Slide bottom>
                   <NewPost
@@ -111,7 +117,7 @@ const LeakRumors = () => {
 
                   </div>
                   <div className='row justify-content-center col-md-3 c27'>
- 
+
                   </div>
 
                  </div>

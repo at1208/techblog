@@ -1,6 +1,7 @@
 .c1{
 height: 300px;
 
+
 }
 
 .ant-carousel .slick-slide {
@@ -323,4 +324,7 @@ font-family: 'Raleway', sans-serif;
 .l4{
   background-color: #a30000;
   color: white;
+}
+.z1{
+  background-color: black;
 }

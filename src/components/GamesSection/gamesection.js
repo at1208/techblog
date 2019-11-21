@@ -6,7 +6,7 @@ import Slide from 'react-reveal/Slide';
 
 
 import NewPost from '../Common/Post/post';
-
+import FAB from '../Common/FloatingButton/floatingButton'
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
@@ -31,6 +31,12 @@ const GamesSection = () => {
   </div>
 
   <div className='row justify-content-center col-md-7 c28'>
+
+  <div className='l1'>
+        <FAB className='l1'/>
+  </div>
+
+  
           <Slide bottom>
             <NewPost
             link='gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”'
@@ -68,7 +74,7 @@ const GamesSection = () => {
 
   </div>
   <div className='row justify-content-center col-md-3 c27 '>
- 
+
   </div>
 
 

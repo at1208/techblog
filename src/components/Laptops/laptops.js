@@ -7,6 +7,7 @@ import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
 
 import NewPost from '../Common/Post/post';
+import FAB from '../Common/FloatingButton/floatingButton'
 
 import SmartphoneBanner1 from '../Ads/SmartphoneBanner1'
 import Billiboard from '../Ads/Billiboard'
@@ -32,6 +33,12 @@ const Laptops = () => {
 
                    <div className='row justify-content-center col-md-7 c28 '>
 
+                   <div className='l1'>
+                         <FAB className='l1'/>
+                   </div>
+
+                   
+
                   <Slide bottom>
                     <NewPost
                     link='/laptops/7-ways-to-speed-up-your-laptops'
@@ -50,7 +57,7 @@ const Laptops = () => {
 
                   </div>
                   <div className='row justify-content-center col-md-3 c27  '>
-           
+
                   </div>
 
 
