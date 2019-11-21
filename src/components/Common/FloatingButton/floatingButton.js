@@ -19,7 +19,7 @@ class FAB extends Component {
      return <FloatingMenu
        slideSpeed={500}
        direction="up"
-       spacing={8}
+       spacing={6}
        isOpen={this.state.isOpen}
 
      >
