@@ -14,11 +14,11 @@ h1{
 .b3{
 
     background-color: white;
-
+    width: 190px;
     padding: 5px;
     margin-top: 15px;
     font-family: 'Raleway', sans-serif;
-    border-radius: 40px;
+    border-radius: 90px;
 
 }
 
@@ -261,6 +261,7 @@ h1{
 }
 .b8{
   font-size: 20px;
+ 
 
 }
 .b9{
@@ -283,5 +284,3 @@ h1{
   font-size: 20px;
 color: #03a9f4;
 }
-
- 

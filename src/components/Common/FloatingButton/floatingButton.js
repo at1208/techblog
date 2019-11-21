@@ -42,13 +42,13 @@ class FAB extends Component {
 
        <ChildButton
               className='l4'
-         icon={<Link to='/gaming-section' className='l3'><Icon type="robot" className='float-left b7'/></Link>}
+         icon={<Link to='/gaming-section' className='l3'><i className="fa fa-gamepad b7" aria-hidden="true" /></Link>}
          backgroundColor="white"
          size={50}
        />
        <ChildButton
               className='l4'
-         icon={<Link to='/headphone-earphones' className='l3'><Icon type="customer-service" className='float-left b8'/></Link>}
+         icon={<Link to='/headphone-earphones' className='l3'><i className="fa fa-headphones b8 float-left" aria-hidden="true"></i></Link>}
          backgroundColor="white"
          size={50}
        />

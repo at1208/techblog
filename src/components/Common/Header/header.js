@@ -47,11 +47,11 @@ else if(isDesktopOrLaptop){
                               </Link>
 
                               <Link to='/gaming-section' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="robot" className='float-left b7'/>Games</button>
+                              <button className=' btn btn-block   shadow a5'><i className="fa fa-gamepad b7 float-left" aria-hidden="true" />Games</button>
                               </Link>
 
                               <Link to='/headphone-earphones' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="customer-service" className='float-left b8'/>Headphones</button>
+                              <button className=' btn btn-block   shadow a5'><i className="fa fa-headphones b8 float-left" aria-hidden="true"></i>Headphones</button>
                               </Link>
 
                               <Link to='/laptops' className=''>

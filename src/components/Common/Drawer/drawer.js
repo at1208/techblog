@@ -43,11 +43,11 @@ class SideDrawer extends Component {
           </Link>
 
           <Link to='/gaming-section'>
-          <button className='  btn btn-block b3'><Icon type="robot" className='float-left b7'/>Gaming Section</button>
+          <button className='  btn btn-block b3'><i className="fa fa-gamepad b7 float-left" aria-hidden="true" />Games</button>
           </Link>
 
           <Link to='/headphone-earphones'>
-          <button className='  btn btn-block b3'><Icon type="customer-service" className='float-left b8'/>Headphones</button>
+          <button className='  btn btn-block b3'><i className="fa fa-headphones b8 float-left" aria-hidden="true"></i>Headphones</button>
           </Link>
 
           <Link to='/laptops'>
