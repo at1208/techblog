@@ -28,7 +28,7 @@ class FAB extends Component {
          iconResting={<Icon  type="deployment-unit" style={{ fontSize:25, color: "white"}} />}
          iconActive={<Icon  type="deployment-unit" style={{ fontSize: 25, color: "white" }}  />}
          onClick={() => this.setState({ isOpen: !this.state.isOpen })}
-         size={56}
+         size={65}
 
        />
 
@@ -36,7 +36,7 @@ class FAB extends Component {
         className='l4'
          icon={<Link to='/phones' className='l3'><Icon type="mobile" className='float-left b4'/> </Link>}
          backgroundColor="white"
-         size={40}
+         size={50}
          onClick={() => console.log('First button clicked')}
        />
 
@@ -44,25 +44,25 @@ class FAB extends Component {
               className='l4'
          icon={<Link to='/gaming-section' className='l3'><Icon type="robot" className='float-left b7'/></Link>}
          backgroundColor="white"
-         size={40}
+         size={50}
        />
        <ChildButton
               className='l4'
          icon={<Link to='/headphone-earphones' className='l3'><Icon type="customer-service" className='float-left b8'/></Link>}
          backgroundColor="white"
-         size={40}
+         size={50}
        />
        <ChildButton
               className='l4'
          icon={  <Link to='/laptops' className='l3'><Icon type="laptop" className='float-left b4'/></Link>}
          backgroundColor="white"
-         size={40}
+         size={50}
        />
        <ChildButton
               className='l4'
          icon={  <Link to='/leaks-rumors' className='l3'><Icon type="fire" className='float-left b10'/></Link>}
          backgroundColor="white"
-         size={40}
+         size={50}
        />
      </FloatingMenu>
 
