@@ -27,7 +27,7 @@ const GamesSection = () => {
   <div className='row justify-content-center text-center '>
 
   <div className=' col-md-2'>
-   <MediumRectangle />
+
   </div>
 
   <div className='row justify-content-center col-md-7 c28'>
@@ -68,7 +68,7 @@ const GamesSection = () => {
 
   </div>
   <div className='row justify-content-center col-md-3 c27 '>
-  <WideScraper />
+ 
   </div>
 
 

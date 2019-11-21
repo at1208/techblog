@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Common/Header/header';
 import { Link } from 'react-router-dom';
- 
+
 import Texty from 'rc-texty';
 import 'rc-texty/assets/index.css';
 import Slide from 'react-reveal/Slide';
@@ -26,7 +26,7 @@ const Laptops = () => {
                  <div className='container-fluid row justify-content-center'>
 
                  <div className=' col-md-2 '>
-                  <MediumRectangle />
+
                  </div>
 
 
@@ -50,7 +50,7 @@ const Laptops = () => {
 
                   </div>
                   <div className='row justify-content-center col-md-3 c27  '>
-                  <WideScraper />
+           
                   </div>
 
 
