@@ -40,14 +40,14 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
          <div className='col-md-12 row justify-content-center container-fluid'>
-      <LeaderBoard />
+
         </div>
 
 
 <div className='col-md-12 row justify-content-center'>
 
                   <div className='row justify-content-center col-md-2 c27'>
-                <MediumRectangle />
+
                   </div>
 
 
@@ -243,7 +243,7 @@ class Home extends Component{
 
                </div>
                <div className='row justify-content-center col-md-3 c27'>
-               <WideScraper />
+       
                </div>
   </div>
 
