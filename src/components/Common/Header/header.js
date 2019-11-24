@@ -24,7 +24,7 @@ if(isTabletOrMobile){
                       <Drawer/>
                        <div className='a2 '>
                            <Link to='/'>
-                      <h1 className='a3'>GeekBoy.<span className='a4'>tech</span></h1>
+                      <h1 className='a3'>GeekBoy<span className='a4'></span></h1>
                       </Link>
                        </div>
                 </div>
@@ -36,7 +36,7 @@ else if(isDesktopOrLaptop){
                      <div className='row'>
                        <div className='a2 container-fluid'>
                            <Link to='/'>
-                             <h1 className='a3'>GeekBoy.<span className='a4'>tech</span></h1>
+                             <h1 className='a3'>GeekBoy<span className='a4'></span></h1>
                            </Link>
 
 
