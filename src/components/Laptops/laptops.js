@@ -23,7 +23,7 @@ const Laptops = () => {
   return <div>
             <Header/>
             <div className='container-fluid'>
-            <h1 className='e4 text-center'><Texty>Laptops</Texty></h1>
+            <h1 className='e4 text-center'>Laptops</h1>
                  <div className='container-fluid row justify-content-center'>
 
                  <div className=' col-md-2 '>
@@ -37,7 +37,7 @@ const Laptops = () => {
                          <FAB className='l1'/>
                    </div>
 
-                   
+
 
                   <Slide bottom>
                     <NewPost

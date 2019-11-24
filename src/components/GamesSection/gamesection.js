@@ -23,7 +23,7 @@ const GamesSection = () => {
          <Header/>
 
   <div className='text-center container-fluid'>
-  <h1 className='e4'><Texty>Games Section</Texty></h1>
+  <h1 className='e4'>Games Section</h1>
   <div className='row justify-content-center text-center '>
 
   <div className=' col-md-2'>
@@ -36,7 +36,7 @@ const GamesSection = () => {
         <FAB className='l1'/>
   </div>
 
-  
+
           <Slide bottom>
             <NewPost
             link='gaming-section/Redgear-Pro-Wireless-Gaming-Gamepad-“Best-Gaming-Controller-For-PC”'

@@ -21,7 +21,7 @@ const HeadphoneEarphones = () => {
   return <div>
   <Header/>
   <div className='container-fluid text-center'>
-  <h1 className='e4'><Texty>Headphones & Earphones</Texty></h1>
+  <h1 className='e4'>Headphones & Earphones</h1>
   <div className='row justify-content-center text-center '>
 
   <div className=' col-md-2'>
@@ -34,7 +34,7 @@ const HeadphoneEarphones = () => {
         <FAB className='l1'/>
   </div>
 
-  
+
           <Slide bottom>
             <NewPost
             link='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear'

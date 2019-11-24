@@ -25,7 +25,7 @@ const LeakRumors = () => {
   return <div>
             <Header/>
             <div className='text-center container-fluid '>
-            <h1 className='e4'><Texty>Leaks & Rumors</Texty></h1>
+            <h1 className='e4'>Leaks & Rumors</h1>
                  <div className='row justify-content-center text-center'>
 
                  <div className=' col-md-2'>
@@ -39,7 +39,7 @@ const LeakRumors = () => {
         <FAB className='l1'/>
   </div>
 
-  
+
 
                 <Slide bottom>
                   <NewPost
