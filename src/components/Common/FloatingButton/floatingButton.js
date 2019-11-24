@@ -8,6 +8,8 @@ import MdAdd from '@material-ui/icons/Add';
 import MdClose from '@material-ui/icons/Clear';
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
+import { FaMobile, FaLaptop } from 'react-icons/fa';
+ import { DiCodeigniter } from "react-icons/di";
 
 class FAB extends Component {
 
@@ -34,7 +36,7 @@ class FAB extends Component {
 
         <ChildButton
         className='l4'
-         icon={<Link to='/phones' className='l3'><Icon type="mobile" className='float-left b4'/> </Link>}
+         icon={<Link to='/phones' className='l3'><FaMobile   className='  z2 z3'/> </Link>}
          backgroundColor="white"
          size={50}
          onClick={() => console.log('First button clicked')}
@@ -42,25 +44,25 @@ class FAB extends Component {
 
        <ChildButton
               className='l4'
-         icon={<Link to='/gaming-section' className='l3'><i className="fa fa-gamepad b7" aria-hidden="true" /></Link>}
+         icon={<Link to='/gaming-section' className='l3'><i className="fa fa-gamepad z2 z4" aria-hidden="true" /></Link>}
          backgroundColor="white"
          size={50}
        />
        <ChildButton
               className='l4'
-         icon={<Link to='/headphone-earphones' className='l3'><i className="fa fa-headphones b8 float-left" aria-hidden="true"></i></Link>}
+         icon={<Link to='/headphone-earphones' className='l3'><i className="fa fa-headphones z2 z5" aria-hidden="true"></i></Link>}
          backgroundColor="white"
          size={50}
        />
        <ChildButton
               className='l4'
-         icon={  <Link to='/laptops' className='l3'><Icon type="laptop" className='float-left b4'/></Link>}
+         icon={  <Link to='/laptops' className='l3'><FaLaptop   className='  z2 z6'/></Link>}
          backgroundColor="white"
          size={50}
        />
        <ChildButton
               className='l4'
-         icon={  <Link to='/leaks-rumors' className='l3'><Icon type="fire" className='float-left b10'/></Link>}
+         icon={  <Link to='/leaks-rumors' className='l3'><DiCodeigniter   className='  z2 z7'/></Link>}
          backgroundColor="white"
          size={50}
        />

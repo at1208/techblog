@@ -2,7 +2,8 @@
    margin: 10px;
    font-weight: bold;
    font-size:30px;
-   
+
+
 }
 .b2{
 
@@ -14,12 +15,19 @@ h1{
 }
 .b3{
 
-    background-color: white;
-    width: 190px;
-    padding: 5px;
+ 
+
     margin-top: 15px;
     font-family: 'Raleway', sans-serif;
-    border-radius: 90px;
+
+
+}
+
+.btn{
+  text-align: none;
+  border-radius: 0px;
+  margin-left: 20px;
+     border-radius: 3px;
 
 }
 
@@ -147,18 +155,17 @@ h1{
           animation: antdDrawerFadeIn 0.3s cubic-bezier(0.7, 0.3, 0.1, 1);
 }
 .ant-drawer-title {
-  text-align: center;
+
   margin: 0;
   color: white;
   font-weight: lighter;
-  font-size: 30px;
-  line-height: 22px;
+  font-size: 25px;
+  line-height: 25px;
   font-family: 'Raleway', sans-serif;
 }
 .ant-drawer-content {
   position: relative;
   z-index: 1;
-  background-color: #212121;
   background-clip: padding-box;
   border: 0;
 }
@@ -196,7 +203,10 @@ h1{
   position: relative;
   padding: 22px 24px;
   color: rgba(0, 0, 0, 0.65);
-  background-color: #212121;
+  background: #8E2DE2;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   border-bottom: 1px solid #e8e8e8;
   border-radius: 0px 0px 0 0;
 }
@@ -205,9 +215,9 @@ h1{
   background: #fff;
 }
 .ant-drawer-body {
-  padding: 24px;
+
+  padding: 22px;
   font-size: 14px;
-  line-height: 1.5;
   word-wrap: break-word;
 }
 .ant-drawer-mask {
@@ -243,38 +253,43 @@ h1{
   }
 }
 .b4{
-  font-size: 20px;
-
+  font-size: 25px;
+  margin-right: 10px;
+  color: #4db6ac;
 }
 .b5{
   font-size: 20px;
  color: #ff6f00;
+
 }
 .b6{
   font-size: 20px;
   color: #311b92;
 }
 .b7{
-  font-size: 20px;
-
+  font-size: 25px;
+    margin-right: 10px;
+color: #c2185b;
   border-radius: 2px;
 
 }
 .b8{
-  font-size: 20px;
+  color: #01579b;
+  font-size: 25px;
+    margin-right: 10px;
 
 
 }
 .b9{
-  font-size: 20px;
-  color: #000000;
+  font-size: 25px;
+  color: grey;
+    margin-right: 10px;
 }
 .b10{
-  font-size: 20px;
-
-
+  font-size: 25px;
   border-radius: 20px;
-
+    margin-right: 10px;
+    color:#ffc107;
 
 }
 .b11{

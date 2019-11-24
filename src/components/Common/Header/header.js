@@ -4,7 +4,8 @@ import Drawer from '../Drawer/drawer';
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from 'react-responsive';
 import { Icon } from 'antd';
-
+import { FaMobile, FaLaptop } from 'react-icons/fa';
+ import { DiCodeigniter } from "react-icons/di";
 
 
 
@@ -43,23 +44,23 @@ else if(isDesktopOrLaptop){
                       <div className='row justify-content-center container-fluid'>
 
                               <Link to='/phones' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="mobile" className='float-left b4'/>Mobiles</button>
+                              <button className=' btn   a5'><FaMobile   className='  b4'/>Mobiles</button>
                               </Link>
 
                               <Link to='/gaming-section' className=''>
-                              <button className=' btn btn-block   shadow a5'><i className="fa fa-gamepad b7 float-left" aria-hidden="true" />Games</button>
+                              <button className=' btn   a5'><i className="fa fa-gamepad b7  " aria-hidden="true" />Games</button>
                               </Link>
 
                               <Link to='/headphone-earphones' className=''>
-                              <button className=' btn btn-block   shadow a5'><i className="fa fa-headphones b8 float-left" aria-hidden="true"></i>Headphones</button>
+                              <button className=' btn       a5'><i className="fa fa-headphones b8  " aria-hidden="true"></i>Headphones</button>
                               </Link>
 
                               <Link to='/laptops' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="laptop" className='float-left b9'/>Laptops</button>
+                              <button className=' btn      a5'><FaLaptop   className='  b9'/>Laptops</button>
                               </Link>
 
                               <Link to='/leaks-rumors' className=''>
-                              <button className=' btn btn-block   shadow a5'><Icon type="fire" className='float-left b10'/>Leaks & Rumors</button>
+                              <button className=' btn      a5'><DiCodeigniter   className='  b10'/>Leaks & Rumors</button>
                               </Link>
 
 
