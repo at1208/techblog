@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "@material-ui/icons": "^4.5.1",
+    "@tedconf/react-show-more": "^1.1.2",
     "antd": "^3.25.0",
     "mo-js": "^0.288.2",
     "rc-scroll-anim": "^2.6.2",

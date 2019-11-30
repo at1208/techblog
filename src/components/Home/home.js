@@ -3,7 +3,7 @@ import './home.css'
 import { Icon } from 'antd';
 import { Link } from 'react-router-dom';
 import Slide from 'react-reveal/Slide';
-
+import ShowMore from '@tedconf/react-show-more';
 
 import Header from '../Common/Header/header';
 import NewPost from '../Common/Post/post';
@@ -40,7 +40,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
          <div className='col-md-12 row justify-content-center container-fluid '>
-        <LeaderBoard />
+ 
         </div>
 
 
