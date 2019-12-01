@@ -60,12 +60,17 @@ height: 100%;
   margin: 10px;
 }
 .e2{
-  font-weight: bold;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 800;
   color: black;
+    font-size: 22px;
 
 }
 .e3{
-  font-family: 'Raleway', sans-serif;
+      font-family: 'Nunito Sans', sans-serif;
+       font-size: 18px;
+       font-weight: 400;
+      color: black;
 
 }
 .e4{
@@ -73,10 +78,10 @@ height: 100%;
   font-size: 35px;
 }
 .e5{
-    font-family: 'Raleway', sans-serif;
-    font-size: 23px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
 }
-
 
 
 .card{
@@ -246,6 +251,7 @@ h6{
 .c20{
   color: red;
   font-weight: bold;
+    font-family: 'Nunito Sans', sans-serif;
 }
 .c21{
   margin-top: 20px;
