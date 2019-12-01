@@ -6,13 +6,14 @@ const Post = (prop) => {
   return <div>
      <Link to={prop.link}>
            <div className='c2 shadow card text-center container-fluid '>
+            <img src={prop.imgsrc} className='card c16'/>
                <h6 className='c17'>{prop.title}</h6>
-               <img src={prop.imgsrc} className='card c16'/>
+
                    <span className='c20 e3'>
                    {prop.section}
                    <br />
                    <Link to={prop.link}>
-                   <b className='e3'>Know More</b>
+                   <button className='c33'>READ</button>
                    </Link>
                    </span>
            </div>
