@@ -229,8 +229,8 @@ height: 100%;
  text-align: center;
  height: 40px;
  font-family: 'Nunito Sans', sans-serif;
- font-weight: bold;
- font-weight: lighter;
+ font-weight: 800;
+ 
  padding: 10px;
  padding-left: 30px;
  padding-right: 30px;
@@ -375,4 +375,5 @@ color: lightgrey;
   border-color: blue;
   border-width: thin;
   font-family: 'Nunito Sans', sans-serif;
+  font-weight: 800;
 }
