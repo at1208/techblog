@@ -40,7 +40,7 @@ class Home extends Component{
                   <div className='row justify-content-center'>
 
          <div className='col-md-12 row justify-content-center container-fluid '>
- 
+
         </div>
 
 
@@ -86,7 +86,7 @@ class Home extends Component{
                        <Slide bottom>
                           <NewPost
                           link='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES'
-                          title='TOP 5 GAMING HEADPHONES'
+                          title='Top 5 Gaming Headphones'
                           imgsrc='../../img/blog20two.png'
                           section='Headphones' />
                       </Slide>
@@ -135,7 +135,7 @@ class Home extends Component{
                        <Slide bottom>
                           <NewPost
                           link='/gaming-section/GTA-6-LAUNCH-DATE'
-                          title='GTA 6 LAUNCH DATE'
+                          title='GTA 6 launch date'
                           imgsrc='../../img/blog14.png'
                           section='Gaming Section' />
                         </Slide>

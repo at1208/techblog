@@ -10,7 +10,7 @@ const Post = (prop) => {
                <h6 className='c17'>{prop.title}</h6>
 
                    <span className='c20 e3'>
-                   {prop.section}
+                 
                    <br />
                    <Link to={prop.link}>
                    <button className='c33'>READ</button>

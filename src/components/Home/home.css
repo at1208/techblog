@@ -18,7 +18,7 @@ height: 300px;
 .c2{
   background-color: white;
   height: 340px;
-  width: 300px;
+  width: 280px;
   margin: 10px;
   border-radius: 16px;
 
@@ -226,8 +226,10 @@ height: 100%;
  font-family: 'Nunito Sans', sans-serif;
  font-weight: bold;
  font-weight: lighter;
- padding: 2px;
- margin-bottom: 20px;
+ padding: 10px;
+ padding-left: 30px;
+ padding-right: 30px;
+ margin-bottom: 10px;
 }
 h6{
   margin: 0px 0px 0px 0px;
