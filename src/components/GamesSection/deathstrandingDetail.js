@@ -84,8 +84,7 @@ And it's the only incident he was seen laugh.
 
         <div className='col-md-3'>
         <div className='c30'>
-        <b>ADVERTISEMENT</b>
-       <WideScraper />
+   
         </div>
         </div>
 
