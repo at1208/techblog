@@ -117,8 +117,8 @@ const LeakRumors = () => {
 
                   </div>
                   <div className='row justify-content-center col-md-3 c27'>
+
  
-          <WideScraper />
                   </div>
 
                  </div>
