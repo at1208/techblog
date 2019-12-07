@@ -28,12 +28,12 @@ const LeakRumors = () => {
             <h1 className='e4'>Leaks & Rumors</h1>
                  <div className='row justify-content-center text-center'>
 
-                 <div className=' col-md-2'>
+                 <div className=' col-md-1'>
 
                  </div>
 
 
-  <div className='row justify-content-center col-md-7 c28 '>
+  <div className='row justify-content-center col-md-8 c28 '>
 
   <div className='l1'>
         <FAB className='l1'/>
@@ -118,7 +118,7 @@ const LeakRumors = () => {
                   </div>
                   <div className='row justify-content-center col-md-3 c27'>
 
- 
+
                   </div>
 
                  </div>

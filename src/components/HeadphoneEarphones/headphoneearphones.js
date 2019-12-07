@@ -24,11 +24,11 @@ const HeadphoneEarphones = () => {
   <h1 className='e4'>Headphones & Earphones</h1>
   <div className='row justify-content-center text-center '>
 
-  <div className=' col-md-2'>
+  <div className=' col-md-1'>
 
   </div>
 
-  <div className='row justify-content-center col-md-7 c28'>
+  <div className='row justify-content-center col-md-8 c28'>
 
   <div className='l1'>
         <FAB className='l1'/>
@@ -55,7 +55,7 @@ const HeadphoneEarphones = () => {
   </div>
   <div className='row justify-content-center col-md-3 c27 '>
 
- 
+
   </div>
 
   </div>

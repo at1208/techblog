@@ -46,13 +46,13 @@ class Home extends Component{
 
 <div className='col-md-12 row justify-content-center'>
 
-                  <div className='row justify-content-center col-md-2 c27'>
+                  <div className='row justify-content-center col-md-1 c27'>
 
                   </div>
 
 
 
-                      <div className='row justify-content-center col-md-7 c28'>
+                      <div className='row justify-content-center col-md-8 c28'>
 
 
                       <div className='l1'>
@@ -243,7 +243,7 @@ class Home extends Component{
 
                </div>
                <div className='row justify-content-center col-md-3 c27'>
- 
+
              <WideScraper />
                </div>
   </div>
