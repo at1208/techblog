@@ -60,7 +60,7 @@ class SideDrawer extends Component {
           <button className='  btn     b3'><DiCodeigniter   className='  b10'/>Leaks & Rumors</button>
           </Link>
 
-
+ 
           </>
 
         </Drawer>
