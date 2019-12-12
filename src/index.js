@@ -9,6 +9,8 @@ import HeadphoneEarphones from './components/HeadphoneEarphones/headphoneearphon
 import LeakRumors from './components/LeaksRumors/leaksrumors'
 import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
+import AboutUs from './components/AboutUs/aboutus'
+import ContactUs from './components/ContactUs/contactus.js'
 
 
 
@@ -54,7 +56,9 @@ ReactDOM.render(
    <Route path='/headphone-earphones' exact component={HeadphoneEarphones} />
    <Route path='/laptops' exact component={Laptops} />
    <Route path='/leaks-rumors' exact component={LeakRumors} />
-   <Route path='/trendingnews' exact component={Laptops} />
+   <Route path='/about-us' exact component={AboutUs} />
+   <Route path='/contact-us' exact component={ContactUs} />
+
    <Route path='/phones/realme-x2-pro' exact component={Realmex2pro} />
    <Route path='/laptops/top-5-gaming-laptops-under-rs60000' exact component={Top5Under60000} />
    <Route path='/gaming-section/overwatch-2' exact component={Overwatch2} />

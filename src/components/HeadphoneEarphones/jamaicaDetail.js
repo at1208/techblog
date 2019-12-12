@@ -41,7 +41,7 @@ const Top5GamingHeadphone = () => {
 </h5>
 
   <div className='container-fluid row d1'>
-   <img src=' ' alt=''  className='c22'/>
+   <img src='../../img/amansharma.jpg' alt=''  className='c22'/>
    <span className='c24 c23'>Aman Sharma <br /> <span  className='c25'>Tue, 19 Nov 2019</span>
    </span>
   </div>

@@ -250,17 +250,13 @@ class Home extends Component{
            </div>
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
-        <h1 className='c13'>Connect with us</h1>
-      <a href='https://www.instagram.com/geekboy.tech/'>
-        <Icon type="instagram" className='c9' />
-      </a>
-      <a href='https://www.facebook.com/GeekBoytech-102592467865382/?modal=admin_todo_tour'>
-        <Icon type="facebook" className='c11'/>
-      </a>
+        <Link to='/about-us'>
+         <button className='btn c35'>About Us</button>
+        </Link>
 
-      <a href='https://twitter.com/GeekboyT'>
-        <Icon type="twitter" className='c12'/>
-      </a>
+            <Link to='/contact-us'>
+         <button className='btn c35'>Contact Us</button>
+        </Link>
 
 
         </footer>

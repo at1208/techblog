@@ -39,7 +39,7 @@ height: 100%;
 .c4{
 
 }
- 
+
 .c5{
   background-color: white;
   height: 500px;
@@ -386,6 +386,26 @@ color: lightgrey;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
 }
-a{
+.c34{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin: 15px;
+  /* border: 1px solid #18ffff; */
+}
+.c35{
+  color: white;
+  margin-bottom: 10px;
+  font-family: 'Nunito Sans', sans-serif;
 
+}
+.c35:hover{
+  color: white;
+}
+.c36{
+  margin: 15px;
+}
+.C37{
+    font-family: 'Nunito Sans', sans-serif;
+  color: #9e9e9e;
 }
