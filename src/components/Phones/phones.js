@@ -26,13 +26,13 @@ const Phones = () => {
          <div className='row justify-content-center text-center'>
 
 
-         <div className=' col-md-1'>
+         <div className=' col-md-3'>
 
          </div>
 
 
 
-  <div className='row justify-content-center col-md-8 c28'>
+  <div className='row justify-content-center col-md-6 c28'>
 
   <div className='l1'>
         <FAB className='l1'/>

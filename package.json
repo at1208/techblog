@@ -24,7 +24,8 @@
     "react-scripts": "3.2.0",
     "react-share": "^3.0.1",
     "react-show-more": "^2.0.0",
-    "react-simple-infinite-scroll": "0.0.1"
+    "react-simple-infinite-scroll": "0.0.1",
+    "react-transition-group": "^4.3.0"
   },
   "scripts": {
     "start": "react-scripts start",

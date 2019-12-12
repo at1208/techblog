@@ -21,11 +21,11 @@ const Header = () => {
 
 if(isTabletOrMobile){
   return <div className='container-fluid a1 '>
-                     <div className='row'>
+                     <div className='row '>
                       <Drawer/>
                        <div className='a2 '>
                            <Link to='/'>
-                      <h1 className='a3'>GeekBoy<span className='a4'></span></h1>
+                      <h1 className='a3'>Geek<span className='a4'>Boy</span></h1>
                       </Link>
                        </div>
                 </div>
@@ -37,7 +37,7 @@ else if(isDesktopOrLaptop){
                      <div className='row'>
                        <div className='a2 container-fluid'>
                            <Link to='/'>
-                             <h1 className='a3'>GeekBoy<span className='a4'></span></h1>
+                             <h1 className='a3'>Geek<span className='a4'>Boy</span></h1>
                            </Link>
 
 

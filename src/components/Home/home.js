@@ -3,7 +3,7 @@ import './home.css'
 import { Icon } from 'antd';
 import { Link } from 'react-router-dom';
 import Slide from 'react-reveal/Slide';
- 
+
 import Header from '../Common/Header/header';
 import NewPost from '../Common/Post/post';
 import FAB from '../Common/FloatingButton/floatingButton'

@@ -1,8 +1,9 @@
 .c1{
-height: 300px;
+
 
 
 }
+
 
 .ant-carousel .slick-slide {
   text-align: center;
@@ -19,9 +20,14 @@ height: 300px;
   background-color: white;
   height: 320px;
   width: 250px;
-  margin: 15px;
+  margin: 10px;
   border-radius: 16px;
 
+}
+
+.c2:hover{
+  color: white !important;
+background-color: #ede7f6
 }
 .c3{
 margin-top: 5px;
@@ -31,8 +37,7 @@ height: 100%;
 }
 
 .c4{
-
-
+   background-color: #fafafa;
 }
 .c5{
   background-color: white;
@@ -235,6 +240,7 @@ height: 100%;
  padding-right: 30px;
  margin-bottom: 10px;
 }
+
 h6{
   margin: 0px 0px 0px 0px;
 }
@@ -257,6 +263,7 @@ h6{
   width: 700px;
 
 }
+
 
 @media (max-width: 575.98px) {
   .c21{
@@ -293,9 +300,11 @@ font-family: 'Raleway', sans-serif;
 }
 .c27{
 }
-.c28{margin-top: 20px;
+.c28{
+  margin-top: 20px;
 
 }
+
 .c29{
   height: 300px;
   width: 300px;
@@ -326,9 +335,9 @@ font-family: 'Raleway', sans-serif;
 
 }
 .l2{
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #41295a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   color: white;
 }
@@ -336,9 +345,9 @@ font-family: 'Raleway', sans-serif;
   color: white;
 }
 .l4{
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #41295a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   color: white;
 }

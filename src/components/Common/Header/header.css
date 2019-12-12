@@ -1,10 +1,9 @@
 .a1{
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-    color: #f7f7f7;
-
+   color: #f7f7f7;
+  /* background-color: #fafafa; */
+  background: #41295a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .a2{
@@ -17,12 +16,12 @@
     margin-left: 20px;
     margin-bottom: 5px;
     font-size: 40px;
-    color: white;
+    color:white ;
 
     font-family: 'ZCOOL XiaoWei', serif;
 }
 .a4{
-  color: red;
+  color:#ff3d00;
   font-size: 25px;
 }
 .a5{
