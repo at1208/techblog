@@ -24,18 +24,18 @@ const DeathStrandingDetail = () => {
 
   <div className='row justify-content-center'>
   <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
  </div>
 <div className='col-md-12 row justify-content-center'>
 <div className='row justify-content-center col-md-2 c27'>
- 
+
 </div>
 
 
   <div className='row justify-content-center col-md-7'>
 
-  <div className='container c21'>
-  <h5 className='e5'>GTA 6 LAUNCH DATE</h5>
+  <div className='container c21 '>
+  <h5 className='e5 text-center'>GTA 6 LAUNCH DATE</h5>
 
   <div className='container-fluid row d1'>
    <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
@@ -80,7 +80,7 @@ Last of us 2 Uncharted
 
   <div className='col-md-3'>
   <div className='c30'>
- 
+
   </div>
   </div>
 

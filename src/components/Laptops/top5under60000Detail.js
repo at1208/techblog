@@ -33,7 +33,7 @@ const Top5Under60000  = () => {
 
 
             <div className='container c21'>
-            <h5 className='e5'>Top 5 Gaming Laptops Under 60000</h5>
+            <h5 className='e5 text-center'>Top 5 Gaming Laptops Under 60000</h5>
 
             <div className='container-fluid row d1'>
              <img src='../../../img/amit.jpg' alt=''  className='c22'/>
@@ -125,7 +125,7 @@ const Top5Under60000  = () => {
 
     <div className='col-md-3'>
     <div className='c30'>
- 
+
     </div>
     </div>
 

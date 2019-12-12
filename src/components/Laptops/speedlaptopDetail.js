@@ -36,7 +36,7 @@ const SpeedLaptopDetail  = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>7 WAYS TO SPEED UP YOUR LAPTOP</h5>
+  <h5 className='e5 text-center'>7 WAYS TO SPEED UP YOUR LAPTOP</h5>
 
   <div className='container-fluid row d1'>
    <img src='../../../img/amit.jpg' alt=''  className='c22'/>
@@ -98,7 +98,7 @@ Now you can set the size manually and done.
 
 <div className='col-md-3'>
 <div className='c30'>
- 
+
 </div>
 </div>
 

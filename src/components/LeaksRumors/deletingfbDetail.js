@@ -22,13 +22,13 @@ const DeletingfbDetail = () => {
   <div className='row justify-content-center'>
 
   <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
  </div>
 
 
 <div className='col-md-12 row justify-content-center'>
 <div className='row justify-content-center col-md-2 c27'>
- 
+
 </div>
 
 
@@ -36,7 +36,7 @@ const DeletingfbDetail = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>Brian Acton still behind the idea of deleting Facebook</h5>
+  <h5 className='e5 text-center'>Brian Acton still behind the idea of deleting Facebook</h5>
 
   <div className='container-fluid row d1'>
    <img src='' alt=''  className='c22'/>
@@ -77,7 +77,7 @@ Acton is not really the primary Facebook official to take a stand in opposition 
 
        <div className='col-md-3'>
        <div className='c30'>
- 
+
        </div>
        </div>
 

@@ -19,13 +19,13 @@ const MINOTE10Detail = () => {
        <div className='row justify-content-center'>
 
        <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
        </div>
 
 
        <div className='col-md-12 row justify-content-center'>
        <div className='row justify-content-center col-md-2 c27'>
- 
+
        </div>
 
 
@@ -34,7 +34,7 @@ const MINOTE10Detail = () => {
 
 
        <div className='container c21'>
-              <h5 className='e5'>MI Note 10 “ Dream Big “</h5>
+              <h5 className='e5 text-center'>MI Note 10 "Dream Big"</h5>
 
               <div className='container-fluid row d1'>
                <img src='../../../img/dikshant.jpg' alt=''  className='c22'/>
@@ -55,7 +55,7 @@ const MINOTE10Detail = () => {
 
                 <div className='col-md-3'>
                 <div className='c30'>
- 
+
                 </div>
                 </div>
    </div>

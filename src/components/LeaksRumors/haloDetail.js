@@ -22,13 +22,13 @@ const DeathStrandingDetail = () => {
   <div className='row justify-content-center'>
 
   <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
  </div>
 
 
 <div className='col-md-12 row justify-content-center'>
 <div className='row justify-content-center col-md-2 c27'>
- 
+
 </div>
 
 
@@ -37,7 +37,7 @@ const DeathStrandingDetail = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>‘Halo’ TV Series goes into production</h5>
+  <h5 className='e5 text-center'>‘Halo’ TV Series goes into production</h5>
 
   <div className='container-fluid row d1'>
    <img src='' alt=''  className='c22'/>
@@ -75,7 +75,7 @@ const DeathStrandingDetail = () => {
 
             <div className='col-md-3'>
             <div className='c30'>
- 
+
             </div>
             </div>
 

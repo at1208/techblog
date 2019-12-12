@@ -35,7 +35,7 @@ const Overwatch2Detail = () => {
 
 
          <div className='container c21'>
-         <h5 className='e5'>OVERWATCH2</h5>
+         <h5 className='e5 text-center'>OVERWATCH2</h5>
 
          <div className='container-fluid row d1'>
           <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
@@ -76,7 +76,7 @@ Overwatch recently came to Nintendo Switch.
 
   <div className='col-md-2'>
   <div className='c30'>
- 
+
   </div>
   </div>
  </div>

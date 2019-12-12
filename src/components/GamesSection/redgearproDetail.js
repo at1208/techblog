@@ -37,7 +37,7 @@ const RedgearPro = () => {
 
 
        <div className='container c21'>
-              <h5 className='e5'>Redgear Pro Wireless Gaming Gamepad “Best Gaming Controller For PC”</h5>
+              <h5 className='e5 text-center'>Redgear Pro Wireless Gaming Gamepad “Best Gaming Controller For PC”</h5>
 
               <div className='container-fluid row d1'>
                <img src='../../../img/dikshant.jpg' alt=''  className='c22'/>
@@ -95,7 +95,7 @@ const RedgearPro = () => {
 
          <div className='col-md-3'>
          <div className='c30'>
- 
+
          </div>
          </div>
 

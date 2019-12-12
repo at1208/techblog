@@ -22,13 +22,13 @@ const PubgmobileDetail = () => {
   <div className='row justify-content-center'>
 
   <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
  </div>
 
 
 <div className='col-md-12 row justify-content-center'>
 <div className='row justify-content-center col-md-2 c27'>
- 
+
 </div>
 
 
@@ -37,7 +37,7 @@ const PubgmobileDetail = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h5>
+  <h5 className='e5 text-center'>PUBG Mobile 0.16.0 Update could bring Erangle 2.0</h5>
 
 
   <div className='container-fluid row d1'>
@@ -64,7 +64,7 @@ const PubgmobileDetail = () => {
 
      <div className='col-md-3'>
      <div className='c30'>
- 
+
      </div>
      </div>
 

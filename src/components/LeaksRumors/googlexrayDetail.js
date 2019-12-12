@@ -22,13 +22,13 @@ const GoogleXray = () => {
   <div className='row justify-content-center'>
 
   <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
  </div>
 
 
 <div className='col-md-12 row justify-content-center'>
 <div className='row justify-content-center col-md-2 c27'>
- 
+
 </div>
 
 
@@ -37,7 +37,7 @@ const GoogleXray = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>Google abandons 100,000 chest X-rays’ release
+  <h5 className='e5 text-center'>Google abandons 100,000 chest X-rays’ release
 </h5>
 
   <div className='container-fluid row d1'>
@@ -70,7 +70,7 @@ const GoogleXray = () => {
 
             <div className='col-md-3'>
             <div className='c30'>
- 
+
             </div>
             </div>
 

@@ -37,7 +37,7 @@ const Top5GamingHeadphone = () => {
 
 
   <div className='container c21'>
-  <h5 className='e5'>House Of Marley Smile Jamaica EM-JE041-SB in-ear
+  <h5 className='e5 text-center'>House Of Marley Smile Jamaica EM-JE041-SB in-ear
 </h5>
 
   <div className='container-fluid row d1'>

@@ -19,13 +19,13 @@ const MIUI11Detail = () => {
        <div className='row justify-content-center'>
 
        <div className='col-md-12 row justify-content-center container-fluid'>
- 
+
        </div>
 
 
        <div className='col-md-12 row justify-content-center'>
        <div className='row justify-content-center col-md-2 c27'>
- 
+
        </div>
 
 
@@ -33,7 +33,7 @@ const MIUI11Detail = () => {
 
 
        <div className='container c21'>
-              <h5 className='e5'>MIUI 11 “Life Gets Easier” Features And Rollout Dates </h5>
+              <h5 className='e5 text-center'>MIUI 11 “Life Gets Easier” Features And Rollout Dates </h5>
 
               <div className='container-fluid row d1'>
                <img src='../../../img/dikshant.jpg' alt=''  className='c22'/>
@@ -73,7 +73,7 @@ const MIUI11Detail = () => {
 
                 <div className='col-md-3'>
                 <div className='c30'>
-         
+
                 </div>
                 </div>
 

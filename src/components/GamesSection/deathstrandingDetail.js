@@ -35,7 +35,7 @@ const DeathStrandingDetail = () => {
   <div className='row justify-content-center col-md-7'>
 
   <div className='container c21'>
-  <h5 className='e5'>Death Stranding</h5>
+  <h5 className='e5 text-center'>Death Stranding</h5>
 
   <div className='container-fluid row d1'>
    <img src='../../../img/Abhishek.jpg' alt=''  className='c22'/>
@@ -84,7 +84,7 @@ And it's the only incident he was seen laugh.
 
         <div className='col-md-3'>
         <div className='c30'>
-   
+
         </div>
         </div>
 

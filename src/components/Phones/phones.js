@@ -51,7 +51,7 @@ const Phones = () => {
           <Slide bottom>
           <NewPost
           link='/Phones/MI-Note-10-Dream-Big'
-          title='MI Note 10 “ Dream Big “'
+          title=' MI Note 10  " Dream Big "'
           imgsrc='../../img/blog19.png'
           section='Mobiles' />
           </Slide>
