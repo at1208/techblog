@@ -11,6 +11,7 @@ import Laptops from './components/Laptops/laptops'
 import GamesSection from './components/GamesSection/gamesection'
 import AboutUs from './components/AboutUs/aboutus'
 import ContactUs from './components/ContactUs/contactus.js'
+import PrivacyPolicy from './components/PrivacyPolicy/privacypolicy.js'
 
 
 
@@ -58,6 +59,8 @@ ReactDOM.render(
    <Route path='/leaks-rumors' exact component={LeakRumors} />
    <Route path='/about-us' exact component={AboutUs} />
    <Route path='/contact-us' exact component={ContactUs} />
+   <Route path='/privacy-policy' exact component={PrivacyPolicy} />
+
 
    <Route path='/phones/realme-x2-pro' exact component={Realmex2pro} />
    <Route path='/laptops/top-5-gaming-laptops-under-rs60000' exact component={Top5Under60000} />

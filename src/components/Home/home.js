@@ -254,9 +254,13 @@ class Home extends Component{
          <button className='btn c35'>About Us</button>
         </Link>
 
-            <Link to='/contact-us'>
+         <Link to='/contact-us'>
          <button className='btn c35'>Contact Us</button>
         </Link>
+
+        <Link to='/privacy-policy'>
+        <button className='btn c35'>Privacy Policy</button>
+       </Link>
 
 
         </footer>
