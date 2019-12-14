@@ -82,9 +82,7 @@ class Home extends Component{
                           imgsrc='../../img/blog21.jpg'
                           section='Mobiles' />
                         </Slide>
-                  <Slide bottom>
-                  <MediumRectangle />
-                  </Slide>
+
                        <Slide bottom>
                           <NewPost
                           link='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES'
@@ -93,6 +91,9 @@ class Home extends Component{
                           section='Headphones' />
                       </Slide>
 
+                      <Slide bottom>
+                      <MediumRectangle />
+                      </Slide>
 
                        <Slide bottom>
                           <NewPost
@@ -251,6 +252,7 @@ class Home extends Component{
   </div>
 
            </div>
+           <LeaderBoard />
         </div>
         <footer className='shadow c6 c10 text-center container-fluid'>
         <Link to='/about-us'>
