@@ -26,13 +26,13 @@ const DeathStrandingDetail = () => {
   <div className='col-md-12 row justify-content-center container-fluid'>
 
  </div>
-<div className='col-md-12 row justify-content-center'>
+<div className='col-md-12 row justify-content-center c39'>
 <div className='row justify-content-center col-md-2 c27'>
 
 </div>
 
 
-  <div className='row justify-content-center col-md-7'>
+  <div className='row justify-content-center col-md-7 c38'>
 
   <div className='container c21 '>
   <h5 className='e5 text-center'>GTA 6 LAUNCH DATE</h5>

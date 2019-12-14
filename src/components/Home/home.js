@@ -32,8 +32,9 @@ class Home extends Component{
            <Header />
 
            <div className= 'c1'>
+            <div className='container-fluid c38'>
 
-
+            </div>
 
         <div className='container-fluid c4 text-center'>
                   <div className='row justify-content-center'>
@@ -81,7 +82,9 @@ class Home extends Component{
                           imgsrc='../../img/blog21.jpg'
                           section='Mobiles' />
                         </Slide>
-
+                  <Slide bottom>
+                  <MediumRectangle />
+                  </Slide>
                        <Slide bottom>
                           <NewPost
                           link='/HeadphoneEarphones/TOP-5-GAMING-HEADPHONES'
