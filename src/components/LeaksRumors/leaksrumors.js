@@ -39,12 +39,19 @@ const LeakRumors = () => {
         <FAB className='l1'/>
   </div>
 
+                <Slide bottom>
+                  <NewPost
+                  link='/Google-abandons-100000-chest-X-rays-release'
+                  title='Twitter Bans APNG Files'
+                  imgsrc='../../img/blog24.jpg'
+                  section='Leaks & Rumors' />
+                </Slide>
 
 
                 <Slide bottom>
                   <NewPost
-                  link='/Google-abandons-100000-chest-X-rays-release'
-                  title='Google abandons 100,000 chest X-rays’ release'
+                  link='/Twitter-Bans-APNG-Files'
+                  title='/Twitter Bans APNG Files'
                   imgsrc='../../img/blog23.jpg'
                   section='Leaks & Rumors' />
                 </Slide>

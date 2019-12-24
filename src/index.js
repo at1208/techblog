@@ -38,7 +38,8 @@ import MINOTE10 from './components/Phones/minote10Detail'
 import Top5GamingHeadphone from './components/HeadphoneEarphones/top5gamingheadphoneDetail';
 import Realme5Detail from './components/Phones/realme5Detail';
 import GoogleXray from './components/LeaksRumors/googlexrayDetail';
-import Jamaica from './components/HeadphoneEarphones/jamaicaDetail'
+import Jamaica from './components/HeadphoneEarphones/jamaicaDetail';
+import TwitterBan from './components/LeaksRumors/twitterBanDetail'
 
 
 
@@ -84,6 +85,7 @@ ReactDOM.render(
    <Route path='/Phones/REALME-5S-is-launching-on-November-20-2019-along-with-X2-pro' exact component={Realme5Detail} />
    <Route path='/Google-abandons-100000-chest-X-rays-release' exact component={GoogleXray} />
    <Route path='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear' exact component={Jamaica} />
+   <Route path='/Twitter-Bans-APNG-Files' exact component={TwitterBan} />
 
 
 
