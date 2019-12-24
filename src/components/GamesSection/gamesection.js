@@ -36,6 +36,13 @@ const GamesSection = () => {
         <FAB className='l1'/>
   </div>
 
+          <Slide bottom>
+            <NewPost
+            link='/PUBG-To-Test-New-Motor-Glider-This-Weekend'
+            title='PUBG To Test New Motor Glider This Weekend '
+            imgsrc='../../img/blog25.jpg'
+            section='Games Section' />
+          </Slide>
 
           <Slide bottom>
             <NewPost

@@ -67,6 +67,17 @@ class Home extends Component{
                         section='Leaks & Rumors' />
                       </Slide>
 
+
+                      <Slide bottom>
+                        <NewPost
+                        link='/PUBG-To-Test-New-Motor-Glider-This-Weekend'
+                        title='PUBG To Test New Motor Glider This Weekend '
+                        imgsrc='../../img/blog25.jpg'
+                        section='Games' />
+                      </Slide>
+
+
+
                       <Slide bottom>
                         <NewPost
                         link='/Google-abandons-100000-chest-X-rays-release'

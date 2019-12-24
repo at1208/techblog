@@ -39,7 +39,8 @@ import Top5GamingHeadphone from './components/HeadphoneEarphones/top5gamingheadp
 import Realme5Detail from './components/Phones/realme5Detail';
 import GoogleXray from './components/LeaksRumors/googlexrayDetail';
 import Jamaica from './components/HeadphoneEarphones/jamaicaDetail';
-import TwitterBan from './components/LeaksRumors/twitterBanDetail'
+import TwitterBan from './components/LeaksRumors/twitterBanDetail';
+import PubgGliderDetail from './components/GamesSection/pubggliderDetail';
 
 
 
@@ -86,6 +87,7 @@ ReactDOM.render(
    <Route path='/Google-abandons-100000-chest-X-rays-release' exact component={GoogleXray} />
    <Route path='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear' exact component={Jamaica} />
    <Route path='/Twitter-Bans-APNG-Files' exact component={TwitterBan} />
+   <Route path='/PUBG-To-Test-New-Motor-Glider-This-Weekend' exact component={PubgGliderDetail} />
 
 
 
