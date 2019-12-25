@@ -60,6 +60,14 @@ class Home extends Component{
                       </div>
 
                       <Slide bottom>
+                      <NewPost
+                      link='/Xiaomi-dominates-the-midrange-segment-with-k30!'
+                      title='Xiaomi dominates the midrange segment with k30!'
+                      imgsrc='../../img/blog26.jpg'
+                      section='Mobiles' />
+                      </Slide>
+
+                      <Slide bottom>
                         <NewPost
                         link='/Twitter-Bans-APNG-Files'
                         title='Twitter Bans APNG Files'
@@ -236,30 +244,7 @@ class Home extends Component{
                           section='Upcoming Phone' />
                         </Slide>
 
-                       <Slide bottom>
-                          <NewPost
-                          link='laptops/top-5-gaming-laptops-under-rs60000'
-                          title='Top 5 Gaming Laptops Under 60000'
-                          imgsrc='../../img/blog2six.jpg'
-                          section='Laptops' />
-                        </Slide>
 
-                       <Slide bottom>
-                          <NewPost
-                          link='/leaksrumors/harley-davidson-electric-pedal-bikes'
-                          title='Harley-Davidson’s Electric Pedal Bikes'
-                          imgsrc='../../img/blog4.jpg'
-                          section='Leaks & Rumors' />
-                        </Slide>
-
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/gaming-section/overwatch-2'
-                          title='OVERWATCH2'
-                          imgsrc='../../img/blog3.png'
-                          section='Games Section' />
-                        </Slide>
 
 
 

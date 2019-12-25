@@ -41,6 +41,7 @@ import GoogleXray from './components/LeaksRumors/googlexrayDetail';
 import Jamaica from './components/HeadphoneEarphones/jamaicaDetail';
 import TwitterBan from './components/LeaksRumors/twitterBanDetail';
 import PubgGliderDetail from './components/GamesSection/pubggliderDetail';
+import XiaomiDetail from './components/Phones/xiaomiDetail'
 
 
 
@@ -88,6 +89,7 @@ ReactDOM.render(
    <Route path='/House-Of-Marley-Smile-Jamaica-EM-JE041-SB-in-ear' exact component={Jamaica} />
    <Route path='/Twitter-Bans-APNG-Files' exact component={TwitterBan} />
    <Route path='/PUBG-To-Test-New-Motor-Glider-This-Weekend' exact component={PubgGliderDetail} />
+   <Route path='/Xiaomi-dominates-the-midrange-segment-with-k30!' exact component={XiaomiDetail} />
 
 
 
