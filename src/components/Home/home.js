@@ -177,32 +177,8 @@ class Home extends Component{
                           imgsrc='../../img/blog13.jpg'
                           section='Leaks & Rumors' />
                         </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/phones/miui-11-life-gets-easier-Features-and-rollout-dates'
-                          title='MIUI 11 “Life Gets Easier” Features And Rollout Dates '
-                          imgsrc='../../img/blog12.png'
-                          section=' Mobiles' />
-                        </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/laptops/7-ways-to-speed-up-your-laptops'
-                          title='7 Ways To speed up your laptop'
-                          imgsrc='../../img/blog11.jpeg'
-                          section='Laptop' />
-                        </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/leaks-rumors/halo-tv-series-goes-into-production'
-                          title="‘Halo’ TV Series goes into production"
-                          imgsrc='../../img/blog10.jpg'
-                          section='Leaks & Rumors' />
-                        </Slide>
-
  
+
 
 
                </div>
