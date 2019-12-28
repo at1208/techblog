@@ -202,50 +202,7 @@ class Home extends Component{
                           section='Leaks & Rumors' />
                         </Slide>
 
-
-                       <Slide bottom>
-                          <NewPost
-                          link='gaming-section/death-stranding'
-                          title='Death Stranding'
-                          imgsrc='../../img/blog9.png'
-                          section='Gaming Section' />
-                        </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='leaksrumors/Brian-Acton-still-behind-the-idea-of-deleting-Facebook'
-                          title='Brian Acton still behind the idea of deleting Facebook'
-                          imgsrc='../../img/blog7.jpg'
-                          section='Leaks & Rumors' />
-                        </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/phones/best-mobiles-under-5000'
-                          title='Best Mobile Phones Under Rs.5000'
-                          imgsrc='../../img/blog8.png'
-                          section='Mobiles' />
-                        </Slide>
-
-                       <Slide bottom>
-                          <NewPost
-                          link='leaksrumors/Australian-based-start-up-wants-to-map-the-Oceans'
-                          title='Australian-based start-up wants to map the Oceans'
-                          imgsrc='../../img/blog5.jpg'
-                          section='Leaks & Rumors' />
-                        </Slide>
-
-
-                       <Slide bottom>
-                          <NewPost
-                          link='/phones/realme-x2-pro'
-                          title='Realme X2 Pro'
-                          imgsrc='../../img/blog1.png'
-                          section='Upcoming Phone' />
-                        </Slide>
-
-
-
+ 
 
 
                </div>
